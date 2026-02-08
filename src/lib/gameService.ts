@@ -483,10 +483,7 @@ export async function forfeitGame(
         updatedAt: Date.now(),
     });
 
-    // Award points to winner
-    if (winnerId) {
-        await awardWinnerPoints(winnerId);
-    }
+    // Points are now claimed by winner's client via claimWinnerPoints
 }
 
 // Get game by ID
