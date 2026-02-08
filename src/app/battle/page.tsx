@@ -90,7 +90,7 @@ function BattleContent() {
                         </li>
                         <li className="flex items-center gap-2">
                             <span className="text-amber-400">2.</span>
-                            Battle in 6 rounds - one card per round
+                            Battle in 7 rounds - one card per round
                         </li>
                         <li className="flex items-center gap-2">
                             <span className="text-amber-400">3.</span>

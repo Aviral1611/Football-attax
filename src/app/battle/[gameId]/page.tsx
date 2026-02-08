@@ -5,7 +5,7 @@ import { useParams, useRouter } from 'next/navigation';
 import ProtectedRoute from '@/components/ProtectedRoute';
 import { useAuth } from '@/context/AuthContext';
 import { getUserData, getInventoryCards, UserData } from '@/lib/userService';
-import { subscribeToGame, selectCards, playCard, forfeitGame } from '@/lib/gameService';
+import { subscribeToGame, selectCards, playCard, forfeitGame, claimWinnerPoints } from '@/lib/gameService';
 import { getAllPlayers } from '@/lib/packOpening';
 import { GameRoom, StatType, STAT_LABELS, GAME_CONSTANTS } from '@/types/gameTypes';
 import { Player } from '@/types/player';
@@ -222,9 +222,9 @@ function GameRoomContent() {
                     <div className="text-right">
                         <span className="text-gray-400 text-sm">Status:</span>
                         <span className={`ml-2 font-bold ${game.status === 'waiting' ? 'text-yellow-400' :
-                                game.status === 'selecting' ? 'text-blue-400' :
-                                    game.status === 'playing' ? 'text-green-400' :
-                                        'text-purple-400'
+                            game.status === 'selecting' ? 'text-blue-400' :
+                                game.status === 'playing' ? 'text-green-400' :
+                                    'text-purple-400'
                             }`}>
                             {game.status.toUpperCase()}
                         </span>
@@ -270,6 +270,8 @@ function GameRoomContent() {
                         game={game}
                         isPlayer1={isPlayer1}
                         allPlayers={allPlayers}
+                        gameId={gameId}
+                        userId={user?.uid || ''}
                     />
                 )}
             </div>
@@ -352,10 +354,10 @@ function SelectionPhase({
                                 key={card.id}
                                 onClick={() => onSelectCard(card.id)}
                                 className={`cursor-pointer transition-all ${selectedCards.includes(card.id)
-                                        ? 'ring-4 ring-green-500 scale-105'
-                                        : selectedCards.length >= GAME_CONSTANTS.CARDS_PER_GAME
-                                            ? 'opacity-40'
-                                            : 'hover:scale-105'
+                                    ? 'ring-4 ring-green-500 scale-105'
+                                    : selectedCards.length >= GAME_CONSTANTS.CARDS_PER_GAME
+                                        ? 'opacity-40'
+                                        : 'hover:scale-105'
                                     }`}
                             >
                                 <PlayerCard player={card} size="sm" />
@@ -427,7 +429,7 @@ function BattlePhase({
 
                 <div className="text-center">
                     <div className="text-gray-400 text-sm mb-1">Round</div>
-                    <div className="text-4xl font-black text-white">{currentRound}/6</div>
+                    <div className="text-4xl font-black text-white">{currentRound}/{GAME_CONSTANTS.CARDS_PER_GAME}</div>
                 </div>
 
                 <div className="text-center">
@@ -541,17 +543,41 @@ function BattlePhase({
 function FinishedPhase({
     game,
     isPlayer1,
-    allPlayers
+    allPlayers,
+    gameId,
+    userId
 }: {
     game: GameRoom;
     isPlayer1: boolean;
     allPlayers: Player[];
+    gameId: string;
+    userId: string;
 }) {
+    const [pointsClaimed, setPointsClaimed] = useState(false);
+    const [claiming, setClaiming] = useState(false);
+
     const iWon = (isPlayer1 && game.winner === 'player1') || (!isPlayer1 && game.winner === 'player2');
     const isTie = game.winner === null;
 
     const p1Wins = game.rounds?.filter(r => r.winner === 'player1').length || 0;
     const p2Wins = game.rounds?.filter(r => r.winner === 'player2').length || 0;
+
+    // Auto-claim points when winner views this screen
+    useEffect(() => {
+        async function claimPoints() {
+            if (iWon && !pointsClaimed && !claiming) {
+                setClaiming(true);
+                const result = await claimWinnerPoints(gameId, userId);
+                if (result.success) {
+                    setPointsClaimed(true);
+                } else if (result.error === 'Points already claimed') {
+                    setPointsClaimed(true);
+                }
+                setClaiming(false);
+            }
+        }
+        claimPoints();
+    }, [iWon, gameId, userId, pointsClaimed, claiming]);
 
     return (
         <div className="text-center py-12">
@@ -564,7 +590,9 @@ function FinishedPhase({
             </h2>
 
             {iWon && (
-                <p className="text-2xl text-amber-400 mb-6">+{GAME_CONSTANTS.WINNER_POINTS} Points!</p>
+                <p className="text-2xl text-amber-400 mb-6">
+                    {claiming ? '⏳ Claiming...' : pointsClaimed ? '✅' : ''} +{GAME_CONSTANTS.WINNER_POINTS} Points!
+                </p>
             )}
 
             <div className="text-xl text-gray-400 mb-8">

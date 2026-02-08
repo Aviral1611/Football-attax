@@ -346,26 +346,69 @@ export async function playCard(
             updatedAt: now,
         });
 
-        // Award points to winner
-        if (gameWinner) {
-            const winnerId = gameWinner === 'player1' ? game.player1.odId : game.player2!.odId;
-            await awardWinnerPoints(winnerId);
-        }
+        // Points are now claimed by winner's client via claimWinnerPoints
 
         return { success: true };
     }
 }
 
-// Award points to winner
-async function awardWinnerPoints(oduserId: string): Promise<void> {
+// Claim points as the winner (called by winner's client)
+export async function claimWinnerPoints(
+    gameId: string,
+    userId: string
+): Promise<{ success: boolean; error?: string }> {
     try {
-        const userData = await getUserData(oduserId);
-        const userRef = doc(db, 'users', oduserId);
+        const gameRef = ref(rtdb, `games/${gameId}`);
+        const snapshot = await get(gameRef);
+
+        if (!snapshot.exists()) {
+            return { success: false, error: 'Game not found' };
+        }
+
+        const game = snapshot.val() as GameRoom;
+
+        // Check if game is finished
+        if (game.status !== 'finished') {
+            return { success: false, error: 'Game is not finished' };
+        }
+
+        // Check if this user is the winner
+        const isPlayer1 = game.player1?.odId === userId;
+        const isPlayer2 = game.player2?.odId === userId;
+
+        if (!isPlayer1 && !isPlayer2) {
+            return { success: false, error: 'You are not in this game' };
+        }
+
+        const isWinner = (isPlayer1 && game.winner === 'player1') ||
+            (isPlayer2 && game.winner === 'player2');
+
+        if (!isWinner) {
+            return { success: false, error: 'You did not win this game' };
+        }
+
+        // Check if points were already claimed
+        const pointsClaimedKey = isPlayer1 ? 'player1PointsClaimed' : 'player2PointsClaimed';
+        if ((game as any)[pointsClaimedKey]) {
+            return { success: false, error: 'Points already claimed' };
+        }
+
+        // Get user data and add points
+        const userData = await getUserData(userId);
+        const userRef = doc(db, 'users', userId);
         await updateDoc(userRef, {
             points: userData.points + GAME_CONSTANTS.WINNER_POINTS,
         });
+
+        // Mark points as claimed
+        await update(gameRef, {
+            [pointsClaimedKey]: true,
+        });
+
+        return { success: true };
     } catch (error) {
-        console.error('Error awarding points:', error);
+        console.error('Error claiming points:', error);
+        return { success: false, error: 'Failed to claim points' };
     }
 }
 

@@ -53,7 +53,7 @@ export type StatType = 'pace' | 'shooting' | 'passing' | 'dribbling' | 'defendin
 
 // Game constants
 export const GAME_CONSTANTS = {
-    CARDS_PER_GAME: 6,
+    CARDS_PER_GAME: 7,
     TURN_TIME_SECONDS: 60,
     WINNER_POINTS: 200,
     CODE_LENGTH: 6,
