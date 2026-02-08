@@ -191,25 +191,28 @@ export async function buyPackWithPoints(
 }> {
     const packPrice = PACK_TYPES[packType].price;
 
-    // Check if user can afford the pack
-    if (userData.points < packPrice) {
+    // IMPORTANT: Fetch fresh user data from Firestore to prevent stale data issues
+    const freshUserData = await getUserData(userId);
+
+    // Check if user can afford the pack with FRESH data
+    if (freshUserData.points < packPrice) {
         return {
             success: false,
             newCards: [],
             duplicates: [],
             pointsEarned: 0,
             pointsSpent: 0,
-            error: `Not enough points! Need ${packPrice}, have ${userData.points}`,
+            error: `Not enough points! Need ${packPrice}, have ${freshUserData.points}`,
         };
     }
 
-    // Separate new cards vs duplicates
+    // Separate new cards vs duplicates using FRESH inventory
     const newCards: Player[] = [];
     const duplicates: Player[] = [];
     let pointsEarned = 0;
 
     for (const card of cards) {
-        if (userData.inventory.includes(card.id)) {
+        if (freshUserData.inventory.includes(card.id)) {
             duplicates.push(card);
             pointsEarned += DUPLICATE_POINTS[card.rarity];
         } else {
@@ -217,15 +220,15 @@ export async function buyPackWithPoints(
         }
     }
 
-    // Calculate net points change: earn from duplicates, spend on pack
-    const netPointsChange = pointsEarned - packPrice;
+    // Calculate final points: current - pack cost + duplicates earned
+    const finalPoints = freshUserData.points - packPrice + pointsEarned;
 
-    // Update Firestore
+    // Update Firestore with fresh inventory
     const userRef = doc(db, 'users', userId);
-    const newInventory = [...userData.inventory, ...newCards.map(c => c.id)];
+    const newInventory = [...freshUserData.inventory, ...newCards.map(c => c.id)];
 
     await updateDoc(userRef, {
-        points: userData.points + netPointsChange,
+        points: finalPoints,
         inventory: newInventory,
     });
 

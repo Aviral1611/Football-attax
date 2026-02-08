@@ -86,7 +86,7 @@ function BattleContent() {
                     <ul className="space-y-2 text-gray-300">
                         <li className="flex items-center gap-2">
                             <span className="text-amber-400">1.</span>
-                            Each player selects 6 cards from their collection
+                            Each player selects 7 cards from their collection
                         </li>
                         <li className="flex items-center gap-2">
                             <span className="text-amber-400">2.</span>
