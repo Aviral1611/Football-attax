@@ -1,0 +1,33 @@
+{
+    "rules": {
+        // Games collection
+        "games": {
+            "$gameId": {
+                // Anyone authenticated can read games they're in
+                ".read": "auth != null && (
+          data.child('player1/odId').val() === auth.uid ||
+          data.child('player2/odId').val() === auth.uid ||
+          data.child('status').val() === 'waiting'
+        )",
+                // Allow create if authenticated (creating a game)
+                ".write": "auth != null && (
+          !data.exists() ||
+          data.child('player1/odId').val() === auth.uid ||
+          data.child('player2/odId').val() === auth.uid
+        )",".validate": "newData.hasChildren(['id', 'code', 'status', 'player1'])"
+            }
+        },
+        // Game codes lookup (for joining games)
+        "gameCodes": {
+            "$code": {
+                ".read": "auth != null",
+                ".write": "auth != null"
+            }
+        },
+        // Block everything else
+        "$other": {
+            ".read": false,
+            ".write": false
+        }
+    }
+}

@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "legend_001",
+    "name": "Pelé",
+    "fullName": "Edson Arantes do Nascimento",
+    "club": "Brazil Legend",
+    "nationality": "Brazil",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 95,
+      "shooting": 96,
+      "passing": 93,
+      "dribbling": 96,
+      "defending": 60,
+      "physical": 76
+    },
+    "overall": 98,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/39.png"
+  },
+  {
+    "id": "legend_002",
+    "name": "D. Maradona",
+    "fullName": "Diego Armando Maradona",
+    "club": "Argentina Legend",
+    "nationality": "Argentina",
+    "position": "CAM",
+    "isLegend": true,
+    "stats": {
+      "pace": 92,
+      "shooting": 90,
+      "passing": 91,
+      "dribbling": 97,
+      "defending": 40,
+      "physical": 70
+    },
+    "overall": 97,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/234.png"
+  },
+  {
+    "id": "legend_003",
+    "name": "Johan Cruyff",
+    "fullName": "Hendrik Johannes Cruijff",
+    "club": "Netherlands Legend",
+    "nationality": "Netherlands",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 90,
+      "shooting": 90,
+      "passing": 93,
+      "dribbling": 96,
+      "defending": 55,
+      "physical": 72
+    },
+    "overall": 96,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/239.png"
+  },
+  {
+    "id": "legend_004",
+    "name": "Zidane",
+    "fullName": "Zinedine Yazid Zidane",
+    "club": "France Legend",
+    "nationality": "France",
+    "position": "CAM",
+    "isLegend": true,
+    "stats": {
+      "pace": 80,
+      "shooting": 86,
+      "passing": 95,
+      "dribbling": 96,
+      "defending": 55,
+      "physical": 78
+    },
+    "overall": 96,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/164.png"
+  },
+  {
+    "id": "legend_005",
+    "name": "Ronaldinho",
+    "fullName": "Ronaldo de Assis Moreira",
+    "club": "Brazil Legend",
+    "nationality": "Brazil",
+    "position": "CAM",
+    "isLegend": true,
+    "stats": {
+      "pace": 91,
+      "shooting": 85,
+      "passing": 91,
+      "dribbling": 97,
+      "defending": 36,
+      "physical": 72
+    },
+    "overall": 95,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/176.png"
+  },
+  {
+    "id": "legend_006",
+    "name": "R9 Ronaldo",
+    "fullName": "Ronaldo Luís Nazário de Lima",
+    "club": "Brazil Legend",
+    "nationality": "Brazil",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 94,
+      "shooting": 95,
+      "passing": 78,
+      "dribbling": 94,
+      "defending": 42,
+      "physical": 80
+    },
+    "overall": 96,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/9.png"
+  },
+  {
+    "id": "legend_007",
+    "name": "Beckenbauer",
+    "fullName": "Franz Beckenbauer",
+    "club": "Germany Legend",
+    "nationality": "Germany",
+    "position": "CB",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 74,
+      "passing": 88,
+      "dribbling": 86,
+      "defending": 92,
+      "physical": 82
+    },
+    "overall": 95,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/229.png"
+  },
+  {
+    "id": "legend_008",
+    "name": "Maldini",
+    "fullName": "Paolo Cesare Maldini",
+    "club": "Italy Legend",
+    "nationality": "Italy",
+    "position": "LB",
+    "isLegend": true,
+    "stats": {
+      "pace": 80,
+      "shooting": 55,
+      "passing": 78,
+      "dribbling": 82,
+      "defending": 96,
+      "physical": 85
+    },
+    "overall": 94,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/93.png"
+  },
+  {
+    "id": "legend_009",
+    "name": "Eusébio",
+    "fullName": "Eusébio da Silva Ferreira",
+    "club": "Portugal Legend",
+    "nationality": "Portugal",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 92,
+      "shooting": 95,
+      "passing": 82,
+      "dribbling": 90,
+      "defending": 48,
+      "physical": 80
+    },
+    "overall": 94,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/233.png"
+  },
+  {
+    "id": "legend_010",
+    "name": "Matthäus",
+    "fullName": "Lothar Herbert Matthäus",
+    "club": "Germany Legend",
+    "nationality": "Germany",
+    "position": "CDM",
+    "isLegend": true,
+    "stats": {
+      "pace": 82,
+      "shooting": 88,
+      "passing": 90,
+      "dribbling": 86,
+      "defending": 88,
+      "physical": 85
+    },
+    "overall": 93,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/89.png"
+  },
+  {
+    "id": "legend_011",
+    "name": "Gullit",
+    "fullName": "Ruud Gullit",
+    "club": "Netherlands Legend",
+    "nationality": "Netherlands",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 80,
+      "shooting": 85,
+      "passing": 85,
+      "dribbling": 88,
+      "defending": 80,
+      "physical": 88
+    },
+    "overall": 93,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/88.png"
+  },
+  {
+    "id": "legend_012",
+    "name": "Van Basten",
+    "fullName": "Marco van Basten",
+    "club": "Netherlands Legend",
+    "nationality": "Netherlands",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 82,
+      "shooting": 95,
+      "passing": 80,
+      "dribbling": 88,
+      "defending": 40,
+      "physical": 82
+    },
+    "overall": 93,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/110.png"
+  },
+  {
+    "id": "legend_013",
+    "name": "George Best",
+    "fullName": "George Best",
+    "club": "Northern Ireland Legend",
+    "nationality": "Northern Ireland",
+    "position": "RW",
+    "isLegend": true,
+    "stats": {
+      "pace": 90,
+      "shooting": 88,
+      "passing": 82,
+      "dribbling": 95,
+      "defending": 45,
+      "physical": 72
+    },
+    "overall": 93,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/226.png"
+  },
+  {
+    "id": "legend_014",
+    "name": "Puskas",
+    "fullName": "Ferenc Puskás",
+    "club": "Hungary Legend",
+    "nationality": "Hungary",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 96,
+      "passing": 88,
+      "dribbling": 90,
+      "defending": 38,
+      "physical": 76
+    },
+    "overall": 94,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/171.png"
+  },
+  {
+    "id": "legend_015",
+    "name": "Platini",
+    "fullName": "Michel François Platini",
+    "club": "France Legend",
+    "nationality": "France",
+    "position": "CAM",
+    "isLegend": true,
+    "stats": {
+      "pace": 75,
+      "shooting": 90,
+      "passing": 92,
+      "dribbling": 90,
+      "defending": 55,
+      "physical": 70
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/94.png"
+  },
+  {
+    "id": "legend_016",
+    "name": "Garrincha",
+    "fullName": "Manuel Francisco dos Santos",
+    "club": "Brazil Legend",
+    "nationality": "Brazil",
+    "position": "RW",
+    "isLegend": true,
+    "stats": {
+      "pace": 94,
+      "shooting": 82,
+      "passing": 80,
+      "dribbling": 96,
+      "defending": 35,
+      "physical": 65
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/86.png"
+  },
+  {
+    "id": "legend_017",
+    "name": "Henry",
+    "fullName": "Thierry Daniel Henry",
+    "club": "France Legend",
+    "nationality": "France",
+    "position": "LW",
+    "isLegend": true,
+    "stats": {
+      "pace": 94,
+      "shooting": 92,
+      "passing": 86,
+      "dribbling": 92,
+      "defending": 40,
+      "physical": 76
+    },
+    "overall": 93,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/118.png"
+  },
+  {
+    "id": "legend_018",
+    "name": "R. Carlos",
+    "fullName": "Roberto Carlos da Silva Rocha",
+    "club": "Brazil Legend",
+    "nationality": "Brazil",
+    "position": "LB",
+    "isLegend": true,
+    "stats": {
+      "pace": 92,
+      "shooting": 82,
+      "passing": 84,
+      "dribbling": 86,
+      "defending": 82,
+      "physical": 80
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/36.png"
+  },
+  {
+    "id": "legend_019",
+    "name": "Cafu",
+    "fullName": "Marcos Evangelista de Moraes",
+    "club": "Brazil Legend",
+    "nationality": "Brazil",
+    "position": "RB",
+    "isLegend": true,
+    "stats": {
+      "pace": 92,
+      "shooting": 64,
+      "passing": 82,
+      "dribbling": 84,
+      "defending": 85,
+      "physical": 82
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/232.png"
+  },
+  {
+    "id": "legend_020",
+    "name": "Xavi",
+    "fullName": "Xavier Hernández Creus",
+    "club": "Spain Legend",
+    "nationality": "Spain",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 68,
+      "shooting": 75,
+      "passing": 96,
+      "dribbling": 90,
+      "defending": 72,
+      "physical": 68
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/116.png"
+  },
+  {
+    "id": "legend_021",
+    "name": "Iniesta",
+    "fullName": "Andrés Iniesta Luján",
+    "club": "Spain Legend",
+    "nationality": "Spain",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 78,
+      "passing": 92,
+      "dribbling": 94,
+      "defending": 65,
+      "physical": 62
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/41.png"
+  },
+  {
+    "id": "legend_022",
+    "name": "Pirlo",
+    "fullName": "Andrea Pirlo",
+    "club": "Italy Legend",
+    "nationality": "Italy",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 60,
+      "shooting": 82,
+      "passing": 95,
+      "dribbling": 88,
+      "defending": 65,
+      "physical": 65
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/94.png"
+  },
+  {
+    "id": "legend_023",
+    "name": "Beckham",
+    "fullName": "David Robert Joseph Beckham",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "RM",
+    "isLegend": true,
+    "stats": {
+      "pace": 76,
+      "shooting": 85,
+      "passing": 94,
+      "dribbling": 84,
+      "defending": 68,
+      "physical": 75
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/127.png"
+  },
+  {
+    "id": "legend_024",
+    "name": "Cannavaro",
+    "fullName": "Fabio Cannavaro",
+    "club": "Italy Legend",
+    "nationality": "Italy",
+    "position": "CB",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 40,
+      "passing": 65,
+      "dribbling": 72,
+      "defending": 94,
+      "physical": 85
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/70.png"
+  },
+  {
+    "id": "legend_025",
+    "name": "Buffon",
+    "fullName": "Gianluigi Buffon",
+    "club": "Italy Legend",
+    "nationality": "Italy",
+    "position": "GK",
+    "isLegend": true,
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/1179.png"
+  },
+  {
+    "id": "legend_026",
+    "name": "Scholes",
+    "fullName": "Paul Scholes",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 68,
+      "shooting": 88,
+      "passing": 90,
+      "dribbling": 84,
+      "defending": 68,
+      "physical": 72
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/109.png"
+  },
+  {
+    "id": "legend_027",
+    "name": "Gerrard",
+    "fullName": "Steven George Gerrard",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 88,
+      "passing": 88,
+      "dribbling": 82,
+      "defending": 76,
+      "physical": 84
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/40.png"
+  },
+  {
+    "id": "legend_028",
+    "name": "Lampard",
+    "fullName": "Frank James Lampard",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 72,
+      "shooting": 90,
+      "passing": 86,
+      "dribbling": 80,
+      "defending": 72,
+      "physical": 78
+    },
+    "overall": 89,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/66.png"
+  },
+  {
+    "id": "legend_029",
+    "name": "Kaka",
+    "fullName": "Ricardo Izecson dos Santos Leite",
+    "club": "Brazil Legend",
+    "nationality": "Brazil",
+    "position": "CAM",
+    "isLegend": true,
+    "stats": {
+      "pace": 88,
+      "shooting": 86,
+      "passing": 88,
+      "dribbling": 92,
+      "defending": 42,
+      "physical": 72
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/42.png"
+  },
+  {
+    "id": "legend_030",
+    "name": "Rivaldo",
+    "fullName": "Rivaldo Vítor Borba Ferreira",
+    "club": "Brazil Legend",
+    "nationality": "Brazil",
+    "position": "CAM",
+    "isLegend": true,
+    "stats": {
+      "pace": 82,
+      "shooting": 92,
+      "passing": 88,
+      "dribbling": 92,
+      "defending": 42,
+      "physical": 74
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/156.png"
+  },
+  {
+    "id": "legend_031",
+    "name": "Romário",
+    "fullName": "Romário de Souza Faria",
+    "club": "Brazil Legend",
+    "nationality": "Brazil",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 88,
+      "shooting": 94,
+      "passing": 75,
+      "dribbling": 92,
+      "defending": 30,
+      "physical": 68
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/175.png"
+  },
+  {
+    "id": "legend_032",
+    "name": "Stoichkov",
+    "fullName": "Hristo Stoichkov",
+    "club": "Bulgaria Legend",
+    "nationality": "Bulgaria",
+    "position": "LW",
+    "isLegend": true,
+    "stats": {
+      "pace": 86,
+      "shooting": 92,
+      "passing": 80,
+      "dribbling": 88,
+      "defending": 40,
+      "physical": 78
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/157.png"
+  },
+  {
+    "id": "legend_033",
+    "name": "Baggio",
+    "fullName": "Roberto Baggio",
+    "club": "Italy Legend",
+    "nationality": "Italy",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 90,
+      "passing": 88,
+      "dribbling": 94,
+      "defending": 35,
+      "physical": 62
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/230.png"
+  },
+  {
+    "id": "legend_034",
+    "name": "Del Piero",
+    "fullName": "Alessandro Del Piero",
+    "club": "Italy Legend",
+    "nationality": "Italy",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 80,
+      "shooting": 92,
+      "passing": 86,
+      "dribbling": 90,
+      "defending": 38,
+      "physical": 68
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/231.png"
+  },
+  {
+    "id": "legend_035",
+    "name": "Totti",
+    "fullName": "Francesco Totti",
+    "club": "Italy Legend",
+    "nationality": "Italy",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 72,
+      "shooting": 90,
+      "passing": 92,
+      "dribbling": 90,
+      "defending": 40,
+      "physical": 72
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/113.png"
+  },
+  {
+    "id": "legend_036",
+    "name": "Shevchenko",
+    "fullName": "Andriy Mykolayovych Shevchenko",
+    "club": "Ukraine Legend",
+    "nationality": "Ukraine",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 88,
+      "shooting": 94,
+      "passing": 76,
+      "dribbling": 86,
+      "defending": 38,
+      "physical": 78
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/159.png"
+  },
+  {
+    "id": "legend_037",
+    "name": "Drogba",
+    "fullName": "Didier Yves Drogba Tébily",
+    "club": "Ivory Coast Legend",
+    "nationality": "Ivory Coast",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 82,
+      "shooting": 90,
+      "passing": 72,
+      "dribbling": 82,
+      "defending": 48,
+      "physical": 92
+    },
+    "overall": 89,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/43.png"
+  },
+  {
+    "id": "legend_038",
+    "name": "Eto'o",
+    "fullName": "Samuel Eto'o Fils",
+    "club": "Cameroon Legend",
+    "nationality": "Cameroon",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 92,
+      "shooting": 90,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 42,
+      "physical": 80
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/68.png"
+  },
+  {
+    "id": "legend_039",
+    "name": "Vieira",
+    "fullName": "Patrick Vieira",
+    "club": "France Legend",
+    "nationality": "France",
+    "position": "CDM",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 74,
+      "passing": 82,
+      "dribbling": 78,
+      "defending": 90,
+      "physical": 92
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/44.png"
+  },
+  {
+    "id": "legend_040",
+    "name": "Rijkaard",
+    "fullName": "Frank Rijkaard",
+    "club": "Netherlands Legend",
+    "nationality": "Netherlands",
+    "position": "CDM",
+    "isLegend": true,
+    "stats": {
+      "pace": 74,
+      "shooting": 72,
+      "passing": 82,
+      "dribbling": 82,
+      "defending": 88,
+      "physical": 86
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/97.png"
+  },
+  {
+    "id": "legend_041",
+    "name": "Seedorf",
+    "fullName": "Clarence Clyde Seedorf",
+    "club": "Netherlands Legend",
+    "nationality": "Netherlands",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 76,
+      "shooting": 86,
+      "passing": 86,
+      "dribbling": 86,
+      "defending": 72,
+      "physical": 82
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/108.png"
+  },
+  {
+    "id": "legend_042",
+    "name": "Nedved",
+    "fullName": "Pavel Nedvěd",
+    "club": "Czech Rep Legend",
+    "nationality": "Czech Republic",
+    "position": "LM",
+    "isLegend": true,
+    "stats": {
+      "pace": 85,
+      "shooting": 88,
+      "passing": 86,
+      "dribbling": 88,
+      "defending": 62,
+      "physical": 80
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/92.png"
+  },
+  {
+    "id": "legend_043",
+    "name": "Figo",
+    "fullName": "Luís Filipe Madeira Caeiro Figo",
+    "club": "Portugal Legend",
+    "nationality": "Portugal",
+    "position": "RW",
+    "isLegend": true,
+    "stats": {
+      "pace": 84,
+      "shooting": 82,
+      "passing": 90,
+      "dribbling": 92,
+      "defending": 48,
+      "physical": 72
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/85.png"
+  },
+  {
+    "id": "legend_044",
+    "name": "Raúl",
+    "fullName": "Raúl González Blanco",
+    "club": "Spain Legend",
+    "nationality": "Spain",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 80,
+      "shooting": 90,
+      "passing": 82,
+      "dribbling": 86,
+      "defending": 40,
+      "physical": 72
+    },
+    "overall": 89,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/26.png"
+  },
+  {
+    "id": "legend_045",
+    "name": "Torres",
+    "fullName": "Fernando José Torres Sanz",
+    "club": "Spain Legend",
+    "nationality": "Spain",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 92,
+      "shooting": 88,
+      "passing": 72,
+      "dribbling": 84,
+      "defending": 38,
+      "physical": 74
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/112.png"
+  },
+  {
+    "id": "legend_046",
+    "name": "Villa",
+    "fullName": "David Villa Sánchez",
+    "club": "Spain Legend",
+    "nationality": "Spain",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 86,
+      "shooting": 92,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 38,
+      "physical": 72
+    },
+    "overall": 89,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/115.png"
+  },
+  {
+    "id": "legend_047",
+    "name": "Puyol",
+    "fullName": "Carles Puyol i Saforcada",
+    "club": "Spain Legend",
+    "nationality": "Spain",
+    "position": "CB",
+    "isLegend": true,
+    "stats": {
+      "pace": 76,
+      "shooting": 42,
+      "passing": 68,
+      "dribbling": 68,
+      "defending": 92,
+      "physical": 88
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/95.png"
+  },
+  {
+    "id": "legend_048",
+    "name": "Ferdinand",
+    "fullName": "Rio Gavin Ferdinand",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "CB",
+    "isLegend": true,
+    "stats": {
+      "pace": 80,
+      "shooting": 45,
+      "passing": 75,
+      "dribbling": 75,
+      "defending": 90,
+      "physical": 86
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/83.png"
+  },
+  {
+    "id": "legend_049",
+    "name": "Terry",
+    "fullName": "John George Terry",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "CB",
+    "isLegend": true,
+    "stats": {
+      "pace": 68,
+      "shooting": 52,
+      "passing": 70,
+      "dribbling": 68,
+      "defending": 92,
+      "physical": 88
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/111.png"
+  },
+  {
+    "id": "legend_050",
+    "name": "Nesta",
+    "fullName": "Alessandro Nesta",
+    "club": "Italy Legend",
+    "nationality": "Italy",
+    "position": "CB",
+    "isLegend": true,
+    "stats": {
+      "pace": 75,
+      "shooting": 38,
+      "passing": 70,
+      "dribbling": 72,
+      "defending": 94,
+      "physical": 84
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/91.png"
+  },
+  {
+    "id": "legend_051",
+    "name": "Baresi",
+    "fullName": "Franco Baresi",
+    "club": "Italy Legend",
+    "nationality": "Italy",
+    "position": "CB",
+    "isLegend": true,
+    "stats": {
+      "pace": 76,
+      "shooting": 52,
+      "passing": 78,
+      "dribbling": 78,
+      "defending": 94,
+      "physical": 82
+    },
+    "overall": 93,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/73.png"
+  },
+  {
+    "id": "legend_052",
+    "name": "Moore",
+    "fullName": "Robert Frederick Chelsea Moore",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "CB",
+    "isLegend": true,
+    "stats": {
+      "pace": 68,
+      "shooting": 48,
+      "passing": 80,
+      "dribbling": 75,
+      "defending": 92,
+      "physical": 80
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/21.png"
+  },
+  {
+    "id": "legend_053",
+    "name": "Yashin",
+    "fullName": "Lev Ivanovich Yashin",
+    "club": "Russia Legend",
+    "nationality": "Russia",
+    "position": "GK",
+    "isLegend": true,
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 94,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/119.png"
+  },
+  {
+    "id": "legend_054",
+    "name": "Schmeichel",
+    "fullName": "Peter Bolesław Schmeichel",
+    "club": "Denmark Legend",
+    "nationality": "Denmark",
+    "position": "GK",
+    "isLegend": true,
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/106.png"
+  },
+  {
+    "id": "legend_055",
+    "name": "Kahn",
+    "fullName": "Oliver Rolf Kahn",
+    "club": "Germany Legend",
+    "nationality": "Germany",
+    "position": "GK",
+    "isLegend": true,
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/63.png"
+  },
+  {
+    "id": "legend_056",
+    "name": "Casillas",
+    "fullName": "Iker Casillas Fernández",
+    "club": "Spain Legend",
+    "nationality": "Spain",
+    "position": "GK",
+    "isLegend": true,
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/78.png"
+  },
+  {
+    "id": "legend_057",
+    "name": "Van der Sar",
+    "fullName": "Edwin van der Sar",
+    "club": "Netherlands Legend",
+    "nationality": "Netherlands",
+    "position": "GK",
+    "isLegend": true,
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/114.png"
+  },
+  {
+    "id": "legend_058",
+    "name": "Cech",
+    "fullName": "Petr Čech",
+    "club": "Czech Rep Legend",
+    "nationality": "Czech Republic",
+    "position": "GK",
+    "isLegend": true,
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/80.png"
+  },
+  {
+    "id": "legend_059",
+    "name": "Owen",
+    "fullName": "Michael James Owen",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 94,
+      "shooting": 90,
+      "passing": 70,
+      "dribbling": 86,
+      "defending": 32,
+      "physical": 68
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/22.png"
+  },
+  {
+    "id": "legend_060",
+    "name": "Rooney",
+    "fullName": "Wayne Mark Rooney",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 82,
+      "shooting": 90,
+      "passing": 82,
+      "dribbling": 84,
+      "defending": 52,
+      "physical": 86
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/186.png"
+  },
+  {
+    "id": "legend_061",
+    "name": "Bergkamp",
+    "fullName": "Dennis Nicolaas Maria Bergkamp",
+    "club": "Netherlands Legend",
+    "nationality": "Netherlands",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 76,
+      "shooting": 88,
+      "passing": 90,
+      "dribbling": 94,
+      "defending": 42,
+      "physical": 70
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/74.png"
+  },
+  {
+    "id": "legend_062",
+    "name": "Larsson",
+    "fullName": "Henrik Edward Larsson",
+    "club": "Sweden Legend",
+    "nationality": "Sweden",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 86,
+      "shooting": 88,
+      "passing": 76,
+      "dribbling": 86,
+      "defending": 38,
+      "physical": 72
+    },
+    "overall": 87,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/65.png"
+  },
+  {
+    "id": "legend_063",
+    "name": "Lineker",
+    "fullName": "Gary Winston Lineker",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 88,
+      "shooting": 92,
+      "passing": 68,
+      "dribbling": 82,
+      "defending": 30,
+      "physical": 68
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/67.png"
+  },
+  {
+    "id": "legend_064",
+    "name": "Shearer",
+    "fullName": "Alan Shearer",
+    "club": "England Legend",
+    "nationality": "England",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 94,
+      "passing": 70,
+      "dribbling": 78,
+      "defending": 48,
+      "physical": 88
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/107.png"
+  },
+  {
+    "id": "legend_065",
+    "name": "Klinsmann",
+    "fullName": "Jürgen Klinsmann",
+    "club": "Germany Legend",
+    "nationality": "Germany",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 84,
+      "shooting": 90,
+      "passing": 72,
+      "dribbling": 82,
+      "defending": 42,
+      "physical": 80
+    },
+    "overall": 89,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/64.png"
+  },
+  {
+    "id": "legend_066",
+    "name": "Klose",
+    "fullName": "Miroslav Josef Klose",
+    "club": "Germany Legend",
+    "nationality": "Germany",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 80,
+      "shooting": 90,
+      "passing": 70,
+      "dribbling": 78,
+      "defending": 42,
+      "physical": 82
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/62.png"
+  },
+  {
+    "id": "legend_067",
+    "name": "Ballack",
+    "fullName": "Michael Ballack",
+    "club": "Germany Legend",
+    "nationality": "Germany",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 76,
+      "shooting": 88,
+      "passing": 84,
+      "dribbling": 80,
+      "defending": 78,
+      "physical": 86
+    },
+    "overall": 89,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/71.png"
+  },
+  {
+    "id": "legend_068",
+    "name": "Schweinsteiger",
+    "fullName": "Bastian Schweinsteiger",
+    "club": "Germany Legend",
+    "nationality": "Germany",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 74,
+      "shooting": 80,
+      "passing": 88,
+      "dribbling": 82,
+      "defending": 82,
+      "physical": 80
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/158.png"
+  },
+  {
+    "id": "legend_069",
+    "name": "Lahm",
+    "fullName": "Philipp Lahm",
+    "club": "Germany Legend",
+    "nationality": "Germany",
+    "position": "RB",
+    "isLegend": true,
+    "stats": {
+      "pace": 82,
+      "shooting": 62,
+      "passing": 86,
+      "dribbling": 84,
+      "defending": 88,
+      "physical": 72
+    },
+    "overall": 90,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/90.png"
+  },
+  {
+    "id": "legend_070",
+    "name": "Zanetti",
+    "fullName": "Javier Adelmar Zanetti",
+    "club": "Argentina Legend",
+    "nationality": "Argentina",
+    "position": "RB",
+    "isLegend": true,
+    "stats": {
+      "pace": 84,
+      "shooting": 58,
+      "passing": 82,
+      "dribbling": 84,
+      "defending": 86,
+      "physical": 80
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/120.png"
+  },
+  {
+    "id": "legend_071",
+    "name": "Sergio Ramos",
+    "fullName": "Sergio Ramos García",
+    "club": "Spain Legend",
+    "nationality": "Spain",
+    "position": "CB",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 60,
+      "passing": 72,
+      "dribbling": 74,
+      "defending": 92,
+      "physical": 88
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.sofifa.net/players/155/862/24_120.png"
+  },
+  {
+    "id": "legend_072",
+    "name": "Suárez",
+    "fullName": "Luis Alberto Suárez Díaz",
+    "club": "Uruguay Legend",
+    "nationality": "Uruguay",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 82,
+      "shooting": 92,
+      "passing": 82,
+      "dribbling": 88,
+      "defending": 48,
+      "physical": 84
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.sofifa.net/players/176/580/24_120.png"
+  },
+  {
+    "id": "legend_073",
+    "name": "Cavani",
+    "fullName": "Edinson Roberto Cavani Gómez",
+    "club": "Uruguay Legend",
+    "nationality": "Uruguay",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 84,
+      "shooting": 90,
+      "passing": 72,
+      "dribbling": 82,
+      "defending": 48,
+      "physical": 82
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.sofifa.net/players/186/153/24_120.png"
+  },
+  {
+    "id": "legend_074",
+    "name": "Ibrahimović",
+    "fullName": "Zlatan Ibrahimović",
+    "club": "Sweden Legend",
+    "nationality": "Sweden",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 92,
+      "passing": 80,
+      "dribbling": 90,
+      "defending": 42,
+      "physical": 86
+    },
+    "overall": 92,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.sofifa.net/players/041/236/24_120.png"
+  },
+  {
+    "id": "legend_075",
+    "name": "Batistuta",
+    "fullName": "Gabriel Omar Batistuta",
+    "club": "Argentina Legend",
+    "nationality": "Argentina",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 82,
+      "shooting": 94,
+      "passing": 72,
+      "dribbling": 82,
+      "defending": 38,
+      "physical": 86
+    },
+    "overall": 91,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/172.png"
+  },
+  {
+    "id": "legend_076",
+    "name": "Crespo",
+    "fullName": "Hernán Jorge Crespo",
+    "club": "Argentina Legend",
+    "nationality": "Argentina",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 84,
+      "shooting": 90,
+      "passing": 70,
+      "dribbling": 82,
+      "defending": 38,
+      "physical": 80
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/79.png"
+  },
+  {
+    "id": "legend_077",
+    "name": "Veron",
+    "fullName": "Juan Sebastián Verón",
+    "club": "Argentina Legend",
+    "nationality": "Argentina",
+    "position": "CM",
+    "isLegend": true,
+    "stats": {
+      "pace": 72,
+      "shooting": 84,
+      "passing": 90,
+      "dribbling": 84,
+      "defending": 68,
+      "physical": 78
+    },
+    "overall": 88,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/189.png"
+  },
+  {
+    "id": "legend_078",
+    "name": "Riquelme",
+    "fullName": "Juan Román Riquelme",
+    "club": "Argentina Legend",
+    "nationality": "Argentina",
+    "position": "CAM",
+    "isLegend": true,
+    "stats": {
+      "pace": 62,
+      "shooting": 82,
+      "passing": 92,
+      "dribbling": 92,
+      "defending": 40,
+      "physical": 68
+    },
+    "overall": 89,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/99.png"
+  },
+  {
+    "id": "legend_079",
+    "name": "Di Stéfano",
+    "fullName": "Alfredo Di Stéfano",
+    "club": "Argentina Legend",
+    "nationality": "Argentina",
+    "position": "CF",
+    "isLegend": true,
+    "stats": {
+      "pace": 82,
+      "shooting": 92,
+      "passing": 88,
+      "dribbling": 90,
+      "defending": 60,
+      "physical": 78
+    },
+    "overall": 95,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/235.png"
+  },
+  {
+    "id": "legend_080",
+    "name": "Gerd Müller",
+    "fullName": "Gerhard Müller",
+    "club": "Germany Legend",
+    "nationality": "Germany",
+    "position": "ST",
+    "isLegend": true,
+    "stats": {
+      "pace": 78,
+      "shooting": 96,
+      "passing": 68,
+      "dribbling": 82,
+      "defending": 32,
+      "physical": 80
+    },
+    "overall": 94,
+    "rarity": "icon",
+    "photoUrl": "https://cdn.futwiz.com/assets/img/fc24/faces/228.png"
+  }
+]

@@ -1,0 +1,97 @@
+const fs = require('fs');
+const legends = require('./src/data/legends.json');
+
+// FIFA FUT Icons photo URLs (using futwiz CDN for icons)
+const legendPhotos = {
+    'Pelé': 'https://cdn.futwiz.com/assets/img/fc24/faces/39.png',
+    'D. Maradona': 'https://cdn.futwiz.com/assets/img/fc24/faces/234.png',
+    'Johan Cruyff': 'https://cdn.futwiz.com/assets/img/fc24/faces/239.png',
+    'Zidane': 'https://cdn.futwiz.com/assets/img/fc24/faces/164.png',
+    'Ronaldinho': 'https://cdn.futwiz.com/assets/img/fc24/faces/176.png',
+    'R9 Ronaldo': 'https://cdn.futwiz.com/assets/img/fc24/faces/9.png',
+    'Beckenbauer': 'https://cdn.futwiz.com/assets/img/fc24/faces/229.png',
+    'Maldini': 'https://cdn.futwiz.com/assets/img/fc24/faces/93.png',
+    'Eusébio': 'https://cdn.futwiz.com/assets/img/fc24/faces/233.png',
+    'Matthäus': 'https://cdn.futwiz.com/assets/img/fc24/faces/89.png',
+    'Gullit': 'https://cdn.futwiz.com/assets/img/fc24/faces/88.png',
+    'Van Basten': 'https://cdn.futwiz.com/assets/img/fc24/faces/110.png',
+    'George Best': 'https://cdn.futwiz.com/assets/img/fc24/faces/226.png',
+    'Puskas': 'https://cdn.futwiz.com/assets/img/fc24/faces/171.png',
+    'Platini': 'https://cdn.futwiz.com/assets/img/fc24/faces/94.png',
+    'Garrincha': 'https://cdn.futwiz.com/assets/img/fc24/faces/86.png',
+    'Henry': 'https://cdn.futwiz.com/assets/img/fc24/faces/118.png',
+    'R. Carlos': 'https://cdn.futwiz.com/assets/img/fc24/faces/36.png',
+    'Cafu': 'https://cdn.futwiz.com/assets/img/fc24/faces/232.png',
+    'Xavi': 'https://cdn.futwiz.com/assets/img/fc24/faces/116.png',
+    'Iniesta': 'https://cdn.futwiz.com/assets/img/fc24/faces/41.png',
+    'Pirlo': 'https://cdn.futwiz.com/assets/img/fc24/faces/94.png',
+    'Beckham': 'https://cdn.futwiz.com/assets/img/fc24/faces/127.png',
+    'Cannavaro': 'https://cdn.futwiz.com/assets/img/fc24/faces/70.png',
+    'Buffon': 'https://cdn.futwiz.com/assets/img/fc24/faces/1179.png',
+    'Scholes': 'https://cdn.futwiz.com/assets/img/fc24/faces/109.png',
+    'Gerrard': 'https://cdn.futwiz.com/assets/img/fc24/faces/40.png',
+    'Lampard': 'https://cdn.futwiz.com/assets/img/fc24/faces/66.png',
+    'Kaka': 'https://cdn.futwiz.com/assets/img/fc24/faces/42.png',
+    'Rivaldo': 'https://cdn.futwiz.com/assets/img/fc24/faces/156.png',
+    'Romário': 'https://cdn.futwiz.com/assets/img/fc24/faces/175.png',
+    'Stoichkov': 'https://cdn.futwiz.com/assets/img/fc24/faces/157.png',
+    'Baggio': 'https://cdn.futwiz.com/assets/img/fc24/faces/230.png',
+    'Del Piero': 'https://cdn.futwiz.com/assets/img/fc24/faces/231.png',
+    'Totti': 'https://cdn.futwiz.com/assets/img/fc24/faces/113.png',
+    'Shevchenko': 'https://cdn.futwiz.com/assets/img/fc24/faces/159.png',
+    'Drogba': 'https://cdn.futwiz.com/assets/img/fc24/faces/43.png',
+    "Eto'o": 'https://cdn.futwiz.com/assets/img/fc24/faces/68.png',
+    'Vieira': 'https://cdn.futwiz.com/assets/img/fc24/faces/44.png',
+    'Rijkaard': 'https://cdn.futwiz.com/assets/img/fc24/faces/97.png',
+    'Seedorf': 'https://cdn.futwiz.com/assets/img/fc24/faces/108.png',
+    'Nedved': 'https://cdn.futwiz.com/assets/img/fc24/faces/92.png',
+    'Figo': 'https://cdn.futwiz.com/assets/img/fc24/faces/85.png',
+    'Raúl': 'https://cdn.futwiz.com/assets/img/fc24/faces/26.png',
+    'Torres': 'https://cdn.futwiz.com/assets/img/fc24/faces/112.png',
+    'Villa': 'https://cdn.futwiz.com/assets/img/fc24/faces/115.png',
+    'Puyol': 'https://cdn.futwiz.com/assets/img/fc24/faces/95.png',
+    'Ferdinand': 'https://cdn.futwiz.com/assets/img/fc24/faces/83.png',
+    'Terry': 'https://cdn.futwiz.com/assets/img/fc24/faces/111.png',
+    'Nesta': 'https://cdn.futwiz.com/assets/img/fc24/faces/91.png',
+    'Baresi': 'https://cdn.futwiz.com/assets/img/fc24/faces/73.png',
+    'Moore': 'https://cdn.futwiz.com/assets/img/fc24/faces/21.png',
+    'Yashin': 'https://cdn.futwiz.com/assets/img/fc24/faces/119.png',
+    'Schmeichel': 'https://cdn.futwiz.com/assets/img/fc24/faces/106.png',
+    'Kahn': 'https://cdn.futwiz.com/assets/img/fc24/faces/63.png',
+    'Casillas': 'https://cdn.futwiz.com/assets/img/fc24/faces/78.png',
+    'Van der Sar': 'https://cdn.futwiz.com/assets/img/fc24/faces/114.png',
+    'Cech': 'https://cdn.futwiz.com/assets/img/fc24/faces/80.png',
+    'Owen': 'https://cdn.futwiz.com/assets/img/fc24/faces/22.png',
+    'Rooney': 'https://cdn.futwiz.com/assets/img/fc24/faces/186.png',
+    'Bergkamp': 'https://cdn.futwiz.com/assets/img/fc24/faces/74.png',
+    'Larsson': 'https://cdn.futwiz.com/assets/img/fc24/faces/65.png',
+    'Lineker': 'https://cdn.futwiz.com/assets/img/fc24/faces/67.png',
+    'Shearer': 'https://cdn.futwiz.com/assets/img/fc24/faces/107.png',
+    'Klinsmann': 'https://cdn.futwiz.com/assets/img/fc24/faces/64.png',
+    'Klose': 'https://cdn.futwiz.com/assets/img/fc24/faces/62.png',
+    'Ballack': 'https://cdn.futwiz.com/assets/img/fc24/faces/71.png',
+    'Schweinsteiger': 'https://cdn.futwiz.com/assets/img/fc24/faces/158.png',
+    'Lahm': 'https://cdn.futwiz.com/assets/img/fc24/faces/90.png',
+    'Zanetti': 'https://cdn.futwiz.com/assets/img/fc24/faces/120.png',
+    'Sergio Ramos': 'https://cdn.sofifa.net/players/155/862/24_120.png',
+    'Suárez': 'https://cdn.sofifa.net/players/176/580/24_120.png',
+    'Cavani': 'https://cdn.sofifa.net/players/186/153/24_120.png',
+    'Ibrahimović': 'https://cdn.sofifa.net/players/041/236/24_120.png',
+    'Batistuta': 'https://cdn.futwiz.com/assets/img/fc24/faces/172.png',
+    'Crespo': 'https://cdn.futwiz.com/assets/img/fc24/faces/79.png',
+    'Veron': 'https://cdn.futwiz.com/assets/img/fc24/faces/189.png',
+    'Riquelme': 'https://cdn.futwiz.com/assets/img/fc24/faces/99.png',
+    'Di Stéfano': 'https://cdn.futwiz.com/assets/img/fc24/faces/235.png',
+    'Gerd Müller': 'https://cdn.futwiz.com/assets/img/fc24/faces/228.png'
+};
+
+const updated = legends.map(legend => {
+    if (legendPhotos[legend.name]) {
+        return { ...legend, photoUrl: legendPhotos[legend.name] };
+    }
+    return legend;
+});
+
+fs.writeFileSync('./src/data/legends.json', JSON.stringify(updated, null, 2));
+console.log('Updated', Object.keys(legendPhotos).length, 'legends with photos');
+console.log('Legends without photos:', updated.filter(l => !l.photoUrl).map(l => l.name));

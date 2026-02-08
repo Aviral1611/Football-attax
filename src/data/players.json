@@ -1,0 +1,8002 @@
+[
+  {
+    "id": "card_001",
+    "fifaId": "231747",
+    "name": "K. Mbappé",
+    "fullName": "Kylian Mbappé Lottin",
+    "club": "Paris Saint Germain",
+    "nationality": "France",
+    "position": "ST",
+    "photoUrl": "/api/player-image/231747",
+    "stats": {
+      "pace": 97,
+      "shooting": 90,
+      "passing": 80,
+      "dribbling": 92,
+      "defending": 36,
+      "physical": 78
+    },
+    "overall": 91,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_002",
+    "fifaId": "239085",
+    "name": "E. Haaland",
+    "fullName": "Erling Braut Haaland",
+    "club": "Manchester City",
+    "nationality": "Norway",
+    "position": "ST",
+    "photoUrl": "/api/player-image/239085",
+    "stats": {
+      "pace": 89,
+      "shooting": 93,
+      "passing": 66,
+      "dribbling": 80,
+      "defending": 45,
+      "physical": 88
+    },
+    "overall": 91,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_003",
+    "fifaId": "192985",
+    "name": "K. De Bruyne",
+    "fullName": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "nationality": "Belgium",
+    "position": "CM",
+    "photoUrl": "/api/player-image/192985",
+    "stats": {
+      "pace": 72,
+      "shooting": 88,
+      "passing": 94,
+      "dribbling": 87,
+      "defending": 65,
+      "physical": 78
+    },
+    "overall": 91,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_004",
+    "fifaId": "158023",
+    "name": "L. Messi",
+    "fullName": "Lionel Andrés Messi Cuccittini",
+    "club": "Inter Miami",
+    "nationality": "Argentina",
+    "position": "CF",
+    "photoUrl": "/api/player-image/158023",
+    "stats": {
+      "pace": 80,
+      "shooting": 87,
+      "passing": 90,
+      "dribbling": 94,
+      "defending": 33,
+      "physical": 64
+    },
+    "overall": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_005",
+    "fifaId": "165153",
+    "name": "K. Benzema",
+    "fullName": "Karim Benzema",
+    "club": "Al Ittihad",
+    "nationality": "France",
+    "position": "CF",
+    "photoUrl": "/api/player-image/165153",
+    "stats": {
+      "pace": 79,
+      "shooting": 88,
+      "passing": 83,
+      "dribbling": 87,
+      "defending": 39,
+      "physical": 78
+    },
+    "overall": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_006",
+    "fifaId": "188545",
+    "name": "R. Lewandowski",
+    "fullName": "Robert Lewandowski",
+    "club": "FC Barcelona",
+    "nationality": "Poland",
+    "position": "ST",
+    "photoUrl": "/api/player-image/188545",
+    "stats": {
+      "pace": 75,
+      "shooting": 91,
+      "passing": 80,
+      "dribbling": 87,
+      "defending": 44,
+      "physical": 84
+    },
+    "overall": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_007",
+    "fifaId": "192119",
+    "name": "T. Courtois",
+    "fullName": "Thibaut Nicolas Marc Courtois",
+    "club": "Real Madrid",
+    "nationality": "Belgium",
+    "position": "GK",
+    "photoUrl": "/api/player-image/192119",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_008",
+    "fifaId": "202126",
+    "name": "H. Kane",
+    "fullName": "Harry Kane",
+    "club": "FC Bayern München",
+    "nationality": "England",
+    "position": "ST",
+    "photoUrl": "/api/player-image/202126",
+    "stats": {
+      "pace": 69,
+      "shooting": 93,
+      "passing": 84,
+      "dribbling": 83,
+      "defending": 49,
+      "physical": 83
+    },
+    "overall": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_009",
+    "fifaId": "238794",
+    "name": "Vini Jr.",
+    "fullName": "Vinícius José Paixão de Oliveira Júnior",
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "LW",
+    "photoUrl": "/api/player-image/238794",
+    "stats": {
+      "pace": 95,
+      "shooting": 82,
+      "passing": 78,
+      "dribbling": 90,
+      "defending": 29,
+      "physical": 68
+    },
+    "overall": 89,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_010",
+    "fifaId": "212831",
+    "name": "Alisson",
+    "fullName": "Alisson Ramsés Becker",
+    "club": "Liverpool",
+    "nationality": "Brazil",
+    "position": "GK",
+    "photoUrl": "/api/player-image/212831",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 89,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_011",
+    "fifaId": "231866",
+    "name": "Rodri",
+    "fullName": "Rodrigo Hernández Cascante",
+    "club": "Manchester City",
+    "nationality": "Spain",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/231866",
+    "stats": {
+      "pace": 58,
+      "shooting": 73,
+      "passing": 80,
+      "dribbling": 80,
+      "defending": 85,
+      "physical": 84
+    },
+    "overall": 89,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_012",
+    "fifaId": "239818",
+    "name": "Rúben Dias",
+    "fullName": "Rúben dos Santos Gato Alves Dias",
+    "club": "Manchester City",
+    "nationality": "Portugal",
+    "position": "CB",
+    "photoUrl": "/api/player-image/239818",
+    "stats": {
+      "pace": 62,
+      "shooting": 39,
+      "passing": 66,
+      "dribbling": 69,
+      "defending": 89,
+      "physical": 87
+    },
+    "overall": 89,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_013",
+    "fifaId": "190871",
+    "name": "Neymar Jr",
+    "fullName": "Neymar da Silva Santos Júnior",
+    "club": "Al Hilal",
+    "nationality": "Brazil",
+    "position": "LW",
+    "photoUrl": "/api/player-image/190871",
+    "stats": {
+      "pace": 86,
+      "shooting": 83,
+      "passing": 85,
+      "dribbling": 93,
+      "defending": 37,
+      "physical": 61
+    },
+    "overall": 89,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_014",
+    "fifaId": "192448",
+    "name": "M. ter Stegen",
+    "fullName": "Marc-André ter Stegen",
+    "club": "FC Barcelona",
+    "nationality": "Germany",
+    "position": "GK",
+    "photoUrl": "/api/player-image/192448",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 89,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_015",
+    "fifaId": "200145",
+    "name": "Casemiro",
+    "fullName": "Carlos Henrique Venancio Casimiro",
+    "club": "Manchester United",
+    "nationality": "Brazil",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/200145",
+    "stats": {
+      "pace": 63,
+      "shooting": 75,
+      "passing": 79,
+      "dribbling": 73,
+      "defending": 89,
+      "physical": 88
+    },
+    "overall": 89,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_016",
+    "fifaId": "203376",
+    "name": "V. van Dijk",
+    "fullName": "Virgil van Dijk",
+    "club": "Liverpool",
+    "nationality": "Netherlands",
+    "position": "CB",
+    "photoUrl": "/api/player-image/203376",
+    "stats": {
+      "pace": 78,
+      "shooting": 60,
+      "passing": 71,
+      "dribbling": 72,
+      "defending": 89,
+      "physical": 86
+    },
+    "overall": 89,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_017",
+    "fifaId": "209331",
+    "name": "M. Salah",
+    "fullName": "Mohamed Salah Ghaly",
+    "club": "Liverpool",
+    "nationality": "Egypt",
+    "position": "RW",
+    "photoUrl": "/api/player-image/209331",
+    "stats": {
+      "pace": 89,
+      "shooting": 87,
+      "passing": 81,
+      "dribbling": 88,
+      "defending": 45,
+      "physical": 76
+    },
+    "overall": 89,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_018",
+    "fifaId": "239053",
+    "name": "F. Valverde",
+    "fullName": "Federico Santiago Valverde Dipetta",
+    "club": "Real Madrid",
+    "nationality": "Uruguay",
+    "position": "CM",
+    "photoUrl": "/api/player-image/239053",
+    "stats": {
+      "pace": 88,
+      "shooting": 82,
+      "passing": 84,
+      "dribbling": 84,
+      "defending": 80,
+      "physical": 82
+    },
+    "overall": 88,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_019",
+    "fifaId": "232293",
+    "name": "V. Osimhen",
+    "fullName": "Victor James Osimhen",
+    "club": "Napoli",
+    "nationality": "Nigeria",
+    "position": "ST",
+    "photoUrl": "/api/player-image/232293",
+    "stats": {
+      "pace": 90,
+      "shooting": 86,
+      "passing": 66,
+      "dribbling": 83,
+      "defending": 42,
+      "physical": 82
+    },
+    "overall": 88,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_020",
+    "fifaId": "210257",
+    "name": "Ederson",
+    "fullName": "Ederson Santana de Moraes",
+    "club": "Manchester City",
+    "nationality": "Brazil",
+    "position": "GK",
+    "photoUrl": "/api/player-image/210257",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 88,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_021",
+    "fifaId": "212622",
+    "name": "J. Kimmich",
+    "fullName": "Joshua Walter Kimmich",
+    "club": "FC Bayern München",
+    "nationality": "Germany",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/212622",
+    "stats": {
+      "pace": 70,
+      "shooting": 74,
+      "passing": 88,
+      "dribbling": 84,
+      "defending": 82,
+      "physical": 79
+    },
+    "overall": 88,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_022",
+    "fifaId": "194765",
+    "name": "A. Griezmann",
+    "fullName": "Antoine Griezmann",
+    "club": "Atlético Madrid",
+    "nationality": "France",
+    "position": "ST",
+    "photoUrl": "/api/player-image/194765",
+    "stats": {
+      "pace": 80,
+      "shooting": 88,
+      "passing": 87,
+      "dribbling": 88,
+      "defending": 58,
+      "physical": 75
+    },
+    "overall": 88,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_023",
+    "fifaId": "200389",
+    "name": "J. Oblak",
+    "fullName": "Jan Oblak",
+    "club": "Atlético Madrid",
+    "nationality": "Slovenia",
+    "position": "GK",
+    "photoUrl": "/api/player-image/200389",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 88,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_024",
+    "fifaId": "212198",
+    "name": "Bruno Fernandes",
+    "fullName": "Bruno Miguel Borges Fernandes",
+    "club": "Manchester United",
+    "nationality": "Portugal",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/212198",
+    "stats": {
+      "pace": 71,
+      "shooting": 86,
+      "passing": 90,
+      "dribbling": 83,
+      "defending": 69,
+      "physical": 77
+    },
+    "overall": 88,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_025",
+    "fifaId": "218667",
+    "name": "Bernardo Silva",
+    "fullName": "Bernardo Mota Veiga de Carvalho e Silva",
+    "club": "Manchester City",
+    "nationality": "Portugal",
+    "position": "CM",
+    "photoUrl": "/api/player-image/218667",
+    "stats": {
+      "pace": 69,
+      "shooting": 78,
+      "passing": 86,
+      "dribbling": 92,
+      "defending": 70,
+      "physical": 69
+    },
+    "overall": 88,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_026",
+    "fifaId": "222665",
+    "name": "M. Ødegaard",
+    "fullName": "Martin Ødegaard",
+    "club": "Arsenal",
+    "nationality": "Norway",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/222665",
+    "stats": {
+      "pace": 72,
+      "shooting": 81,
+      "passing": 88,
+      "dribbling": 87,
+      "defending": 61,
+      "physical": 64
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_027",
+    "fifaId": "228702",
+    "name": "F. de Jong",
+    "fullName": "Frenkie de Jong",
+    "club": "FC Barcelona",
+    "nationality": "Netherlands",
+    "position": "CM",
+    "photoUrl": "/api/player-image/228702",
+    "stats": {
+      "pace": 82,
+      "shooting": 69,
+      "passing": 86,
+      "dribbling": 87,
+      "defending": 77,
+      "physical": 78
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_028",
+    "fifaId": "230621",
+    "name": "G. Donnarumma",
+    "fullName": "Gianluigi Donnarumma",
+    "club": "Paris Saint Germain",
+    "nationality": "Italy",
+    "position": "GK",
+    "photoUrl": "/api/player-image/230621",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_029",
+    "fifaId": "231478",
+    "name": "L. Martínez",
+    "fullName": "Lautaro Javier Martínez",
+    "club": "Inter",
+    "nationality": "Argentina",
+    "position": "ST",
+    "photoUrl": "/api/player-image/231478",
+    "stats": {
+      "pace": 80,
+      "shooting": 86,
+      "passing": 71,
+      "dribbling": 85,
+      "defending": 48,
+      "physical": 85
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_030",
+    "fifaId": "235073",
+    "name": "G. Kobel",
+    "fullName": "Gregor Kobel",
+    "club": "Borussia Dortmund",
+    "nationality": "Switzerland",
+    "position": "GK",
+    "photoUrl": "/api/player-image/235073",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_031",
+    "fifaId": "215698",
+    "name": "M. Maignan",
+    "fullName": "Mike Maignan",
+    "club": "Milan",
+    "nationality": "France",
+    "position": "GK",
+    "photoUrl": "/api/player-image/215698",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_032",
+    "fifaId": "207865",
+    "name": "Marquinhos",
+    "fullName": "Marcos Aoás Corrêa",
+    "club": "Paris Saint Germain",
+    "nationality": "Brazil",
+    "position": "CB",
+    "photoUrl": "/api/player-image/207865",
+    "stats": {
+      "pace": 78,
+      "shooting": 56,
+      "passing": 75,
+      "dribbling": 74,
+      "defending": 89,
+      "physical": 80
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_033",
+    "fifaId": "167495",
+    "name": "M. Neuer",
+    "fullName": "Manuel Peter Neuer",
+    "club": "FC Bayern München",
+    "nationality": "Germany",
+    "position": "GK",
+    "photoUrl": "/api/player-image/167495",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_034",
+    "fifaId": "177003",
+    "name": "L. Modrić",
+    "fullName": "Luka Modrić",
+    "club": "Real Madrid",
+    "nationality": "Croatia",
+    "position": "CM",
+    "photoUrl": "/api/player-image/177003",
+    "stats": {
+      "pace": 72,
+      "shooting": 76,
+      "passing": 89,
+      "dribbling": 87,
+      "defending": 72,
+      "physical": 66
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_035",
+    "fifaId": "200104",
+    "name": "H. Son",
+    "fullName": "손흥민 孙兴慜",
+    "club": "Tottenham Hotspur",
+    "nationality": "Korea Republic",
+    "position": "LW",
+    "photoUrl": "/api/player-image/200104",
+    "stats": {
+      "pace": 87,
+      "shooting": 88,
+      "passing": 80,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 70
+    },
+    "overall": 87,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_036",
+    "fifaId": "256790",
+    "name": "J. Musiala",
+    "fullName": "Jamal Musiala",
+    "club": "FC Bayern München",
+    "nationality": "Germany",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/256790",
+    "stats": {
+      "pace": 85,
+      "shooting": 75,
+      "passing": 76,
+      "dribbling": 91,
+      "defending": 63,
+      "physical": 61
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_037",
+    "fifaId": "247635",
+    "name": "K. Kvaratskhelia",
+    "fullName": "Khvicha Kvaratskhelia",
+    "club": "Napoli",
+    "nationality": "Georgia",
+    "position": "LW",
+    "photoUrl": "/api/player-image/247635",
+    "stats": {
+      "pace": 84,
+      "shooting": 80,
+      "passing": 81,
+      "dribbling": 87,
+      "defending": 41,
+      "physical": 71
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_038",
+    "fifaId": "251854",
+    "name": "Pedri",
+    "fullName": "Pedro González López",
+    "club": "FC Barcelona",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/251854",
+    "stats": {
+      "pace": 78,
+      "shooting": 69,
+      "passing": 82,
+      "dribbling": 88,
+      "defending": 70,
+      "physical": 74
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_039",
+    "fifaId": "241721",
+    "name": "Rafael Leão",
+    "fullName": "Rafael Alexandre Conceição Leão",
+    "club": "Milan",
+    "nationality": "Portugal",
+    "position": "LW",
+    "photoUrl": "/api/player-image/241721",
+    "stats": {
+      "pace": 93,
+      "shooting": 80,
+      "passing": 75,
+      "dribbling": 87,
+      "defending": 27,
+      "physical": 76
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_040",
+    "fifaId": "252371",
+    "name": "J. Bellingham",
+    "fullName": "Jude Victor William Bellingham",
+    "club": "Real Madrid",
+    "nationality": "England",
+    "position": "CM",
+    "photoUrl": "/api/player-image/252371",
+    "stats": {
+      "pace": 76,
+      "shooting": 78,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 78,
+      "physical": 82
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_041",
+    "fifaId": "253163",
+    "name": "R. Araujo",
+    "fullName": "Ronald Federico Araújo da Silva",
+    "club": "FC Barcelona",
+    "nationality": "Uruguay",
+    "position": "CB",
+    "photoUrl": "/api/player-image/253163",
+    "stats": {
+      "pace": 79,
+      "shooting": 51,
+      "passing": 65,
+      "dribbling": 62,
+      "defending": 86,
+      "physical": 84
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_042",
+    "fifaId": "246669",
+    "name": "B. Saka",
+    "fullName": "Bukayo Saka",
+    "club": "Arsenal",
+    "nationality": "England",
+    "position": "RW",
+    "photoUrl": "/api/player-image/246669",
+    "stats": {
+      "pace": 85,
+      "shooting": 81,
+      "passing": 79,
+      "dribbling": 87,
+      "defending": 60,
+      "physical": 70
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_043",
+    "fifaId": "235243",
+    "name": "M. de Ligt",
+    "fullName": "Matthijs de Ligt",
+    "club": "FC Bayern München",
+    "nationality": "Netherlands",
+    "position": "CB",
+    "photoUrl": "/api/player-image/235243",
+    "stats": {
+      "pace": 66,
+      "shooting": 61,
+      "passing": 64,
+      "dribbling": 68,
+      "defending": 85,
+      "physical": 86
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_044",
+    "fifaId": "240130",
+    "name": "Éder Militão",
+    "fullName": "Éder Gabriel Militão",
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "CB",
+    "photoUrl": "/api/player-image/240130",
+    "stats": {
+      "pace": 85,
+      "shooting": 50,
+      "passing": 69,
+      "dribbling": 71,
+      "defending": 86,
+      "physical": 82
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_045",
+    "fifaId": "241096",
+    "name": "S. Tonali",
+    "fullName": "Sandro Tonali",
+    "club": "Newcastle United",
+    "nationality": "Italy",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/241096",
+    "stats": {
+      "pace": 84,
+      "shooting": 74,
+      "passing": 81,
+      "dribbling": 81,
+      "defending": 82,
+      "physical": 84
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_046",
+    "fifaId": "224232",
+    "name": "N. Barella",
+    "fullName": "Nicolò Barella",
+    "club": "Inter",
+    "nationality": "Italy",
+    "position": "CM",
+    "photoUrl": "/api/player-image/224232",
+    "stats": {
+      "pace": 78,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 85,
+      "defending": 78,
+      "physical": 80
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_047",
+    "fifaId": "231281",
+    "name": "T. Alexander-Arnold",
+    "fullName": "Trent Alexander-Arnold",
+    "club": "Liverpool",
+    "nationality": "England",
+    "position": "RB",
+    "photoUrl": "/api/player-image/231281",
+    "stats": {
+      "pace": 76,
+      "shooting": 69,
+      "passing": 90,
+      "dribbling": 79,
+      "defending": 80,
+      "physical": 73
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_048",
+    "fifaId": "232411",
+    "name": "C. Nkunku",
+    "fullName": "Christopher Nkunku",
+    "club": "Chelsea",
+    "nationality": "France",
+    "position": "CF",
+    "photoUrl": "/api/player-image/232411",
+    "stats": {
+      "pace": 82,
+      "shooting": 81,
+      "passing": 83,
+      "dribbling": 88,
+      "defending": 62,
+      "physical": 67
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_049",
+    "fifaId": "231443",
+    "name": "O. Dembélé",
+    "fullName": "Ousmane Dembélé",
+    "club": "Paris Saint Germain",
+    "nationality": "France",
+    "position": "RW",
+    "photoUrl": "/api/player-image/231443",
+    "stats": {
+      "pace": 93,
+      "shooting": 77,
+      "passing": 81,
+      "dribbling": 87,
+      "defending": 36,
+      "physical": 57
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_050",
+    "fifaId": "20801",
+    "name": "Cristiano Ronaldo",
+    "fullName": "Cristiano Ronaldo dos Santos Aveiro",
+    "club": "Al Nassr",
+    "nationality": "Portugal",
+    "position": "ST",
+    "photoUrl": "/api/player-image/20801",
+    "stats": {
+      "pace": 77,
+      "shooting": 88,
+      "passing": 75,
+      "dribbling": 80,
+      "defending": 34,
+      "physical": 74
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_051",
+    "fifaId": "182521",
+    "name": "T. Kroos",
+    "fullName": "Toni Kroos",
+    "club": "Real Madrid",
+    "nationality": "Germany",
+    "position": "CM",
+    "photoUrl": "/api/player-image/182521",
+    "stats": {
+      "pace": 51,
+      "shooting": 80,
+      "passing": 90,
+      "dribbling": 81,
+      "defending": 70,
+      "physical": 71
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_052",
+    "fifaId": "186153",
+    "name": "W. Szczęsny",
+    "fullName": "Wojciech Tomasz Szczęsny",
+    "club": "Juventus",
+    "nationality": "Poland",
+    "position": "GK",
+    "photoUrl": "/api/player-image/186153",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_053",
+    "fifaId": "186942",
+    "name": "İ. Gündoğan",
+    "fullName": "İlkay Gündoğan",
+    "club": "FC Barcelona",
+    "nationality": "Germany",
+    "position": "CM",
+    "photoUrl": "/api/player-image/186942",
+    "stats": {
+      "pace": 62,
+      "shooting": 81,
+      "passing": 84,
+      "dribbling": 86,
+      "defending": 72,
+      "physical": 73
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_054",
+    "fifaId": "189513",
+    "name": "Parejo",
+    "fullName": "Daniel Parejo Muñoz",
+    "club": "Villarreal",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/189513",
+    "stats": {
+      "pace": 49,
+      "shooting": 83,
+      "passing": 90,
+      "dribbling": 80,
+      "defending": 73,
+      "physical": 69
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_055",
+    "fifaId": "204485",
+    "name": "R. Mahrez",
+    "fullName": "Riyad Mahrez",
+    "club": "Al Ahli Jeddah",
+    "nationality": "Algeria",
+    "position": "RM",
+    "photoUrl": "/api/player-image/204485",
+    "stats": {
+      "pace": 79,
+      "shooting": 81,
+      "passing": 81,
+      "dribbling": 89,
+      "defending": 38,
+      "physical": 60
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_056",
+    "fifaId": "208722",
+    "name": "S. Mané",
+    "fullName": "Sadio Mané",
+    "club": "Al Nassr",
+    "nationality": "Senegal",
+    "position": "CF",
+    "photoUrl": "/api/player-image/208722",
+    "stats": {
+      "pace": 85,
+      "shooting": 83,
+      "passing": 79,
+      "dribbling": 87,
+      "defending": 44,
+      "physical": 74
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_057",
+    "fifaId": "210514",
+    "name": "João Cancelo",
+    "fullName": "João Pedro Cavaco Cancelo",
+    "club": "FC Barcelona",
+    "nationality": "Portugal",
+    "position": "LB",
+    "photoUrl": "/api/player-image/210514",
+    "stats": {
+      "pace": 81,
+      "shooting": 73,
+      "passing": 85,
+      "dribbling": 84,
+      "defending": 80,
+      "physical": 72
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_058",
+    "fifaId": "211110",
+    "name": "P. Dybala",
+    "fullName": "Paulo Bruno Exequiel Dybala",
+    "club": "Roma",
+    "nationality": "Argentina",
+    "position": "CF",
+    "photoUrl": "/api/player-image/211110",
+    "stats": {
+      "pace": 80,
+      "shooting": 85,
+      "passing": 85,
+      "dribbling": 90,
+      "defending": 40,
+      "physical": 60
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_059",
+    "fifaId": "215914",
+    "name": "N. Kanté",
+    "fullName": "N'Golo Kanté",
+    "club": "Al Ittihad",
+    "nationality": "France",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/215914",
+    "stats": {
+      "pace": 69,
+      "shooting": 65,
+      "passing": 73,
+      "dribbling": 80,
+      "defending": 85,
+      "physical": 77
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_060",
+    "fifaId": "216267",
+    "name": "A. Robertson",
+    "fullName": "Andrew Robertson",
+    "club": "Liverpool",
+    "nationality": "Scotland",
+    "position": "LB",
+    "photoUrl": "/api/player-image/216267",
+    "stats": {
+      "pace": 80,
+      "shooting": 61,
+      "passing": 82,
+      "dribbling": 81,
+      "defending": 81,
+      "physical": 77
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_061",
+    "fifaId": "223848",
+    "name": "S. Milinković-Savić",
+    "fullName": "Sergej Milinković-Savić",
+    "club": "Al Hilal",
+    "nationality": "Serbia",
+    "position": "CM",
+    "photoUrl": "/api/player-image/223848",
+    "stats": {
+      "pace": 68,
+      "shooting": 80,
+      "passing": 82,
+      "dribbling": 82,
+      "defending": 79,
+      "physical": 86
+    },
+    "overall": 86,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_062",
+    "fifaId": "243812",
+    "name": "Rodrygo",
+    "fullName": "Rodrygo Silva de Goes",
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "RW",
+    "photoUrl": "/api/player-image/243812",
+    "stats": {
+      "pace": 88,
+      "shooting": 81,
+      "passing": 79,
+      "dribbling": 86,
+      "defending": 31,
+      "physical": 62
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_063",
+    "fifaId": "256630",
+    "name": "F. Wirtz",
+    "fullName": "Florian Richard Wirtz",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Germany",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/256630",
+    "stats": {
+      "pace": 74,
+      "shooting": 76,
+      "passing": 83,
+      "dribbling": 87,
+      "defending": 52,
+      "physical": 63
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_064",
+    "fifaId": "232656",
+    "name": "T. Hernández",
+    "fullName": "Theo Bernard François Hernández",
+    "club": "Milan",
+    "nationality": "France",
+    "position": "LB",
+    "photoUrl": "/api/player-image/232656",
+    "stats": {
+      "pace": 93,
+      "shooting": 71,
+      "passing": 76,
+      "dribbling": 81,
+      "defending": 78,
+      "physical": 84
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_065",
+    "fifaId": "237383",
+    "name": "A. Bastoni",
+    "fullName": "Alessandro Bastoni",
+    "club": "Inter",
+    "nationality": "Italy",
+    "position": "CB",
+    "photoUrl": "/api/player-image/237383",
+    "stats": {
+      "pace": 73,
+      "shooting": 35,
+      "passing": 72,
+      "dribbling": 73,
+      "defending": 86,
+      "physical": 83
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_066",
+    "fifaId": "237692",
+    "name": "P. Foden",
+    "fullName": "Philip Foden",
+    "club": "Manchester City",
+    "nationality": "England",
+    "position": "LW",
+    "photoUrl": "/api/player-image/237692",
+    "stats": {
+      "pace": 81,
+      "shooting": 79,
+      "passing": 82,
+      "dribbling": 88,
+      "defending": 57,
+      "physical": 60
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_067",
+    "fifaId": "241486",
+    "name": "J. Koundé",
+    "fullName": "Jules Koundé",
+    "club": "FC Barcelona",
+    "nationality": "France",
+    "position": "CB",
+    "photoUrl": "/api/player-image/241486",
+    "stats": {
+      "pace": 84,
+      "shooting": 45,
+      "passing": 68,
+      "dribbling": 75,
+      "defending": 86,
+      "physical": 80
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_068",
+    "fifaId": "231677",
+    "name": "M. Rashford",
+    "fullName": "Marcus Rashford",
+    "club": "Manchester United",
+    "nationality": "England",
+    "position": "LW",
+    "photoUrl": "/api/player-image/231677",
+    "stats": {
+      "pace": 90,
+      "shooting": 86,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 74
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_069",
+    "fifaId": "224458",
+    "name": "Diogo Jota",
+    "fullName": "Diogo José Teixeira da Silva",
+    "club": "Liverpool",
+    "nationality": "Portugal",
+    "position": "CF",
+    "photoUrl": "/api/player-image/224458",
+    "stats": {
+      "pace": 82,
+      "shooting": 82,
+      "passing": 75,
+      "dribbling": 85,
+      "defending": 57,
+      "physical": 77
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_070",
+    "fifaId": "234378",
+    "name": "D. Rice",
+    "fullName": "Declan Rice",
+    "club": "Arsenal",
+    "nationality": "England",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/234378",
+    "stats": {
+      "pace": 71,
+      "shooting": 65,
+      "passing": 75,
+      "dribbling": 77,
+      "defending": 83,
+      "physical": 83
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_071",
+    "fifaId": "203574",
+    "name": "J. Stones",
+    "fullName": "John Stones",
+    "club": "Manchester City",
+    "nationality": "England",
+    "position": "CB",
+    "photoUrl": "/api/player-image/203574",
+    "stats": {
+      "pace": 72,
+      "shooting": 52,
+      "passing": 75,
+      "dribbling": 77,
+      "defending": 85,
+      "physical": 77
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_072",
+    "fifaId": "212218",
+    "name": "A. Laporte",
+    "fullName": "Aymeric Laporte",
+    "club": "Al Nassr",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/212218",
+    "stats": {
+      "pace": 61,
+      "shooting": 50,
+      "passing": 73,
+      "dribbling": 69,
+      "defending": 86,
+      "physical": 78
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_073",
+    "fifaId": "226753",
+    "name": "A. Onana",
+    "fullName": "André Onana",
+    "club": "Manchester United",
+    "nationality": "Cameroon",
+    "position": "GK",
+    "photoUrl": "/api/player-image/226753",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_074",
+    "fifaId": "186345",
+    "name": "K. Trippier",
+    "fullName": "Kieran Trippier",
+    "club": "Newcastle United",
+    "nationality": "England",
+    "position": "RB",
+    "photoUrl": "/api/player-image/186345",
+    "stats": {
+      "pace": 68,
+      "shooting": 65,
+      "passing": 86,
+      "dribbling": 79,
+      "defending": 82,
+      "physical": 72
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_075",
+    "fifaId": "188943",
+    "name": "K. Trapp",
+    "fullName": "Kevin Trapp",
+    "club": "Eintracht Frankfurt",
+    "nationality": "Germany",
+    "position": "GK",
+    "photoUrl": "/api/player-image/188943",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_076",
+    "fifaId": "192387",
+    "name": "C. Immobile",
+    "fullName": "Ciro Immobile",
+    "club": "Lazio",
+    "nationality": "Italy",
+    "position": "ST",
+    "photoUrl": "/api/player-image/192387",
+    "stats": {
+      "pace": 85,
+      "shooting": 87,
+      "passing": 68,
+      "dribbling": 78,
+      "defending": 39,
+      "physical": 74
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_077",
+    "fifaId": "192629",
+    "name": "Iago Aspas",
+    "fullName": "Iago Aspas Juncal",
+    "club": "Celta de Vigo",
+    "nationality": "Spain",
+    "position": "ST",
+    "photoUrl": "/api/player-image/192629",
+    "stats": {
+      "pace": 81,
+      "shooting": 85,
+      "passing": 79,
+      "dribbling": 86,
+      "defending": 35,
+      "physical": 64
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_078",
+    "fifaId": "193041",
+    "name": "K. Navas",
+    "fullName": "Keylor Navas Gamboa",
+    "club": "Paris Saint Germain",
+    "nationality": "Costa Rica",
+    "position": "GK",
+    "photoUrl": "/api/player-image/193041",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_079",
+    "fifaId": "197445",
+    "name": "D. Alaba",
+    "fullName": "David Olatukunbo Alaba",
+    "club": "Real Madrid",
+    "nationality": "Austria",
+    "position": "CB",
+    "photoUrl": "/api/player-image/197445",
+    "stats": {
+      "pace": 79,
+      "shooting": 71,
+      "passing": 83,
+      "dribbling": 80,
+      "defending": 85,
+      "physical": 77
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_080",
+    "fifaId": "201535",
+    "name": "R. Varane",
+    "fullName": "Raphaël Varane",
+    "club": "Manchester United",
+    "nationality": "France",
+    "position": "CB",
+    "photoUrl": "/api/player-image/201535",
+    "stats": {
+      "pace": 79,
+      "shooting": 49,
+      "passing": 64,
+      "dribbling": 67,
+      "defending": 86,
+      "physical": 78
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_081",
+    "fifaId": "202811",
+    "name": "E. Martínez",
+    "fullName": "Damián Emiliano Martínez",
+    "club": "Aston Villa",
+    "nationality": "Argentina",
+    "position": "GK",
+    "photoUrl": "/api/player-image/202811",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_082",
+    "fifaId": "205452",
+    "name": "A. Rüdiger",
+    "fullName": "Antonio Rüdiger",
+    "club": "Real Madrid",
+    "nationality": "Germany",
+    "position": "CB",
+    "photoUrl": "/api/player-image/205452",
+    "stats": {
+      "pace": 82,
+      "shooting": 54,
+      "passing": 71,
+      "dribbling": 66,
+      "defending": 84,
+      "physical": 86
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_083",
+    "fifaId": "206517",
+    "name": "J. Grealish",
+    "fullName": "Jack Grealish",
+    "club": "Manchester City",
+    "nationality": "England",
+    "position": "LW",
+    "photoUrl": "/api/player-image/206517",
+    "stats": {
+      "pace": 76,
+      "shooting": 76,
+      "passing": 84,
+      "dribbling": 88,
+      "defending": 53,
+      "physical": 73
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_084",
+    "fifaId": "208128",
+    "name": "H. Çalhanoğlu",
+    "fullName": "Hakan Çalhanoğlu",
+    "club": "Inter",
+    "nationality": "Turkey",
+    "position": "CM",
+    "photoUrl": "/api/player-image/208128",
+    "stats": {
+      "pace": 67,
+      "shooting": 80,
+      "passing": 86,
+      "dribbling": 85,
+      "defending": 70,
+      "physical": 66
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_085",
+    "fifaId": "209658",
+    "name": "L. Goretzka",
+    "fullName": "Leon Christoph Goretzka",
+    "club": "FC Bayern München",
+    "nationality": "Germany",
+    "position": "CM",
+    "photoUrl": "/api/player-image/209658",
+    "stats": {
+      "pace": 78,
+      "shooting": 81,
+      "passing": 81,
+      "dribbling": 83,
+      "defending": 80,
+      "physical": 86
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_086",
+    "fifaId": "209981",
+    "name": "Y. Bounou",
+    "fullName": "Yassine Bounou",
+    "club": "Al Hilal",
+    "nationality": "Morocco",
+    "position": "GK",
+    "photoUrl": "/api/player-image/209981",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_087",
+    "fifaId": "209989",
+    "name": "T. Partey",
+    "fullName": "Thomas Partey",
+    "club": "Arsenal",
+    "nationality": "Ghana",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/209989",
+    "stats": {
+      "pace": 68,
+      "shooting": 71,
+      "passing": 82,
+      "dribbling": 80,
+      "defending": 81,
+      "physical": 82
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_088",
+    "fifaId": "210935",
+    "name": "D. Berardi",
+    "fullName": "Domenico Berardi",
+    "club": "Sassuolo",
+    "nationality": "Italy",
+    "position": "RW",
+    "photoUrl": "/api/player-image/210935",
+    "stats": {
+      "pace": 82,
+      "shooting": 83,
+      "passing": 81,
+      "dribbling": 87,
+      "defending": 36,
+      "physical": 72
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_089",
+    "fifaId": "213345",
+    "name": "K. Coman",
+    "fullName": "Kingsley Junior Coman",
+    "club": "FC Bayern München",
+    "nationality": "France",
+    "position": "LM",
+    "photoUrl": "/api/player-image/213345",
+    "stats": {
+      "pace": 89,
+      "shooting": 76,
+      "passing": 79,
+      "dribbling": 87,
+      "defending": 30,
+      "physical": 62
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_090",
+    "fifaId": "217870",
+    "name": "G. Di Lorenzo",
+    "fullName": "Giovanni Di Lorenzo",
+    "club": "Napoli",
+    "nationality": "Italy",
+    "position": "RB",
+    "photoUrl": "/api/player-image/217870",
+    "stats": {
+      "pace": 85,
+      "shooting": 67,
+      "passing": 75,
+      "dribbling": 79,
+      "defending": 82,
+      "physical": 82
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_091",
+    "fifaId": "224334",
+    "name": "M. Acuña",
+    "fullName": "Marcos Javier Acuña",
+    "club": "Sevilla",
+    "nationality": "Argentina",
+    "position": "LB",
+    "photoUrl": "/api/player-image/224334",
+    "stats": {
+      "pace": 75,
+      "shooting": 74,
+      "passing": 83,
+      "dribbling": 83,
+      "defending": 81,
+      "physical": 84
+    },
+    "overall": 85,
+    "rarity": "legendary"
+  },
+  {
+    "id": "card_092",
+    "fifaId": "241637",
+    "name": "A. Tchouaméni",
+    "fullName": "Aurélien Tchouaméni",
+    "club": "Real Madrid",
+    "nationality": "France",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/241637",
+    "stats": {
+      "pace": 73,
+      "shooting": 69,
+      "passing": 79,
+      "dribbling": 78,
+      "defending": 81,
+      "physical": 81
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_093",
+    "fifaId": "226754",
+    "name": "I. Bennacer",
+    "fullName": "Ismaël Bennacer",
+    "club": "Milan",
+    "nationality": "Algeria",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/226754",
+    "stats": {
+      "pace": 80,
+      "shooting": 72,
+      "passing": 81,
+      "dribbling": 86,
+      "defending": 79,
+      "physical": 78
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_094",
+    "fifaId": "232756",
+    "name": "F. Tomori",
+    "fullName": "Fikayo Tomori",
+    "club": "Milan",
+    "nationality": "England",
+    "position": "CB",
+    "photoUrl": "/api/player-image/232756",
+    "stats": {
+      "pace": 86,
+      "shooting": 40,
+      "passing": 59,
+      "dribbling": 66,
+      "defending": 86,
+      "physical": 82
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_095",
+    "fifaId": "241852",
+    "name": "M. Diaby",
+    "fullName": "Moussa Diaby",
+    "club": "Aston Villa",
+    "nationality": "France",
+    "position": "RM",
+    "photoUrl": "/api/player-image/241852",
+    "stats": {
+      "pace": 95,
+      "shooting": 73,
+      "passing": 75,
+      "dribbling": 86,
+      "defending": 42,
+      "physical": 59
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_096",
+    "fifaId": "251566",
+    "name": "Gabriel Martinelli",
+    "fullName": "Gabriel Teodoro Martinelli Silva",
+    "club": "Arsenal",
+    "nationality": "Brazil",
+    "position": "LW",
+    "photoUrl": "/api/player-image/251566",
+    "stats": {
+      "pace": 89,
+      "shooting": 78,
+      "passing": 76,
+      "dribbling": 86,
+      "defending": 46,
+      "physical": 72
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_097",
+    "fifaId": "233934",
+    "name": "A. Ramsdale",
+    "fullName": "Aaron Ramsdale",
+    "club": "Arsenal",
+    "nationality": "England",
+    "position": "GK",
+    "photoUrl": "/api/player-image/233934",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_098",
+    "fifaId": "237679",
+    "name": "R. Kolo Muani",
+    "fullName": "Randal Kolo Muani",
+    "club": "Paris Saint Germain",
+    "nationality": "France",
+    "position": "ST",
+    "photoUrl": "/api/player-image/237679",
+    "stats": {
+      "pace": 91,
+      "shooting": 78,
+      "passing": 73,
+      "dribbling": 86,
+      "defending": 38,
+      "physical": 67
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_099",
+    "fifaId": "239301",
+    "name": "L. Martínez",
+    "fullName": "Lisandro Martínez",
+    "club": "Manchester United",
+    "nationality": "Argentina",
+    "position": "CB",
+    "photoUrl": "/api/player-image/239301",
+    "stats": {
+      "pace": 73,
+      "shooting": 59,
+      "passing": 78,
+      "dribbling": 79,
+      "defending": 85,
+      "physical": 83
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_100",
+    "fifaId": "239580",
+    "name": "Bremer",
+    "fullName": "Gleison Bremer Silva Nascimento",
+    "club": "Juventus",
+    "nationality": "Brazil",
+    "position": "CB",
+    "photoUrl": "/api/player-image/239580",
+    "stats": {
+      "pace": 80,
+      "shooting": 50,
+      "passing": 56,
+      "dribbling": 65,
+      "defending": 85,
+      "physical": 83
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_101",
+    "fifaId": "247851",
+    "name": "Bruno Guimarães",
+    "fullName": "Bruno Guimarães Rodriguez Moura",
+    "club": "Newcastle United",
+    "nationality": "Brazil",
+    "position": "CM",
+    "photoUrl": "/api/player-image/247851",
+    "stats": {
+      "pace": 71,
+      "shooting": 74,
+      "passing": 81,
+      "dribbling": 84,
+      "defending": 80,
+      "physical": 81
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_102",
+    "fifaId": "212190",
+    "name": "N. Süle",
+    "fullName": "Niklas Süle",
+    "club": "Borussia Dortmund",
+    "nationality": "Germany",
+    "position": "CB",
+    "photoUrl": "/api/player-image/212190",
+    "stats": {
+      "pace": 73,
+      "shooting": 51,
+      "passing": 68,
+      "dribbling": 62,
+      "defending": 85,
+      "physical": 85
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_103",
+    "fifaId": "224293",
+    "name": "Rúben Neves",
+    "fullName": "Rúben Diogo da Silva Neves",
+    "club": "Al Hilal",
+    "nationality": "Portugal",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/224293",
+    "stats": {
+      "pace": 60,
+      "shooting": 75,
+      "passing": 86,
+      "dribbling": 77,
+      "defending": 76,
+      "physical": 73
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_104",
+    "fifaId": "227127",
+    "name": "Álex Remiro",
+    "fullName": "Alejandro Remiro Gargallo",
+    "club": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "GK",
+    "photoUrl": "/api/player-image/227127",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_105",
+    "fifaId": "232580",
+    "name": "Gabriel",
+    "fullName": "Gabriel dos Santos Magalhães",
+    "club": "Arsenal",
+    "nationality": "Brazil",
+    "position": "CB",
+    "photoUrl": "/api/player-image/232580",
+    "stats": {
+      "pace": 70,
+      "shooting": 41,
+      "passing": 62,
+      "dribbling": 60,
+      "defending": 85,
+      "physical": 82
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_106",
+    "fifaId": "235212",
+    "name": "A. Hakimi",
+    "fullName": "Achraf Hakimi Mouh",
+    "club": "Paris Saint Germain",
+    "nationality": "Morocco",
+    "position": "RB",
+    "photoUrl": "/api/player-image/235212",
+    "stats": {
+      "pace": 92,
+      "shooting": 75,
+      "passing": 80,
+      "dribbling": 80,
+      "defending": 75,
+      "physical": 78
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_107",
+    "fifaId": "237086",
+    "name": "Kim Min Jae",
+    "fullName": "김민재 金敏在",
+    "club": "FC Bayern München",
+    "nationality": "Korea Republic",
+    "position": "CB",
+    "photoUrl": "/api/player-image/237086",
+    "stats": {
+      "pace": 80,
+      "shooting": 33,
+      "passing": 58,
+      "dribbling": 64,
+      "defending": 85,
+      "physical": 84
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_108",
+    "fifaId": "238074",
+    "name": "R. James",
+    "fullName": "Reece James",
+    "club": "Chelsea",
+    "nationality": "England",
+    "position": "RB",
+    "photoUrl": "/api/player-image/238074",
+    "stats": {
+      "pace": 80,
+      "shooting": 72,
+      "passing": 83,
+      "dribbling": 82,
+      "defending": 82,
+      "physical": 81
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_109",
+    "fifaId": "212194",
+    "name": "J. Brandt",
+    "fullName": "Julian Brandt",
+    "club": "Borussia Dortmund",
+    "nationality": "Germany",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/212194",
+    "stats": {
+      "pace": 71,
+      "shooting": 80,
+      "passing": 84,
+      "dribbling": 86,
+      "defending": 51,
+      "physical": 70
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_110",
+    "fifaId": "213648",
+    "name": "P. Højbjerg",
+    "fullName": "Pierre-Emile Kordt Højbjerg",
+    "club": "Tottenham Hotspur",
+    "nationality": "Denmark",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/213648",
+    "stats": {
+      "pace": 55,
+      "shooting": 73,
+      "passing": 78,
+      "dribbling": 78,
+      "defending": 81,
+      "physical": 82
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_111",
+    "fifaId": "220697",
+    "name": "J. Maddison",
+    "fullName": "James Maddison",
+    "club": "Tottenham Hotspur",
+    "nationality": "England",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/220697",
+    "stats": {
+      "pace": 71,
+      "shooting": 81,
+      "passing": 86,
+      "dribbling": 86,
+      "defending": 54,
+      "physical": 63
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_112",
+    "fifaId": "220814",
+    "name": "L. Hernández",
+    "fullName": "Lucas François Bernard Hernández Pi",
+    "club": "Paris Saint Germain",
+    "nationality": "France",
+    "position": "CB",
+    "photoUrl": "/api/player-image/220814",
+    "stats": {
+      "pace": 76,
+      "shooting": 54,
+      "passing": 70,
+      "dribbling": 70,
+      "defending": 84,
+      "physical": 78
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_113",
+    "fifaId": "225193",
+    "name": "Mikel Merino",
+    "fullName": "Mikel Merino Zazón",
+    "club": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/225193",
+    "stats": {
+      "pace": 72,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 82,
+      "defending": 83,
+      "physical": 82
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_114",
+    "fifaId": "230666",
+    "name": "Gabriel Jesus",
+    "fullName": "Gabriel Fernando de Jesus",
+    "club": "Arsenal",
+    "nationality": "Brazil",
+    "position": "ST",
+    "photoUrl": "/api/player-image/230666",
+    "stats": {
+      "pace": 83,
+      "shooting": 82,
+      "passing": 75,
+      "dribbling": 88,
+      "defending": 40,
+      "physical": 77
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_115",
+    "fifaId": "233419",
+    "name": "Raphinha",
+    "fullName": "Raphael Dias Belloli",
+    "club": "FC Barcelona",
+    "nationality": "Brazil",
+    "position": "RW",
+    "photoUrl": "/api/player-image/233419",
+    "stats": {
+      "pace": 91,
+      "shooting": 79,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 53,
+      "physical": 73
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_116",
+    "fifaId": "235805",
+    "name": "F. Chiesa",
+    "fullName": "Federico Chiesa",
+    "club": "Juventus",
+    "nationality": "Italy",
+    "position": "LM",
+    "photoUrl": "/api/player-image/235805",
+    "stats": {
+      "pace": 91,
+      "shooting": 82,
+      "passing": 76,
+      "dribbling": 86,
+      "defending": 53,
+      "physical": 75
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_117",
+    "fifaId": "241084",
+    "name": "L. Díaz",
+    "fullName": "Luis Fernando Díaz Marulanda",
+    "club": "Liverpool",
+    "nationality": "Colombia",
+    "position": "LW",
+    "photoUrl": "/api/player-image/241084",
+    "stats": {
+      "pace": 91,
+      "shooting": 81,
+      "passing": 75,
+      "dribbling": 87,
+      "defending": 34,
+      "physical": 74
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_118",
+    "fifaId": "164240",
+    "name": "Thiago Silva",
+    "fullName": "Thiago Emiliano da Silva",
+    "club": "Chelsea",
+    "nationality": "Brazil",
+    "position": "CB",
+    "photoUrl": "/api/player-image/164240",
+    "stats": {
+      "pace": 51,
+      "shooting": 54,
+      "passing": 74,
+      "dribbling": 72,
+      "defending": 87,
+      "physical": 74
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_119",
+    "fifaId": "177683",
+    "name": "Y. Sommer",
+    "fullName": "Yann Sommer",
+    "club": "Inter",
+    "nationality": "Switzerland",
+    "position": "GK",
+    "photoUrl": "/api/player-image/177683",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_120",
+    "fifaId": "185122",
+    "name": "P. Gulácsi",
+    "fullName": "Péter Gulácsi",
+    "club": "RB Leipzig",
+    "nationality": "Hungary",
+    "position": "GK",
+    "photoUrl": "/api/player-image/185122",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_121",
+    "fifaId": "188377",
+    "name": "K. Walker",
+    "fullName": "Kyle Walker",
+    "club": "Manchester City",
+    "nationality": "England",
+    "position": "RB",
+    "photoUrl": "/api/player-image/188377",
+    "stats": {
+      "pace": 90,
+      "shooting": 63,
+      "passing": 77,
+      "dribbling": 78,
+      "defending": 79,
+      "physical": 81
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_122",
+    "fifaId": "189509",
+    "name": "Thiago",
+    "fullName": "Thiago Alcântara do Nascimento",
+    "club": "Liverpool",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/189509",
+    "stats": {
+      "pace": 61,
+      "shooting": 72,
+      "passing": 86,
+      "dribbling": 89,
+      "defending": 71,
+      "physical": 67
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_123",
+    "fifaId": "189596",
+    "name": "T. Müller",
+    "fullName": "Thomas Müller",
+    "club": "FC Bayern München",
+    "nationality": "Germany",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/189596",
+    "stats": {
+      "pace": 59,
+      "shooting": 82,
+      "passing": 83,
+      "dribbling": 79,
+      "defending": 55,
+      "physical": 69
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_124",
+    "fifaId": "189881",
+    "name": "C. Smalling",
+    "fullName": "Chris Smalling",
+    "club": "Roma",
+    "nationality": "England",
+    "position": "CB",
+    "photoUrl": "/api/player-image/189881",
+    "stats": {
+      "pace": 62,
+      "shooting": 47,
+      "passing": 58,
+      "dribbling": 62,
+      "defending": 87,
+      "physical": 82
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_125",
+    "fifaId": "192505",
+    "name": "R. Lukaku",
+    "fullName": "Romelu Lukaku Menama",
+    "club": "Roma",
+    "nationality": "Belgium",
+    "position": "ST",
+    "photoUrl": "/api/player-image/192505",
+    "stats": {
+      "pace": 80,
+      "shooting": 84,
+      "passing": 74,
+      "dribbling": 77,
+      "defending": 38,
+      "physical": 82
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_126",
+    "fifaId": "192984",
+    "name": "K. Casteels",
+    "fullName": "Koen Casteels",
+    "club": "VfL Wolfsburg",
+    "nationality": "Belgium",
+    "position": "GK",
+    "photoUrl": "/api/player-image/192984",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_127",
+    "fifaId": "193747",
+    "name": "Koke",
+    "fullName": "Jorge Resurrección Merodio",
+    "club": "Atlético Madrid",
+    "nationality": "Spain",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/193747",
+    "stats": {
+      "pace": 69,
+      "shooting": 72,
+      "passing": 85,
+      "dribbling": 79,
+      "defending": 79,
+      "physical": 78
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_128",
+    "fifaId": "198706",
+    "name": "Luis Alberto",
+    "fullName": "Luis Alberto Romero Alconchel",
+    "club": "Lazio",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/198706",
+    "stats": {
+      "pace": 69,
+      "shooting": 77,
+      "passing": 85,
+      "dribbling": 84,
+      "defending": 62,
+      "physical": 58
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_129",
+    "fifaId": "201024",
+    "name": "K. Koulibaly",
+    "fullName": "Kalidou Koulibaly",
+    "club": "Al Hilal",
+    "nationality": "Senegal",
+    "position": "CB",
+    "photoUrl": "/api/player-image/201024",
+    "stats": {
+      "pace": 76,
+      "shooting": 48,
+      "passing": 63,
+      "dribbling": 68,
+      "defending": 84,
+      "physical": 83
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_130",
+    "fifaId": "202556",
+    "name": "M. Depay",
+    "fullName": "Memphis Depay",
+    "club": "Atlético Madrid",
+    "nationality": "Netherlands",
+    "position": "CF",
+    "photoUrl": "/api/player-image/202556",
+    "stats": {
+      "pace": 82,
+      "shooting": 82,
+      "passing": 81,
+      "dribbling": 85,
+      "defending": 30,
+      "physical": 80
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_131",
+    "fifaId": "203841",
+    "name": "N. Pope",
+    "fullName": "Nick Pope",
+    "club": "Newcastle United",
+    "nationality": "England",
+    "position": "GK",
+    "photoUrl": "/api/player-image/203841",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_132",
+    "fifaId": "206113",
+    "name": "S. Gnabry",
+    "fullName": "Serge David Gnabry",
+    "club": "FC Bayern München",
+    "nationality": "Germany",
+    "position": "RM",
+    "photoUrl": "/api/player-image/206113",
+    "stats": {
+      "pace": 81,
+      "shooting": 84,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 43,
+      "physical": 68
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_133",
+    "fifaId": "207862",
+    "name": "M. Ginter",
+    "fullName": "Matthias Ginter",
+    "club": "SC Freiburg",
+    "nationality": "Germany",
+    "position": "CB",
+    "photoUrl": "/api/player-image/207862",
+    "stats": {
+      "pace": 60,
+      "shooting": 59,
+      "passing": 71,
+      "dribbling": 66,
+      "defending": 85,
+      "physical": 80
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_134",
+    "fifaId": "208418",
+    "name": "Y. Carrasco",
+    "fullName": "Yannick Ferreira Carrasco",
+    "club": "Al Shabab",
+    "nationality": "Belgium",
+    "position": "LW",
+    "photoUrl": "/api/player-image/208418",
+    "stats": {
+      "pace": 88,
+      "shooting": 81,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 59,
+      "physical": 66
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_135",
+    "fifaId": "209499",
+    "name": "Fabinho",
+    "fullName": "Fábio Henrique Tavares",
+    "club": "Al Ittihad",
+    "nationality": "Brazil",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/209499",
+    "stats": {
+      "pace": 59,
+      "shooting": 69,
+      "passing": 78,
+      "dribbling": 77,
+      "defending": 82,
+      "physical": 82
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_136",
+    "fifaId": "210008",
+    "name": "A. Rabiot",
+    "fullName": "Adrien Rabiot",
+    "club": "Juventus",
+    "nationality": "France",
+    "position": "CM",
+    "photoUrl": "/api/player-image/210008",
+    "stats": {
+      "pace": 78,
+      "shooting": 76,
+      "passing": 80,
+      "dribbling": 80,
+      "defending": 82,
+      "physical": 84
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_137",
+    "fifaId": "210035",
+    "name": "Grimaldo",
+    "fullName": "Alejandro Grimaldo García",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Spain",
+    "position": "LWB",
+    "photoUrl": "/api/player-image/210035",
+    "stats": {
+      "pace": 87,
+      "shooting": 69,
+      "passing": 83,
+      "dribbling": 84,
+      "defending": 76,
+      "physical": 72
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_138",
+    "fifaId": "212616",
+    "name": "R. De Paul",
+    "fullName": "Rodrigo Javier De Paul",
+    "club": "Atlético Madrid",
+    "nationality": "Argentina",
+    "position": "CM",
+    "photoUrl": "/api/player-image/212616",
+    "stats": {
+      "pace": 78,
+      "shooting": 77,
+      "passing": 83,
+      "dribbling": 82,
+      "defending": 75,
+      "physical": 83
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_139",
+    "fifaId": "216435",
+    "name": "S. Lobotka",
+    "fullName": "Stanislav Lobotka",
+    "club": "Napoli",
+    "nationality": "Slovakia",
+    "position": "CM",
+    "photoUrl": "/api/player-image/216435",
+    "stats": {
+      "pace": 71,
+      "shooting": 70,
+      "passing": 81,
+      "dribbling": 83,
+      "defending": 77,
+      "physical": 75
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_140",
+    "fifaId": "222492",
+    "name": "L. Sané",
+    "fullName": "Leroy Aziz Sané",
+    "club": "FC Bayern München",
+    "nationality": "Germany",
+    "position": "RM",
+    "photoUrl": "/api/player-image/222492",
+    "stats": {
+      "pace": 91,
+      "shooting": 81,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 38,
+      "physical": 68
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_141",
+    "fifaId": "226161",
+    "name": "Marcos Llorente",
+    "fullName": "Marcos Llorente Moreno",
+    "club": "Atlético Madrid",
+    "nationality": "Spain",
+    "position": "RM",
+    "photoUrl": "/api/player-image/226161",
+    "stats": {
+      "pace": 89,
+      "shooting": 78,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 78,
+      "physical": 81
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_142",
+    "fifaId": "232363",
+    "name": "M. Škriniar",
+    "fullName": "Milan Škriniar",
+    "club": "Paris Saint Germain",
+    "nationality": "Slovakia",
+    "position": "CB",
+    "photoUrl": "/api/player-image/232363",
+    "stats": {
+      "pace": 78,
+      "shooting": 41,
+      "passing": 57,
+      "dribbling": 67,
+      "defending": 86,
+      "physical": 83
+    },
+    "overall": 84,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_143",
+    "fifaId": "264240",
+    "name": "Gavi",
+    "fullName": "Pablo Martín Páez Gavira",
+    "club": "FC Barcelona",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/264240",
+    "stats": {
+      "pace": 76,
+      "shooting": 66,
+      "passing": 78,
+      "dribbling": 85,
+      "defending": 68,
+      "physical": 70
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_144",
+    "fifaId": "243715",
+    "name": "W. Saliba",
+    "fullName": "William Alain André Gabriel Saliba",
+    "club": "Arsenal",
+    "nationality": "France",
+    "position": "CB",
+    "photoUrl": "/api/player-image/243715",
+    "stats": {
+      "pace": 82,
+      "shooting": 39,
+      "passing": 69,
+      "dribbling": 73,
+      "defending": 84,
+      "physical": 82
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_145",
+    "fifaId": "247090",
+    "name": "E. Fernández",
+    "fullName": "Enzo Jeremías Fernández",
+    "club": "Chelsea",
+    "nationality": "Argentina",
+    "position": "CM",
+    "photoUrl": "/api/player-image/247090",
+    "stats": {
+      "pace": 73,
+      "shooting": 73,
+      "passing": 81,
+      "dribbling": 80,
+      "defending": 75,
+      "physical": 79
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_146",
+    "fifaId": "234396",
+    "name": "A. Davies",
+    "fullName": "Alphonso Boyle Davies",
+    "club": "FC Bayern München",
+    "nationality": "Canada",
+    "position": "LB",
+    "photoUrl": "/api/player-image/234396",
+    "stats": {
+      "pace": 95,
+      "shooting": 66,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 74,
+      "physical": 77
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_147",
+    "fifaId": "242516",
+    "name": "C. Gakpo",
+    "fullName": "Cody Mathès Gakpo",
+    "club": "Liverpool",
+    "nationality": "Netherlands",
+    "position": "CF",
+    "photoUrl": "/api/player-image/242516",
+    "stats": {
+      "pace": 85,
+      "shooting": 82,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 73
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_148",
+    "fifaId": "246430",
+    "name": "D. Vlahović",
+    "fullName": "Dušan Vlahović",
+    "club": "Juventus",
+    "nationality": "Serbia",
+    "position": "ST",
+    "photoUrl": "/api/player-image/246430",
+    "stats": {
+      "pace": 80,
+      "shooting": 85,
+      "passing": 66,
+      "dribbling": 79,
+      "defending": 29,
+      "physical": 82
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_149",
+    "fifaId": "247819",
+    "name": "N. Schlotterbeck",
+    "fullName": "Nico Schlotterbeck",
+    "club": "Borussia Dortmund",
+    "nationality": "Germany",
+    "position": "CB",
+    "photoUrl": "/api/player-image/247819",
+    "stats": {
+      "pace": 78,
+      "shooting": 58,
+      "passing": 67,
+      "dribbling": 73,
+      "defending": 85,
+      "physical": 82
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_150",
+    "fifaId": "253149",
+    "name": "J. Frimpong",
+    "fullName": "Jeremie Agyekum Frimpong",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Netherlands",
+    "position": "RWB",
+    "photoUrl": "/api/player-image/253149",
+    "stats": {
+      "pace": 94,
+      "shooting": 56,
+      "passing": 75,
+      "dribbling": 84,
+      "defending": 74,
+      "physical": 70
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_151",
+    "fifaId": "244260",
+    "name": "Dani Olmo",
+    "fullName": "Daniel Olmo Carvajal",
+    "club": "RB Leipzig",
+    "nationality": "Spain",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/244260",
+    "stats": {
+      "pace": 68,
+      "shooting": 76,
+      "passing": 82,
+      "dribbling": 86,
+      "defending": 50,
+      "physical": 59
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_152",
+    "fifaId": "251809",
+    "name": "S. Botman",
+    "fullName": "Sven Botman",
+    "club": "Newcastle United",
+    "nationality": "Netherlands",
+    "position": "CB",
+    "photoUrl": "/api/player-image/251809",
+    "stats": {
+      "pace": 65,
+      "shooting": 37,
+      "passing": 63,
+      "dribbling": 66,
+      "defending": 84,
+      "physical": 84
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_153",
+    "fifaId": "230869",
+    "name": "Unai Simón",
+    "fullName": "Unai Simón Mendibil",
+    "club": "Athletic Club",
+    "nationality": "Spain",
+    "position": "GK",
+    "photoUrl": "/api/player-image/230869",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_154",
+    "fifaId": "241464",
+    "name": "Pau Torres",
+    "fullName": "Pau Francisco Torres",
+    "club": "Aston Villa",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/241464",
+    "stats": {
+      "pace": 72,
+      "shooting": 38,
+      "passing": 68,
+      "dribbling": 70,
+      "defending": 84,
+      "physical": 81
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_155",
+    "fifaId": "213661",
+    "name": "A. Christensen",
+    "fullName": "Andreas Bødtker Christensen",
+    "club": "FC Barcelona",
+    "nationality": "Denmark",
+    "position": "CB",
+    "photoUrl": "/api/player-image/213661",
+    "stats": {
+      "pace": 67,
+      "shooting": 32,
+      "passing": 68,
+      "dribbling": 71,
+      "defending": 85,
+      "physical": 76
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_156",
+    "fifaId": "216460",
+    "name": "J. Giménez",
+    "fullName": "José María Giménez de Vargas",
+    "club": "Atlético Madrid",
+    "nationality": "Uruguay",
+    "position": "CB",
+    "photoUrl": "/api/player-image/216460",
+    "stats": {
+      "pace": 71,
+      "shooting": 46,
+      "passing": 58,
+      "dribbling": 61,
+      "defending": 85,
+      "physical": 82
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_157",
+    "fifaId": "225116",
+    "name": "A. Meret",
+    "fullName": "Alex Meret",
+    "club": "Napoli",
+    "nationality": "Italy",
+    "position": "GK",
+    "photoUrl": "/api/player-image/225116",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_158",
+    "fifaId": "229582",
+    "name": "G. Mancini",
+    "fullName": "Gianluca Mancini",
+    "club": "Roma",
+    "nationality": "Italy",
+    "position": "CB",
+    "photoUrl": "/api/player-image/229582",
+    "stats": {
+      "pace": 67,
+      "shooting": 45,
+      "passing": 54,
+      "dribbling": 62,
+      "defending": 83,
+      "physical": 86
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_159",
+    "fifaId": "225375",
+    "name": "K. Laimer",
+    "fullName": "Konrad Laimer",
+    "club": "FC Bayern München",
+    "nationality": "Austria",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/225375",
+    "stats": {
+      "pace": 80,
+      "shooting": 69,
+      "passing": 77,
+      "dribbling": 78,
+      "defending": 81,
+      "physical": 79
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_160",
+    "fifaId": "225659",
+    "name": "G. Rodríguez",
+    "fullName": "Guido Rodríguez",
+    "club": "Real Betis",
+    "nationality": "Argentina",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/225659",
+    "stats": {
+      "pace": 51,
+      "shooting": 58,
+      "passing": 72,
+      "dribbling": 70,
+      "defending": 85,
+      "physical": 80
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_161",
+    "fifaId": "226851",
+    "name": "B. Pavard",
+    "fullName": "Benjamin Pavard",
+    "club": "Inter",
+    "nationality": "France",
+    "position": "CB",
+    "photoUrl": "/api/player-image/226851",
+    "stats": {
+      "pace": 70,
+      "shooting": 62,
+      "passing": 73,
+      "dribbling": 72,
+      "defending": 85,
+      "physical": 78
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_162",
+    "fifaId": "227236",
+    "name": "A. Zambo Anguissa",
+    "fullName": "André-Franck Zambo Anguissa",
+    "club": "Napoli",
+    "nationality": "Cameroon",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/227236",
+    "stats": {
+      "pace": 78,
+      "shooting": 68,
+      "passing": 72,
+      "dribbling": 81,
+      "defending": 81,
+      "physical": 86
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_163",
+    "fifaId": "228251",
+    "name": "L. Pellegrini",
+    "fullName": "Lorenzo Pellegrini",
+    "club": "Roma",
+    "nationality": "Italy",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/228251",
+    "stats": {
+      "pace": 79,
+      "shooting": 76,
+      "passing": 83,
+      "dribbling": 83,
+      "defending": 74,
+      "physical": 78
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_164",
+    "fifaId": "229391",
+    "name": "Palhinha",
+    "fullName": "João Maria Lobo Alves Palhinha Gonçalves",
+    "club": "Fulham",
+    "nationality": "Portugal",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/229391",
+    "stats": {
+      "pace": 62,
+      "shooting": 67,
+      "passing": 71,
+      "dribbling": 76,
+      "defending": 84,
+      "physical": 89
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_165",
+    "fifaId": "230142",
+    "name": "Oyarzabal",
+    "fullName": "Mikel Oyarzabal Ugarte",
+    "club": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "LM",
+    "photoUrl": "/api/player-image/230142",
+    "stats": {
+      "pace": 77,
+      "shooting": 83,
+      "passing": 80,
+      "dribbling": 83,
+      "defending": 41,
+      "physical": 62
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_166",
+    "fifaId": "234236",
+    "name": "P. Schick",
+    "fullName": "Patrik Schick",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Czech Republic",
+    "position": "ST",
+    "photoUrl": "/api/player-image/234236",
+    "stats": {
+      "pace": 79,
+      "shooting": 80,
+      "passing": 71,
+      "dribbling": 81,
+      "defending": 37,
+      "physical": 76
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_167",
+    "fifaId": "155862",
+    "name": "Sergio Ramos",
+    "fullName": "Sergio Ramos García",
+    "club": "Sevilla",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/155862",
+    "stats": {
+      "pace": 57,
+      "shooting": 69,
+      "passing": 73,
+      "dribbling": 70,
+      "defending": 83,
+      "physical": 76
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_168",
+    "fifaId": "167948",
+    "name": "H. Lloris",
+    "fullName": "Hugo Lloris",
+    "club": "Tottenham Hotspur",
+    "nationality": "France",
+    "position": "GK",
+    "photoUrl": "/api/player-image/167948",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_169",
+    "fifaId": "178603",
+    "name": "M. Hummels",
+    "fullName": "Mats Hummels",
+    "club": "Borussia Dortmund",
+    "nationality": "Germany",
+    "position": "CB",
+    "photoUrl": "/api/player-image/178603",
+    "stats": {
+      "pace": 53,
+      "shooting": 58,
+      "passing": 76,
+      "dribbling": 70,
+      "defending": 86,
+      "physical": 78
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_170",
+    "fifaId": "180930",
+    "name": "E. Džeko",
+    "fullName": "Edin Džeko",
+    "club": "Fenerbahçe",
+    "nationality": "Bosnia and Herzegovina",
+    "position": "ST",
+    "photoUrl": "/api/player-image/180930",
+    "stats": {
+      "pace": 59,
+      "shooting": 84,
+      "passing": 72,
+      "dribbling": 77,
+      "defending": 45,
+      "physical": 76
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_171",
+    "fifaId": "183898",
+    "name": "Á. Di María",
+    "fullName": "Ángel Fabián Di María Hernández",
+    "club": "Benfica",
+    "nationality": "Argentina",
+    "position": "CF",
+    "photoUrl": "/api/player-image/183898",
+    "stats": {
+      "pace": 78,
+      "shooting": 78,
+      "passing": 86,
+      "dribbling": 89,
+      "defending": 48,
+      "physical": 67
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_172",
+    "fifaId": "188350",
+    "name": "M. Reus",
+    "fullName": "Marco Reus",
+    "club": "Borussia Dortmund",
+    "nationality": "Germany",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/188350",
+    "stats": {
+      "pace": 65,
+      "shooting": 83,
+      "passing": 83,
+      "dribbling": 85,
+      "defending": 53,
+      "physical": 63
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_173",
+    "fifaId": "189332",
+    "name": "Jordi Alba",
+    "fullName": "Jordi Alba Ramos",
+    "club": "Inter Miami",
+    "nationality": "Spain",
+    "position": "LB",
+    "photoUrl": "/api/player-image/189332",
+    "stats": {
+      "pace": 84,
+      "shooting": 70,
+      "passing": 82,
+      "dribbling": 81,
+      "defending": 76,
+      "physical": 70
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_174",
+    "fifaId": "189511",
+    "name": "Sergio Busquets",
+    "fullName": "Sergio Busquets i Burgos",
+    "club": "Inter Miami",
+    "nationality": "Spain",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/189511",
+    "stats": {
+      "pace": 37,
+      "shooting": 62,
+      "passing": 79,
+      "dribbling": 79,
+      "defending": 81,
+      "physical": 73
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_175",
+    "fifaId": "190460",
+    "name": "C. Eriksen",
+    "fullName": "Christian Dannemann Eriksen",
+    "club": "Manchester United",
+    "nationality": "Denmark",
+    "position": "CM",
+    "photoUrl": "/api/player-image/190460",
+    "stats": {
+      "pace": 59,
+      "shooting": 77,
+      "passing": 89,
+      "dribbling": 81,
+      "defending": 51,
+      "physical": 53
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_176",
+    "fifaId": "193301",
+    "name": "A. Lacazette",
+    "fullName": "Alexandre Lacazette",
+    "club": "Olympique Lyonnais",
+    "nationality": "France",
+    "position": "ST",
+    "photoUrl": "/api/player-image/193301",
+    "stats": {
+      "pace": 72,
+      "shooting": 84,
+      "passing": 77,
+      "dribbling": 83,
+      "defending": 44,
+      "physical": 77
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_177",
+    "fifaId": "199451",
+    "name": "W. Ben Yedder",
+    "fullName": "Wissam Ben Yedder",
+    "club": "Monaco",
+    "nationality": "France",
+    "position": "ST",
+    "photoUrl": "/api/player-image/199451",
+    "stats": {
+      "pace": 80,
+      "shooting": 84,
+      "passing": 78,
+      "dribbling": 87,
+      "defending": 39,
+      "physical": 68
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_178",
+    "fifaId": "199845",
+    "name": "F. Acerbi",
+    "fullName": "Francesco Acerbi",
+    "club": "Inter",
+    "nationality": "Italy",
+    "position": "CB",
+    "photoUrl": "/api/player-image/199845",
+    "stats": {
+      "pace": 60,
+      "shooting": 50,
+      "passing": 64,
+      "dribbling": 64,
+      "defending": 86,
+      "physical": 80
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_179",
+    "fifaId": "200724",
+    "name": "Nacho Fernández",
+    "fullName": "José Ignacio Fernández Iglesias",
+    "club": "Real Madrid",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/200724",
+    "stats": {
+      "pace": 75,
+      "shooting": 37,
+      "passing": 69,
+      "dribbling": 71,
+      "defending": 82,
+      "physical": 80
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_180",
+    "fifaId": "201153",
+    "name": "Morata",
+    "fullName": "Álvaro Borja Morata Martín",
+    "club": "Atlético Madrid",
+    "nationality": "Spain",
+    "position": "ST",
+    "photoUrl": "/api/player-image/201153",
+    "stats": {
+      "pace": 82,
+      "shooting": 82,
+      "passing": 72,
+      "dribbling": 79,
+      "defending": 31,
+      "physical": 79
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_181",
+    "fifaId": "202648",
+    "name": "Sergi Darder",
+    "fullName": "Sergi Darder Moll",
+    "club": "Mallorca",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/202648",
+    "stats": {
+      "pace": 81,
+      "shooting": 76,
+      "passing": 82,
+      "dribbling": 83,
+      "defending": 74,
+      "physical": 77
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_182",
+    "fifaId": "202652",
+    "name": "R. Sterling",
+    "fullName": "Raheem Sterling",
+    "club": "Chelsea",
+    "nationality": "England",
+    "position": "LW",
+    "photoUrl": "/api/player-image/202652",
+    "stats": {
+      "pace": 85,
+      "shooting": 78,
+      "passing": 76,
+      "dribbling": 85,
+      "defending": 45,
+      "physical": 67
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_183",
+    "fifaId": "204638",
+    "name": "W. Orban",
+    "fullName": "Vilmos Tamás Orban",
+    "club": "RB Leipzig",
+    "nationality": "Hungary",
+    "position": "CB",
+    "photoUrl": "/api/player-image/204638",
+    "stats": {
+      "pace": 58,
+      "shooting": 36,
+      "passing": 56,
+      "dribbling": 56,
+      "defending": 85,
+      "physical": 81
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_184",
+    "fifaId": "205498",
+    "name": "Jorginho",
+    "fullName": "Luiz Frello Filho Jorge",
+    "club": "Arsenal",
+    "nationality": "Italy",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/205498",
+    "stats": {
+      "pace": 53,
+      "shooting": 67,
+      "passing": 84,
+      "dribbling": 81,
+      "defending": 74,
+      "physical": 73
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_185",
+    "fifaId": "205693",
+    "name": "S. Haller",
+    "fullName": "Sébastien Haller",
+    "club": "Borussia Dortmund",
+    "nationality": "Côte d'Ivoire",
+    "position": "ST",
+    "photoUrl": "/api/player-image/205693",
+    "stats": {
+      "pace": 62,
+      "shooting": 81,
+      "passing": 63,
+      "dribbling": 76,
+      "defending": 52,
+      "physical": 81
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_186",
+    "fifaId": "205988",
+    "name": "L. Shaw",
+    "fullName": "Luke Shaw",
+    "club": "Manchester United",
+    "nationality": "England",
+    "position": "LB",
+    "photoUrl": "/api/player-image/205988",
+    "stats": {
+      "pace": 76,
+      "shooting": 57,
+      "passing": 82,
+      "dribbling": 79,
+      "defending": 81,
+      "physical": 78
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_187",
+    "fifaId": "208093",
+    "name": "Gerard Moreno",
+    "fullName": "Gerard Moreno Balagueró",
+    "club": "Villarreal",
+    "nationality": "Spain",
+    "position": "ST",
+    "photoUrl": "/api/player-image/208093",
+    "stats": {
+      "pace": 77,
+      "shooting": 85,
+      "passing": 77,
+      "dribbling": 81,
+      "defending": 46,
+      "physical": 72
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_188",
+    "fifaId": "208333",
+    "name": "E. Can",
+    "fullName": "Emre Can",
+    "club": "Borussia Dortmund",
+    "nationality": "Germany",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/208333",
+    "stats": {
+      "pace": 79,
+      "shooting": 78,
+      "passing": 77,
+      "dribbling": 79,
+      "defending": 82,
+      "physical": 87
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_189",
+    "fifaId": "208574",
+    "name": "F. Kostić",
+    "fullName": "Filip Kostić",
+    "club": "Juventus",
+    "nationality": "Serbia",
+    "position": "LM",
+    "photoUrl": "/api/player-image/208574",
+    "stats": {
+      "pace": 85,
+      "shooting": 76,
+      "passing": 82,
+      "dribbling": 82,
+      "defending": 70,
+      "physical": 80
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_190",
+    "fifaId": "210324",
+    "name": "J. Hofmann",
+    "fullName": "Jonas Hofmann",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Germany",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/210324",
+    "stats": {
+      "pace": 76,
+      "shooting": 79,
+      "passing": 83,
+      "dribbling": 81,
+      "defending": 64,
+      "physical": 73
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_191",
+    "fifaId": "210406",
+    "name": "P. Zieliński",
+    "fullName": "Piotr Sebastian Zieliński",
+    "club": "Napoli",
+    "nationality": "Poland",
+    "position": "CM",
+    "photoUrl": "/api/player-image/210406",
+    "stats": {
+      "pace": 81,
+      "shooting": 77,
+      "passing": 81,
+      "dribbling": 86,
+      "defending": 71,
+      "physical": 63
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_192",
+    "fifaId": "210413",
+    "name": "A. Romagnoli",
+    "fullName": "Alessio Romagnoli",
+    "club": "Lazio",
+    "nationality": "Italy",
+    "position": "CB",
+    "photoUrl": "/api/player-image/210413",
+    "stats": {
+      "pace": 69,
+      "shooting": 40,
+      "passing": 56,
+      "dribbling": 69,
+      "defending": 85,
+      "physical": 80
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_193",
+    "fifaId": "216352",
+    "name": "M. Brozović",
+    "fullName": "Marcelo Brozović",
+    "club": "Al Nassr",
+    "nationality": "Croatia",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/216352",
+    "stats": {
+      "pace": 66,
+      "shooting": 74,
+      "passing": 81,
+      "dribbling": 80,
+      "defending": 80,
+      "physical": 78
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_194",
+    "fifaId": "216547",
+    "name": "Rafa",
+    "fullName": "Rafael Alexandre Fernandes Ferreira da Silva",
+    "club": "Benfica",
+    "nationality": "Portugal",
+    "position": "CF",
+    "photoUrl": "/api/player-image/216547",
+    "stats": {
+      "pace": 93,
+      "shooting": 77,
+      "passing": 77,
+      "dribbling": 86,
+      "defending": 50,
+      "physical": 54
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_195",
+    "fifaId": "216594",
+    "name": "N. Fekir",
+    "fullName": "Nabil Fekir",
+    "club": "Real Betis",
+    "nationality": "France",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/216594",
+    "stats": {
+      "pace": 82,
+      "shooting": 81,
+      "passing": 81,
+      "dribbling": 86,
+      "defending": 39,
+      "physical": 80
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_196",
+    "fifaId": "220834",
+    "name": "Marco Asensio",
+    "fullName": "Marco Asensio Willemsen",
+    "club": "Paris Saint Germain",
+    "nationality": "Spain",
+    "position": "RW",
+    "photoUrl": "/api/player-image/220834",
+    "stats": {
+      "pace": 81,
+      "shooting": 81,
+      "passing": 81,
+      "dribbling": 83,
+      "defending": 43,
+      "physical": 63
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_197",
+    "fifaId": "224179",
+    "name": "Borja Iglesias",
+    "fullName": "Borja Iglesias Quintás",
+    "club": "Real Betis",
+    "nationality": "Spain",
+    "position": "ST",
+    "photoUrl": "/api/player-image/224179",
+    "stats": {
+      "pace": 69,
+      "shooting": 84,
+      "passing": 66,
+      "dribbling": 76,
+      "defending": 40,
+      "physical": 82
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_198",
+    "fifaId": "230481",
+    "name": "Ronaldo Cabrais",
+    "fullName": "Ronaldo Jailson Cabrais Petri",
+    "club": "Palmeiras",
+    "nationality": "Brazil",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/230481",
+    "stats": {
+      "pace": 88,
+      "shooting": 77,
+      "passing": 83,
+      "dribbling": 84,
+      "defending": 35,
+      "physical": 72
+    },
+    "overall": 83,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_199",
+    "fifaId": "248243",
+    "name": "E. Camavinga",
+    "fullName": "Eduardo Celmi Camavinga",
+    "club": "Real Madrid",
+    "nationality": "France",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/248243",
+    "stats": {
+      "pace": 79,
+      "shooting": 66,
+      "passing": 80,
+      "dribbling": 82,
+      "defending": 76,
+      "physical": 80
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_200",
+    "fifaId": "234577",
+    "name": "Diogo Costa",
+    "fullName": "Diogo Meireles Costa",
+    "club": "Porto",
+    "nationality": "Portugal",
+    "position": "GK",
+    "photoUrl": "/api/player-image/234577",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_201",
+    "fifaId": "241461",
+    "name": "Ferran Torres",
+    "fullName": "Ferran Torres García",
+    "club": "FC Barcelona",
+    "nationality": "Spain",
+    "position": "LW",
+    "photoUrl": "/api/player-image/241461",
+    "stats": {
+      "pace": 83,
+      "shooting": 79,
+      "passing": 78,
+      "dribbling": 83,
+      "defending": 35,
+      "physical": 68
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_202",
+    "fifaId": "251517",
+    "name": "J. Gvardiol",
+    "fullName": "Joško Gvardiol",
+    "club": "Manchester City",
+    "nationality": "Croatia",
+    "position": "CB",
+    "photoUrl": "/api/player-image/251517",
+    "stats": {
+      "pace": 78,
+      "shooting": 54,
+      "passing": 69,
+      "dribbling": 74,
+      "defending": 82,
+      "physical": 83
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_203",
+    "fifaId": "253072",
+    "name": "D. Núñez",
+    "fullName": "Darwin Gabriel Núñez Ribeiro",
+    "club": "Liverpool",
+    "nationality": "Uruguay",
+    "position": "ST",
+    "photoUrl": "/api/player-image/253072",
+    "stats": {
+      "pace": 90,
+      "shooting": 81,
+      "passing": 71,
+      "dribbling": 76,
+      "defending": 43,
+      "physical": 85
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_204",
+    "fifaId": "233486",
+    "name": "R. Le Normand",
+    "fullName": "Robin Le Normand",
+    "club": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/233486",
+    "stats": {
+      "pace": 62,
+      "shooting": 26,
+      "passing": 54,
+      "dribbling": 59,
+      "defending": 84,
+      "physical": 79
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_205",
+    "fifaId": "235790",
+    "name": "K. Havertz",
+    "fullName": "Kai Lukas Havertz",
+    "club": "Arsenal",
+    "nationality": "Germany",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/235790",
+    "stats": {
+      "pace": 78,
+      "shooting": 79,
+      "passing": 79,
+      "dribbling": 83,
+      "defending": 45,
+      "physical": 68
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_206",
+    "fifaId": "252145",
+    "name": "Nuno Mendes",
+    "fullName": "Nuno Alexandre Tavares Mendes",
+    "club": "Paris Saint Germain",
+    "nationality": "Portugal",
+    "position": "LB",
+    "photoUrl": "/api/player-image/252145",
+    "stats": {
+      "pace": 89,
+      "shooting": 58,
+      "passing": 75,
+      "dribbling": 80,
+      "defending": 77,
+      "physical": 76
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_207",
+    "fifaId": "222077",
+    "name": "M. Locatelli",
+    "fullName": "Manuel Locatelli",
+    "club": "Juventus",
+    "nationality": "Italy",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/222077",
+    "stats": {
+      "pace": 67,
+      "shooting": 70,
+      "passing": 80,
+      "dribbling": 78,
+      "defending": 79,
+      "physical": 80
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_208",
+    "fifaId": "229558",
+    "name": "D. Upamecano",
+    "fullName": "Dayotchanculle Oswald Upamecano",
+    "club": "FC Bayern München",
+    "nationality": "France",
+    "position": "CB",
+    "photoUrl": "/api/player-image/229558",
+    "stats": {
+      "pace": 83,
+      "shooting": 45,
+      "passing": 63,
+      "dribbling": 72,
+      "defending": 81,
+      "physical": 83
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_209",
+    "fifaId": "232488",
+    "name": "C. Romero",
+    "fullName": "Cristian Gabriel Romero",
+    "club": "Tottenham Hotspur",
+    "nationality": "Argentina",
+    "position": "CB",
+    "photoUrl": "/api/player-image/232488",
+    "stats": {
+      "pace": 70,
+      "shooting": 46,
+      "passing": 59,
+      "dribbling": 66,
+      "defending": 84,
+      "physical": 80
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_210",
+    "fifaId": "233049",
+    "name": "J. Sancho",
+    "fullName": "Jadon Sancho",
+    "club": "Manchester United",
+    "nationality": "England",
+    "position": "LW",
+    "photoUrl": "/api/player-image/233049",
+    "stats": {
+      "pace": 78,
+      "shooting": 70,
+      "passing": 80,
+      "dribbling": 87,
+      "defending": 33,
+      "physical": 47
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_211",
+    "fifaId": "233084",
+    "name": "N. Molina",
+    "fullName": "Nahuel Molina Lucero",
+    "club": "Atlético Madrid",
+    "nationality": "Argentina",
+    "position": "RB",
+    "photoUrl": "/api/player-image/233084",
+    "stats": {
+      "pace": 85,
+      "shooting": 67,
+      "passing": 76,
+      "dribbling": 79,
+      "defending": 78,
+      "physical": 71
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_212",
+    "fifaId": "236772",
+    "name": "D. Szoboszlai",
+    "fullName": "Dominik Szoboszlai",
+    "club": "Liverpool",
+    "nationality": "Hungary",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/236772",
+    "stats": {
+      "pace": 83,
+      "shooting": 82,
+      "passing": 84,
+      "dribbling": 82,
+      "defending": 34,
+      "physical": 64
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_213",
+    "fifaId": "243245",
+    "name": "O. Kökçü",
+    "fullName": "Orkun Kökçü",
+    "club": "Benfica",
+    "nationality": "Turkey",
+    "position": "CM",
+    "photoUrl": "/api/player-image/243245",
+    "stats": {
+      "pace": 72,
+      "shooting": 76,
+      "passing": 83,
+      "dribbling": 80,
+      "defending": 69,
+      "physical": 79
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_214",
+    "fifaId": "243580",
+    "name": "L. Openda",
+    "fullName": "Ikoma Loïs Openda",
+    "club": "RB Leipzig",
+    "nationality": "Belgium",
+    "position": "ST",
+    "photoUrl": "/api/player-image/243580",
+    "stats": {
+      "pace": 93,
+      "shooting": 79,
+      "passing": 68,
+      "dribbling": 80,
+      "defending": 31,
+      "physical": 78
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_215",
+    "fifaId": "226268",
+    "name": "F. Dimarco",
+    "fullName": "Federico Dimarco",
+    "club": "Inter",
+    "nationality": "Italy",
+    "position": "LWB",
+    "photoUrl": "/api/player-image/226268",
+    "stats": {
+      "pace": 79,
+      "shooting": 71,
+      "passing": 80,
+      "dribbling": 79,
+      "defending": 74,
+      "physical": 71
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_216",
+    "fifaId": "227535",
+    "name": "R. Bentancur",
+    "fullName": "Rodrigo Bentancur Colmán",
+    "club": "Tottenham Hotspur",
+    "nationality": "Uruguay",
+    "position": "CM",
+    "photoUrl": "/api/player-image/227535",
+    "stats": {
+      "pace": 70,
+      "shooting": 67,
+      "passing": 81,
+      "dribbling": 83,
+      "defending": 79,
+      "physical": 77
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_217",
+    "fifaId": "236401",
+    "name": "N. Mazraoui",
+    "fullName": "Noussair Mazraoui",
+    "club": "FC Bayern München",
+    "nationality": "Morocco",
+    "position": "RB",
+    "photoUrl": "/api/player-image/236401",
+    "stats": {
+      "pace": 79,
+      "shooting": 66,
+      "passing": 77,
+      "dribbling": 83,
+      "defending": 77,
+      "physical": 74
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_218",
+    "fifaId": "240091",
+    "name": "G. Vicario",
+    "fullName": "Guglielmo Vicario",
+    "club": "Tottenham Hotspur",
+    "nationality": "Italy",
+    "position": "GK",
+    "photoUrl": "/api/player-image/240091",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_219",
+    "fifaId": "240950",
+    "name": "Pedro Gonçalves",
+    "fullName": "Pedro António Pereira Gonçalves",
+    "club": "Sporting CP",
+    "nationality": "Portugal",
+    "position": "LW",
+    "photoUrl": "/api/player-image/240950",
+    "stats": {
+      "pace": 76,
+      "shooting": 82,
+      "passing": 81,
+      "dribbling": 84,
+      "defending": 58,
+      "physical": 66
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_220",
+    "fifaId": "244369",
+    "name": "V. Tsygankov",
+    "fullName": "Viktor Tsygankov",
+    "club": "Girona",
+    "nationality": "Ukraine",
+    "position": "RM",
+    "photoUrl": "/api/player-image/244369",
+    "stats": {
+      "pace": 85,
+      "shooting": 78,
+      "passing": 79,
+      "dribbling": 81,
+      "defending": 46,
+      "physical": 61
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_221",
+    "fifaId": "246242",
+    "name": "B. Dia",
+    "fullName": "Boulaye Dia",
+    "club": "Salernitana",
+    "nationality": "Senegal",
+    "position": "ST",
+    "photoUrl": "/api/player-image/246242",
+    "stats": {
+      "pace": 82,
+      "shooting": 81,
+      "passing": 62,
+      "dribbling": 81,
+      "defending": 27,
+      "physical": 77
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_222",
+    "fifaId": "204935",
+    "name": "J. Pickford",
+    "fullName": "Jordan Pickford",
+    "club": "Everton",
+    "nationality": "England",
+    "position": "GK",
+    "photoUrl": "/api/player-image/204935",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_223",
+    "fifaId": "216393",
+    "name": "Y. Tielemans",
+    "fullName": "Youri Tielemans",
+    "club": "Aston Villa",
+    "nationality": "Belgium",
+    "position": "CM",
+    "photoUrl": "/api/player-image/216393",
+    "stats": {
+      "pace": 50,
+      "shooting": 79,
+      "passing": 85,
+      "dribbling": 79,
+      "defending": 69,
+      "physical": 69
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_224",
+    "fifaId": "223197",
+    "name": "E. Ünal",
+    "fullName": "Enes Ünal",
+    "club": "Getafe",
+    "nationality": "Turkey",
+    "position": "ST",
+    "photoUrl": "/api/player-image/223197",
+    "stats": {
+      "pace": 72,
+      "shooting": 84,
+      "passing": 70,
+      "dribbling": 82,
+      "defending": 40,
+      "physical": 80
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_225",
+    "fifaId": "223959",
+    "name": "L. Torreira",
+    "fullName": "Lucas Torreira Di Pascua",
+    "club": "Galatasaray",
+    "nationality": "Uruguay",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/223959",
+    "stats": {
+      "pace": 76,
+      "shooting": 70,
+      "passing": 77,
+      "dribbling": 80,
+      "defending": 79,
+      "physical": 78
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_226",
+    "fifaId": "225850",
+    "name": "P. Kimpembe",
+    "fullName": "Presnel Kimpembe",
+    "club": "Paris Saint Germain",
+    "nationality": "France",
+    "position": "CB",
+    "photoUrl": "/api/player-image/225850",
+    "stats": {
+      "pace": 79,
+      "shooting": 43,
+      "passing": 68,
+      "dribbling": 69,
+      "defending": 81,
+      "physical": 86
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_227",
+    "fifaId": "230938",
+    "name": "F. Kessié",
+    "fullName": "Franck Yannick Kessié",
+    "club": "Al Ahli Jeddah",
+    "nationality": "Côte d'Ivoire",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/230938",
+    "stats": {
+      "pace": 79,
+      "shooting": 76,
+      "passing": 74,
+      "dribbling": 79,
+      "defending": 81,
+      "physical": 87
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_228",
+    "fifaId": "231447",
+    "name": "D. Malen",
+    "fullName": "Donyell Malen",
+    "club": "Borussia Dortmund",
+    "nationality": "Netherlands",
+    "position": "RM",
+    "photoUrl": "/api/player-image/231447",
+    "stats": {
+      "pace": 89,
+      "shooting": 80,
+      "passing": 73,
+      "dribbling": 85,
+      "defending": 35,
+      "physical": 73
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_229",
+    "fifaId": "239837",
+    "name": "A. Mac Allister",
+    "fullName": "Alexis Mac Allister",
+    "club": "Liverpool",
+    "nationality": "Argentina",
+    "position": "CM",
+    "photoUrl": "/api/player-image/239837",
+    "stats": {
+      "pace": 70,
+      "shooting": 79,
+      "passing": 82,
+      "dribbling": 82,
+      "defending": 70,
+      "physical": 72
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_230",
+    "fifaId": "241671",
+    "name": "D. Livaković",
+    "fullName": "Dominik Livaković",
+    "club": "Fenerbahçe",
+    "nationality": "Croatia",
+    "position": "GK",
+    "photoUrl": "/api/player-image/241671",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_231",
+    "fifaId": "212188",
+    "name": "T. Werner",
+    "fullName": "Timo Werner",
+    "club": "RB Leipzig",
+    "nationality": "Germany",
+    "position": "ST",
+    "photoUrl": "/api/player-image/212188",
+    "stats": {
+      "pace": 91,
+      "shooting": 80,
+      "passing": 70,
+      "dribbling": 82,
+      "defending": 35,
+      "physical": 69
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_232",
+    "fifaId": "213565",
+    "name": "T. Lemar",
+    "fullName": "Thomas Lemar",
+    "club": "Atlético Madrid",
+    "nationality": "France",
+    "position": "CM",
+    "photoUrl": "/api/player-image/213565",
+    "stats": {
+      "pace": 82,
+      "shooting": 78,
+      "passing": 83,
+      "dribbling": 86,
+      "defending": 67,
+      "physical": 65
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_233",
+    "fifaId": "223334",
+    "name": "Joelinton",
+    "fullName": "Joelinton Cassio Apolinário de Lira",
+    "club": "Newcastle United",
+    "nationality": "Brazil",
+    "position": "CM",
+    "photoUrl": "/api/player-image/223334",
+    "stats": {
+      "pace": 78,
+      "shooting": 71,
+      "passing": 76,
+      "dribbling": 82,
+      "defending": 81,
+      "physical": 88
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_234",
+    "fifaId": "225341",
+    "name": "David García",
+    "fullName": "David García Zubiría",
+    "club": "Osasuna",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/225341",
+    "stats": {
+      "pace": 59,
+      "shooting": 37,
+      "passing": 66,
+      "dribbling": 65,
+      "defending": 83,
+      "physical": 77
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_235",
+    "fifaId": "229237",
+    "name": "M. Akanji",
+    "fullName": "Manuel Obafemi Akanji",
+    "club": "Manchester City",
+    "nationality": "Switzerland",
+    "position": "CB",
+    "photoUrl": "/api/player-image/229237",
+    "stats": {
+      "pace": 77,
+      "shooting": 48,
+      "passing": 70,
+      "dribbling": 72,
+      "defending": 83,
+      "physical": 78
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_236",
+    "fifaId": "229668",
+    "name": "Mario Hermoso",
+    "fullName": "Mario Hermoso Canseco",
+    "club": "Atlético Madrid",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/229668",
+    "stats": {
+      "pace": 75,
+      "shooting": 49,
+      "passing": 74,
+      "dribbling": 71,
+      "defending": 82,
+      "physical": 79
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_237",
+    "fifaId": "235410",
+    "name": "Y. En-Nesyri",
+    "fullName": "Youssef En-Nesyri",
+    "club": "Sevilla",
+    "nationality": "Morocco",
+    "position": "ST",
+    "photoUrl": "/api/player-image/235410",
+    "stats": {
+      "pace": 81,
+      "shooting": 82,
+      "passing": 63,
+      "dribbling": 76,
+      "defending": 36,
+      "physical": 79
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_238",
+    "fifaId": "173608",
+    "name": "Joselu",
+    "fullName": "José Luis Mato Sanmartín",
+    "club": "Real Madrid",
+    "nationality": "Spain",
+    "position": "ST",
+    "photoUrl": "/api/player-image/173608",
+    "stats": {
+      "pace": 63,
+      "shooting": 84,
+      "passing": 69,
+      "dribbling": 74,
+      "defending": 33,
+      "physical": 77
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_239",
+    "fifaId": "178509",
+    "name": "O. Giroud",
+    "fullName": "Olivier Giroud",
+    "club": "Milan",
+    "nationality": "France",
+    "position": "ST",
+    "photoUrl": "/api/player-image/178509",
+    "stats": {
+      "pace": 43,
+      "shooting": 83,
+      "passing": 74,
+      "dribbling": 74,
+      "defending": 42,
+      "physical": 80
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_240",
+    "fifaId": "184134",
+    "name": "Fernando",
+    "fullName": "Fernando Francisco Reges",
+    "club": "Sevilla",
+    "nationality": "Brazil",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/184134",
+    "stats": {
+      "pace": 63,
+      "shooting": 62,
+      "passing": 74,
+      "dribbling": 73,
+      "defending": 82,
+      "physical": 81
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_241",
+    "fifaId": "192318",
+    "name": "M. Götze",
+    "fullName": "Mario Götze",
+    "club": "Eintracht Frankfurt",
+    "nationality": "Germany",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/192318",
+    "stats": {
+      "pace": 63,
+      "shooting": 75,
+      "passing": 83,
+      "dribbling": 85,
+      "defending": 55,
+      "physical": 71
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_242",
+    "fifaId": "192366",
+    "name": "N. Otamendi",
+    "fullName": "Nicolás Hernán Gonzalo Otamendi",
+    "club": "Benfica",
+    "nationality": "Argentina",
+    "position": "CB",
+    "photoUrl": "/api/player-image/192366",
+    "stats": {
+      "pace": 64,
+      "shooting": 57,
+      "passing": 64,
+      "dribbling": 59,
+      "defending": 83,
+      "physical": 85
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_243",
+    "fifaId": "196978",
+    "name": "C. Wilson",
+    "fullName": "Callum Wilson",
+    "club": "Newcastle United",
+    "nationality": "England",
+    "position": "ST",
+    "photoUrl": "/api/player-image/196978",
+    "stats": {
+      "pace": 80,
+      "shooting": 82,
+      "passing": 67,
+      "dribbling": 79,
+      "defending": 42,
+      "physical": 76
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_244",
+    "fifaId": "198176",
+    "name": "S. de Vrij",
+    "fullName": "Stefan de Vrij",
+    "club": "Inter",
+    "nationality": "Netherlands",
+    "position": "CB",
+    "photoUrl": "/api/player-image/198176",
+    "stats": {
+      "pace": 64,
+      "shooting": 41,
+      "passing": 64,
+      "dribbling": 69,
+      "defending": 84,
+      "physical": 76
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_245",
+    "fifaId": "199434",
+    "name": "D. Tadić",
+    "fullName": "Dušan Tadić",
+    "club": "Fenerbahçe",
+    "nationality": "Serbia",
+    "position": "LW",
+    "photoUrl": "/api/player-image/199434",
+    "stats": {
+      "pace": 64,
+      "shooting": 80,
+      "passing": 85,
+      "dribbling": 83,
+      "defending": 43,
+      "physical": 76
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_246",
+    "fifaId": "199482",
+    "name": "A. Lopes",
+    "fullName": "Anthony Lopes",
+    "club": "Olympique Lyonnais",
+    "nationality": "Portugal",
+    "position": "GK",
+    "photoUrl": "/api/player-image/199482",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_247",
+    "fifaId": "199503",
+    "name": "G. Xhaka",
+    "fullName": "Granit Xhaka",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Switzerland",
+    "position": "CM",
+    "photoUrl": "/api/player-image/199503",
+    "stats": {
+      "pace": 49,
+      "shooting": 74,
+      "passing": 82,
+      "dribbling": 73,
+      "defending": 75,
+      "physical": 82
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_248",
+    "fifaId": "201942",
+    "name": "Roberto Firmino",
+    "fullName": "Roberto Firmino Barbosa de Oliveira",
+    "club": "Al Ahli Jeddah",
+    "nationality": "Brazil",
+    "position": "CF",
+    "photoUrl": "/api/player-image/201942",
+    "stats": {
+      "pace": 70,
+      "shooting": 77,
+      "passing": 79,
+      "dribbling": 87,
+      "defending": 58,
+      "physical": 77
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_249",
+    "fifaId": "204525",
+    "name": "Iñigo Martínez",
+    "fullName": "Íñigo Martínez Berridi",
+    "club": "FC Barcelona",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/204525",
+    "stats": {
+      "pace": 71,
+      "shooting": 56,
+      "passing": 67,
+      "dribbling": 61,
+      "defending": 82,
+      "physical": 80
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_250",
+    "fifaId": "204639",
+    "name": "S. Savić",
+    "fullName": "Stefan Savić",
+    "club": "Atlético Madrid",
+    "nationality": "Montenegro",
+    "position": "CB",
+    "photoUrl": "/api/player-image/204639",
+    "stats": {
+      "pace": 64,
+      "shooting": 35,
+      "passing": 57,
+      "dribbling": 57,
+      "defending": 85,
+      "physical": 80
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_251",
+    "fifaId": "204963",
+    "name": "Carvajal",
+    "fullName": "Daniel Carvajal Ramos",
+    "club": "Real Madrid",
+    "nationality": "Spain",
+    "position": "RB",
+    "photoUrl": "/api/player-image/204963",
+    "stats": {
+      "pace": 82,
+      "shooting": 54,
+      "passing": 76,
+      "dribbling": 79,
+      "defending": 77,
+      "physical": 79
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_252",
+    "fifaId": "207410",
+    "name": "M. Kovačić",
+    "fullName": "Mateo Kovačić",
+    "club": "Manchester City",
+    "nationality": "Croatia",
+    "position": "CM",
+    "photoUrl": "/api/player-image/207410",
+    "stats": {
+      "pace": 69,
+      "shooting": 69,
+      "passing": 82,
+      "dribbling": 87,
+      "defending": 71,
+      "physical": 70
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_253",
+    "fifaId": "209889",
+    "name": "R. Guerreiro",
+    "fullName": "Raphaël Adelino José Guerreiro",
+    "club": "FC Bayern München",
+    "nationality": "Portugal",
+    "position": "LB",
+    "photoUrl": "/api/player-image/209889",
+    "stats": {
+      "pace": 65,
+      "shooting": 78,
+      "passing": 85,
+      "dribbling": 88,
+      "defending": 76,
+      "physical": 55
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_254",
+    "fifaId": "210047",
+    "name": "F. Schär",
+    "fullName": "Fabian Lukas Schär",
+    "club": "Newcastle United",
+    "nationality": "Switzerland",
+    "position": "CB",
+    "photoUrl": "/api/player-image/210047",
+    "stats": {
+      "pace": 54,
+      "shooting": 68,
+      "passing": 75,
+      "dribbling": 73,
+      "defending": 84,
+      "physical": 77
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_255",
+    "fifaId": "210411",
+    "name": "Otávio",
+    "fullName": "Otávio Edmilson da Silva Monteiro",
+    "club": "Al Nassr",
+    "nationality": "Portugal",
+    "position": "RM",
+    "photoUrl": "/api/player-image/210411",
+    "stats": {
+      "pace": 78,
+      "shooting": 70,
+      "passing": 81,
+      "dribbling": 85,
+      "defending": 66,
+      "physical": 74
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_256",
+    "fifaId": "211688",
+    "name": "Gayà",
+    "fullName": "José Luís Gayà Peña",
+    "club": "Valencia",
+    "nationality": "Spain",
+    "position": "LB",
+    "photoUrl": "/api/player-image/211688",
+    "stats": {
+      "pace": 81,
+      "shooting": 61,
+      "passing": 77,
+      "dribbling": 79,
+      "defending": 78,
+      "physical": 74
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_257",
+    "fifaId": "211738",
+    "name": "M. Flekken",
+    "fullName": "Mark Flekken",
+    "club": "Brentford",
+    "nationality": "Netherlands",
+    "position": "GK",
+    "photoUrl": "/api/player-image/211738",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_258",
+    "fifaId": "212096",
+    "name": "V. Grifo",
+    "fullName": "Vincenzo Grifo",
+    "club": "SC Freiburg",
+    "nationality": "Italy",
+    "position": "LM",
+    "photoUrl": "/api/player-image/212096",
+    "stats": {
+      "pace": 71,
+      "shooting": 80,
+      "passing": 83,
+      "dribbling": 81,
+      "defending": 40,
+      "physical": 64
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_259",
+    "fifaId": "212242",
+    "name": "R. Andrich",
+    "fullName": "Robert Andrich",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Germany",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/212242",
+    "stats": {
+      "pace": 57,
+      "shooting": 76,
+      "passing": 76,
+      "dribbling": 73,
+      "defending": 81,
+      "physical": 85
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_260",
+    "fifaId": "212814",
+    "name": "João Mário",
+    "fullName": "João Mário Naval da Costa Eduardo",
+    "club": "Benfica",
+    "nationality": "Portugal",
+    "position": "RM",
+    "photoUrl": "/api/player-image/212814",
+    "stats": {
+      "pace": 70,
+      "shooting": 79,
+      "passing": 81,
+      "dribbling": 83,
+      "defending": 69,
+      "physical": 70
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_261",
+    "fifaId": "213516",
+    "name": "Ricardo Horta",
+    "fullName": "Ricardo Jorge da Luz Horta",
+    "club": "Sporting Braga",
+    "nationality": "Portugal",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/213516",
+    "stats": {
+      "pace": 80,
+      "shooting": 83,
+      "passing": 80,
+      "dribbling": 80,
+      "defending": 43,
+      "physical": 70
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_262",
+    "fifaId": "214997",
+    "name": "Á. Correa",
+    "fullName": "Ángel Martín Correa",
+    "club": "Atlético Madrid",
+    "nationality": "Argentina",
+    "position": "ST",
+    "photoUrl": "/api/player-image/214997",
+    "stats": {
+      "pace": 85,
+      "shooting": 84,
+      "passing": 77,
+      "dribbling": 86,
+      "defending": 50,
+      "physical": 75
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_263",
+    "fifaId": "216320",
+    "name": "S. Fofana",
+    "fullName": "Seko Fofana",
+    "club": "Al Nassr",
+    "nationality": "Côte d'Ivoire",
+    "position": "CM",
+    "photoUrl": "/api/player-image/216320",
+    "stats": {
+      "pace": 71,
+      "shooting": 77,
+      "passing": 76,
+      "dribbling": 80,
+      "defending": 73,
+      "physical": 86
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_264",
+    "fifaId": "219522",
+    "name": "J. Ledesma",
+    "fullName": "Jeremías Conan Ledesma",
+    "club": "Cádiz",
+    "nationality": "Argentina",
+    "position": "GK",
+    "photoUrl": "/api/player-image/219522",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_265",
+    "fifaId": "220502",
+    "name": "M. Zaccagni",
+    "fullName": "Mattia Zaccagni",
+    "club": "Lazio",
+    "nationality": "Italy",
+    "position": "LW",
+    "photoUrl": "/api/player-image/220502",
+    "stats": {
+      "pace": 87,
+      "shooting": 77,
+      "passing": 74,
+      "dribbling": 88,
+      "defending": 57,
+      "physical": 67
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_266",
+    "fifaId": "224987",
+    "name": "I. Provedel",
+    "fullName": "Ivan Provedel",
+    "club": "Lazio",
+    "nationality": "Italy",
+    "position": "GK",
+    "photoUrl": "/api/player-image/224987",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_267",
+    "fifaId": "228618",
+    "name": "F. Mendy",
+    "fullName": "Ferland Mendy",
+    "club": "Real Madrid",
+    "nationality": "France",
+    "position": "LB",
+    "photoUrl": "/api/player-image/228618",
+    "stats": {
+      "pace": 92,
+      "shooting": 64,
+      "passing": 76,
+      "dribbling": 77,
+      "defending": 77,
+      "physical": 86
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_268",
+    "fifaId": "230182",
+    "name": "Lucas Mantela",
+    "fullName": "Lucas Luciano Mantela Patrício",
+    "club": "Palmeiras",
+    "nationality": "Brazil",
+    "position": "GK",
+    "photoUrl": "/api/player-image/230182",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_269",
+    "fifaId": "230375",
+    "name": "Josué Chiamulera",
+    "fullName": "Josué Durval Chiamulera Vaz",
+    "club": "Athletico Paranaense",
+    "nationality": "Brazil",
+    "position": "CB",
+    "photoUrl": "/api/player-image/230375",
+    "stats": {
+      "pace": 78,
+      "shooting": 43,
+      "passing": 56,
+      "dribbling": 64,
+      "defending": 84,
+      "physical": 79
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_270",
+    "fifaId": "231591",
+    "name": "Javi Galán",
+    "fullName": "Javier Galán Gil",
+    "club": "Atlético Madrid",
+    "nationality": "Spain",
+    "position": "LB",
+    "photoUrl": "/api/player-image/231591",
+    "stats": {
+      "pace": 81,
+      "shooting": 56,
+      "passing": 77,
+      "dribbling": 83,
+      "defending": 79,
+      "physical": 72
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_271",
+    "fifaId": "232498",
+    "name": "Isi Palazón",
+    "fullName": "Isaac Palazón Camacho",
+    "club": "Rayo Vallecano",
+    "nationality": "Spain",
+    "position": "RM",
+    "photoUrl": "/api/player-image/232498",
+    "stats": {
+      "pace": 84,
+      "shooting": 79,
+      "passing": 79,
+      "dribbling": 82,
+      "defending": 39,
+      "physical": 64
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_272",
+    "fifaId": "234642",
+    "name": "É. Mendy",
+    "fullName": "Édouard Mendy",
+    "club": "Al Ahli Jeddah",
+    "nationality": "Senegal",
+    "position": "GK",
+    "photoUrl": "/api/player-image/234642",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_273",
+    "fifaId": "241788",
+    "name": "M. Taremi",
+    "fullName": "Mehdi Taremi",
+    "club": "Porto",
+    "nationality": "Iran",
+    "position": "ST",
+    "photoUrl": "/api/player-image/241788",
+    "stats": {
+      "pace": 78,
+      "shooting": 81,
+      "passing": 76,
+      "dribbling": 81,
+      "defending": 38,
+      "physical": 74
+    },
+    "overall": 82,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_274",
+    "fifaId": "263578",
+    "name": "Balde",
+    "fullName": "Alejandro Balde Martínez",
+    "club": "FC Barcelona",
+    "nationality": "Spain",
+    "position": "LB",
+    "photoUrl": "/api/player-image/263578",
+    "stats": {
+      "pace": 91,
+      "shooting": 48,
+      "passing": 73,
+      "dribbling": 78,
+      "defending": 75,
+      "physical": 64
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_275",
+    "fifaId": "237678",
+    "name": "I. Konaté",
+    "fullName": "Ibrahima Konaté",
+    "club": "Liverpool",
+    "nationality": "France",
+    "position": "CB",
+    "photoUrl": "/api/player-image/237678",
+    "stats": {
+      "pace": 77,
+      "shooting": 34,
+      "passing": 57,
+      "dribbling": 68,
+      "defending": 82,
+      "physical": 82
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_276",
+    "fifaId": "242444",
+    "name": "João Félix",
+    "fullName": "João Félix Sequeira",
+    "club": "FC Barcelona",
+    "nationality": "Portugal",
+    "position": "CF",
+    "photoUrl": "/api/player-image/242444",
+    "stats": {
+      "pace": 81,
+      "shooting": 79,
+      "passing": 78,
+      "dribbling": 85,
+      "defending": 40,
+      "physical": 67
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_277",
+    "fifaId": "244675",
+    "name": "Sancet",
+    "fullName": "Oihan Sancet Tirapu",
+    "club": "Athletic Club",
+    "nationality": "Spain",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/244675",
+    "stats": {
+      "pace": 73,
+      "shooting": 77,
+      "passing": 77,
+      "dribbling": 82,
+      "defending": 61,
+      "physical": 73
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_278",
+    "fifaId": "255475",
+    "name": "Antony",
+    "fullName": "Antony Matheus dos Santos",
+    "club": "Manchester United",
+    "nationality": "Brazil",
+    "position": "RW",
+    "photoUrl": "/api/player-image/255475",
+    "stats": {
+      "pace": 83,
+      "shooting": 76,
+      "passing": 74,
+      "dribbling": 87,
+      "defending": 46,
+      "physical": 73
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_279",
+    "fifaId": "233731",
+    "name": "A. Isak",
+    "fullName": "Alexander Isak",
+    "club": "Newcastle United",
+    "nationality": "Sweden",
+    "position": "ST",
+    "photoUrl": "/api/player-image/233731",
+    "stats": {
+      "pace": 83,
+      "shooting": 81,
+      "passing": 72,
+      "dribbling": 84,
+      "defending": 39,
+      "physical": 72
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_280",
+    "fifaId": "246172",
+    "name": "S. Chukwueze",
+    "fullName": "Samuel Chimerenka Chukwueze",
+    "club": "Milan",
+    "nationality": "Nigeria",
+    "position": "RW",
+    "photoUrl": "/api/player-image/246172",
+    "stats": {
+      "pace": 89,
+      "shooting": 75,
+      "passing": 74,
+      "dribbling": 84,
+      "defending": 36,
+      "physical": 63
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_281",
+    "fifaId": "253306",
+    "name": "M. Ugarte",
+    "fullName": "Manuel Ugarte Ribeiro",
+    "club": "Paris Saint Germain",
+    "nationality": "Uruguay",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/253306",
+    "stats": {
+      "pace": 72,
+      "shooting": 64,
+      "passing": 73,
+      "dribbling": 77,
+      "defending": 77,
+      "physical": 80
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_282",
+    "fifaId": "247263",
+    "name": "E. Tapsoba",
+    "fullName": "Edmond Fayçal Tapsoba",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Burkina Faso",
+    "position": "CB",
+    "photoUrl": "/api/player-image/247263",
+    "stats": {
+      "pace": 75,
+      "shooting": 54,
+      "passing": 65,
+      "dribbling": 70,
+      "defending": 82,
+      "physical": 79
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_283",
+    "fifaId": "247394",
+    "name": "D. Kulusevski",
+    "fullName": "Dejan Kulusevski",
+    "club": "Tottenham Hotspur",
+    "nationality": "Sweden",
+    "position": "RW",
+    "photoUrl": "/api/player-image/247394",
+    "stats": {
+      "pace": 76,
+      "shooting": 77,
+      "passing": 80,
+      "dribbling": 84,
+      "defending": 56,
+      "physical": 75
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_284",
+    "fifaId": "228881",
+    "name": "D. Calabria",
+    "fullName": "Davide Calabria",
+    "club": "Milan",
+    "nationality": "Italy",
+    "position": "RB",
+    "photoUrl": "/api/player-image/228881",
+    "stats": {
+      "pace": 79,
+      "shooting": 57,
+      "passing": 71,
+      "dribbling": 77,
+      "defending": 79,
+      "physical": 73
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_285",
+    "fifaId": "229984",
+    "name": "B. Chilwell",
+    "fullName": "Ben Chilwell",
+    "club": "Chelsea",
+    "nationality": "England",
+    "position": "LB",
+    "photoUrl": "/api/player-image/229984",
+    "stats": {
+      "pace": 74,
+      "shooting": 60,
+      "passing": 78,
+      "dribbling": 78,
+      "defending": 77,
+      "physical": 73
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_286",
+    "fifaId": "233064",
+    "name": "M. Mount",
+    "fullName": "Mason Mount",
+    "club": "Manchester United",
+    "nationality": "England",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/233064",
+    "stats": {
+      "pace": 72,
+      "shooting": 79,
+      "passing": 82,
+      "dribbling": 80,
+      "defending": 56,
+      "physical": 67
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_287",
+    "fifaId": "233195",
+    "name": "X. Schlager",
+    "fullName": "Xaver Schlager",
+    "club": "RB Leipzig",
+    "nationality": "Austria",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/233195",
+    "stats": {
+      "pace": 74,
+      "shooting": 70,
+      "passing": 74,
+      "dribbling": 78,
+      "defending": 75,
+      "physical": 80
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_288",
+    "fifaId": "233927",
+    "name": "Lucas Paquetá",
+    "fullName": "Lucas Tolentino Coelho de Lima",
+    "club": "West Ham United",
+    "nationality": "Brazil",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/233927",
+    "stats": {
+      "pace": 72,
+      "shooting": 77,
+      "passing": 79,
+      "dribbling": 84,
+      "defending": 69,
+      "physical": 76
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_289",
+    "fifaId": "235173",
+    "name": "I. Sangaré",
+    "fullName": "Ibrahim Sangaré",
+    "club": "Nottingham Forest",
+    "nationality": "Côte d'Ivoire",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/235173",
+    "stats": {
+      "pace": 66,
+      "shooting": 66,
+      "passing": 74,
+      "dribbling": 75,
+      "defending": 81,
+      "physical": 86
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_290",
+    "fifaId": "235844",
+    "name": "E. Álvarez",
+    "fullName": "Edson Omar Álvarez Velázquez",
+    "club": "West Ham United",
+    "nationality": "Mexico",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/235844",
+    "stats": {
+      "pace": 68,
+      "shooting": 58,
+      "passing": 68,
+      "dribbling": 70,
+      "defending": 82,
+      "physical": 87
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_291",
+    "fifaId": "240690",
+    "name": "N. González",
+    "fullName": "Nicolás Iván González",
+    "club": "Fiorentina",
+    "nationality": "Argentina",
+    "position": "RW",
+    "photoUrl": "/api/player-image/240690",
+    "stats": {
+      "pace": 87,
+      "shooting": 76,
+      "passing": 73,
+      "dribbling": 83,
+      "defending": 45,
+      "physical": 64
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_292",
+    "fifaId": "243576",
+    "name": "Pedro Porro",
+    "fullName": "Pedro Antonio Porro Sauceda",
+    "club": "Tottenham Hotspur",
+    "nationality": "Spain",
+    "position": "RB",
+    "photoUrl": "/api/player-image/243576",
+    "stats": {
+      "pace": 82,
+      "shooting": 73,
+      "passing": 77,
+      "dribbling": 81,
+      "defending": 74,
+      "physical": 77
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_293",
+    "fifaId": "243630",
+    "name": "J. David",
+    "fullName": "Jonathan Christian David",
+    "club": "Lille",
+    "nationality": "Canada",
+    "position": "ST",
+    "photoUrl": "/api/player-image/243630",
+    "stats": {
+      "pace": 82,
+      "shooting": 81,
+      "passing": 71,
+      "dribbling": 78,
+      "defending": 34,
+      "physical": 75
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_294",
+    "fifaId": "204883",
+    "name": "B. Samba",
+    "fullName": "Brice Samba",
+    "club": "Lens",
+    "nationality": "France",
+    "position": "GK",
+    "photoUrl": "/api/player-image/204883",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_295",
+    "fifaId": "206585",
+    "name": "Kepa",
+    "fullName": "Kepa Arrizabalaga Revuelta",
+    "club": "Real Madrid",
+    "nationality": "Spain",
+    "position": "GK",
+    "photoUrl": "/api/player-image/206585",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_296",
+    "fifaId": "211990",
+    "name": "O. Vlachodimos",
+    "fullName": "Odisseas Vlachodimos",
+    "club": "Nottingham Forest",
+    "nationality": "Greece",
+    "position": "GK",
+    "photoUrl": "/api/player-image/211990",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_297",
+    "fifaId": "230899",
+    "name": "A. Lookman",
+    "fullName": "Ademola Lookman",
+    "club": "Atalanta",
+    "nationality": "Nigeria",
+    "position": "ST",
+    "photoUrl": "/api/player-image/230899",
+    "stats": {
+      "pace": 86,
+      "shooting": 81,
+      "passing": 69,
+      "dribbling": 85,
+      "defending": 30,
+      "physical": 67
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_298",
+    "fifaId": "251892",
+    "name": "Beto",
+    "fullName": "Norberto Bercique Gomes Betuncal",
+    "club": "Everton",
+    "nationality": "Portugal",
+    "position": "ST",
+    "photoUrl": "/api/player-image/251892",
+    "stats": {
+      "pace": 86,
+      "shooting": 79,
+      "passing": 59,
+      "dribbling": 75,
+      "defending": 25,
+      "physical": 84
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_299",
+    "fifaId": "208268",
+    "name": "B. Cristante",
+    "fullName": "Bryan Cristante",
+    "club": "Roma",
+    "nationality": "Italy",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/208268",
+    "stats": {
+      "pace": 53,
+      "shooting": 73,
+      "passing": 78,
+      "dribbling": 75,
+      "defending": 78,
+      "physical": 82
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_300",
+    "fifaId": "208920",
+    "name": "N. Aké",
+    "fullName": "Nathan Aké",
+    "club": "Manchester City",
+    "nationality": "Netherlands",
+    "position": "CB",
+    "photoUrl": "/api/player-image/208920",
+    "stats": {
+      "pace": 75,
+      "shooting": 53,
+      "passing": 72,
+      "dribbling": 74,
+      "defending": 82,
+      "physical": 77
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_301",
+    "fifaId": "213331",
+    "name": "J. Tah",
+    "fullName": "Jonathan Tah",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Germany",
+    "position": "CB",
+    "photoUrl": "/api/player-image/213331",
+    "stats": {
+      "pace": 67,
+      "shooting": 37,
+      "passing": 59,
+      "dribbling": 61,
+      "defending": 81,
+      "physical": 85
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_302",
+    "fifaId": "216388",
+    "name": "A. Saint-Maximin",
+    "fullName": "Allan Saint-Maximin",
+    "club": "Al Ahli Jeddah",
+    "nationality": "France",
+    "position": "LM",
+    "photoUrl": "/api/player-image/216388",
+    "stats": {
+      "pace": 89,
+      "shooting": 73,
+      "passing": 73,
+      "dribbling": 88,
+      "defending": 29,
+      "physical": 68
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_303",
+    "fifaId": "222737",
+    "name": "Malcom",
+    "fullName": "Malcom Filipe Silva de Oliveira",
+    "club": "Al Hilal",
+    "nationality": "Brazil",
+    "position": "RM",
+    "photoUrl": "/api/player-image/222737",
+    "stats": {
+      "pace": 83,
+      "shooting": 79,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 28,
+      "physical": 66
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_304",
+    "fifaId": "225126",
+    "name": "E. Skhiri",
+    "fullName": "Ellyes Joris Skhiri",
+    "club": "Eintracht Frankfurt",
+    "nationality": "Tunisia",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/225126",
+    "stats": {
+      "pace": 63,
+      "shooting": 73,
+      "passing": 74,
+      "dribbling": 76,
+      "defending": 80,
+      "physical": 76
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_305",
+    "fifaId": "226226",
+    "name": "G. Lo Celso",
+    "fullName": "Giovani Lo Celso",
+    "club": "Tottenham Hotspur",
+    "nationality": "Argentina",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/226226",
+    "stats": {
+      "pace": 70,
+      "shooting": 75,
+      "passing": 83,
+      "dribbling": 84,
+      "defending": 68,
+      "physical": 73
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_306",
+    "fifaId": "227950",
+    "name": "Yeray",
+    "fullName": "Yeray Álvarez López",
+    "club": "Athletic Club",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/227950",
+    "stats": {
+      "pace": 64,
+      "shooting": 49,
+      "passing": 68,
+      "dribbling": 65,
+      "defending": 83,
+      "physical": 76
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_307",
+    "fifaId": "232730",
+    "name": "D. Kamada",
+    "fullName": "鎌田 大地",
+    "club": "Lazio",
+    "nationality": "Japan",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/232730",
+    "stats": {
+      "pace": 79,
+      "shooting": 73,
+      "passing": 80,
+      "dribbling": 83,
+      "defending": 54,
+      "physical": 64
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_308",
+    "fifaId": "233096",
+    "name": "D. Dumfries",
+    "fullName": "Denzel Justus Morris Dumfries",
+    "club": "Inter",
+    "nationality": "Netherlands",
+    "position": "RWB",
+    "photoUrl": "/api/player-image/233096",
+    "stats": {
+      "pace": 83,
+      "shooting": 63,
+      "passing": 70,
+      "dribbling": 73,
+      "defending": 78,
+      "physical": 89
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_309",
+    "fifaId": "235944",
+    "name": "Brais Méndez",
+    "fullName": "Brais Méndez Portela",
+    "club": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/235944",
+    "stats": {
+      "pace": 71,
+      "shooting": 80,
+      "passing": 82,
+      "dribbling": 81,
+      "defending": 65,
+      "physical": 73
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_310",
+    "fifaId": "236276",
+    "name": "A. Danjuma",
+    "fullName": "Arnaut Danjuma Adam Groeneveld",
+    "club": "Everton",
+    "nationality": "Netherlands",
+    "position": "ST",
+    "photoUrl": "/api/player-image/236276",
+    "stats": {
+      "pace": 86,
+      "shooting": 81,
+      "passing": 76,
+      "dribbling": 83,
+      "defending": 44,
+      "physical": 67
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_311",
+    "fifaId": "236786",
+    "name": "M. Terrier",
+    "fullName": "Martin Terrier",
+    "club": "Rennes",
+    "nationality": "France",
+    "position": "LM",
+    "photoUrl": "/api/player-image/236786",
+    "stats": {
+      "pace": 84,
+      "shooting": 82,
+      "passing": 75,
+      "dribbling": 79,
+      "defending": 36,
+      "physical": 72
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_312",
+    "fifaId": "252308",
+    "name": "A. Al Musrati",
+    "fullName": "Almoatasembellah Ali Mohamed Al musrati",
+    "club": "Sporting Braga",
+    "nationality": "Libya",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/252308",
+    "stats": {
+      "pace": 62,
+      "shooting": 66,
+      "passing": 71,
+      "dribbling": 71,
+      "defending": 80,
+      "physical": 84
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_313",
+    "fifaId": "120533",
+    "name": "Pepe",
+    "fullName": "Kléper Laveran de Lima Ferreira",
+    "club": "Porto",
+    "nationality": "Portugal",
+    "position": "CB",
+    "photoUrl": "/api/player-image/120533",
+    "stats": {
+      "pace": 75,
+      "shooting": 51,
+      "passing": 60,
+      "dribbling": 61,
+      "defending": 81,
+      "physical": 87
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_314",
+    "fifaId": "140233",
+    "name": "G. Ochoa",
+    "fullName": "Francisco Guillermo Ochoa Magaña",
+    "club": "Salernitana",
+    "nationality": "Mexico",
+    "position": "GK",
+    "photoUrl": "/api/player-image/140233",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_315",
+    "fifaId": "157481",
+    "name": "Raúl Albiol",
+    "fullName": "Raúl Albiol Tortajada",
+    "club": "Villarreal",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/157481",
+    "stats": {
+      "pace": 36,
+      "shooting": 41,
+      "passing": 62,
+      "dribbling": 63,
+      "defending": 85,
+      "physical": 68
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_316",
+    "fifaId": "163587",
+    "name": "K. Schmeichel",
+    "fullName": "Kasper Peter Schmeichel",
+    "club": "Anderlecht",
+    "nationality": "Denmark",
+    "position": "GK",
+    "photoUrl": "/api/player-image/163587",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_317",
+    "fifaId": "168651",
+    "name": "I. Rakitić",
+    "fullName": "Ivan Rakitić",
+    "club": "Sevilla",
+    "nationality": "Croatia",
+    "position": "CM",
+    "photoUrl": "/api/player-image/168651",
+    "stats": {
+      "pace": 50,
+      "shooting": 79,
+      "passing": 84,
+      "dribbling": 78,
+      "defending": 74,
+      "physical": 70
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_318",
+    "fifaId": "175943",
+    "name": "D. Mertens",
+    "fullName": "Dries Mertens",
+    "club": "Galatasaray",
+    "nationality": "Belgium",
+    "position": "CF",
+    "photoUrl": "/api/player-image/175943",
+    "stats": {
+      "pace": 76,
+      "shooting": 80,
+      "passing": 80,
+      "dribbling": 83,
+      "defending": 40,
+      "physical": 49
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_319",
+    "fifaId": "178005",
+    "name": "Rui Patrício",
+    "fullName": "Rui Pedro dos Santos Patrício",
+    "club": "Roma",
+    "nationality": "Portugal",
+    "position": "GK",
+    "photoUrl": "/api/player-image/178005",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_320",
+    "fifaId": "178213",
+    "name": "E. Capoue",
+    "fullName": "Etienne Capoue",
+    "club": "Villarreal",
+    "nationality": "France",
+    "position": "CM",
+    "photoUrl": "/api/player-image/178213",
+    "stats": {
+      "pace": 50,
+      "shooting": 75,
+      "passing": 78,
+      "dribbling": 75,
+      "defending": 79,
+      "physical": 78
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_321",
+    "fifaId": "179645",
+    "name": "S. Kjær",
+    "fullName": "Simon Thorup Kjær",
+    "club": "Milan",
+    "nationality": "Denmark",
+    "position": "CB",
+    "photoUrl": "/api/player-image/179645",
+    "stats": {
+      "pace": 59,
+      "shooting": 54,
+      "passing": 64,
+      "dribbling": 60,
+      "defending": 83,
+      "physical": 76
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_322",
+    "fifaId": "184087",
+    "name": "T. Alderweireld",
+    "fullName": "Toby Albertine Maurits Alderweireld",
+    "club": "Antwerp",
+    "nationality": "Belgium",
+    "position": "CB",
+    "photoUrl": "/api/player-image/184087",
+    "stats": {
+      "pace": 54,
+      "shooting": 61,
+      "passing": 74,
+      "dribbling": 67,
+      "defending": 83,
+      "physical": 79
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_323",
+    "fifaId": "184941",
+    "name": "A. Sánchez",
+    "fullName": "Alexis Alejandro Sánchez Sánchez",
+    "club": "Inter",
+    "nationality": "Chile",
+    "position": "ST",
+    "photoUrl": "/api/player-image/184941",
+    "stats": {
+      "pace": 71,
+      "shooting": 83,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 48,
+      "physical": 66
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_324",
+    "fifaId": "189575",
+    "name": "Muniain",
+    "fullName": "Iker Muniain Goñi",
+    "club": "Athletic Club",
+    "nationality": "Spain",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/189575",
+    "stats": {
+      "pace": 80,
+      "shooting": 74,
+      "passing": 81,
+      "dribbling": 85,
+      "defending": 51,
+      "physical": 60
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_325",
+    "fifaId": "190941",
+    "name": "L. Hrádecký",
+    "fullName": "Lukáš Hrádecký",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Finland",
+    "position": "GK",
+    "photoUrl": "/api/player-image/190941",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_326",
+    "fifaId": "191202",
+    "name": "N. Matić",
+    "fullName": "Nemanja Matić",
+    "club": "Rennes",
+    "nationality": "Serbia",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/191202",
+    "stats": {
+      "pace": 34,
+      "shooting": 67,
+      "passing": 77,
+      "dribbling": 77,
+      "defending": 79,
+      "physical": 78
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_327",
+    "fifaId": "192563",
+    "name": "B. Leno",
+    "fullName": "Bernd Leno",
+    "club": "Fulham",
+    "nationality": "Germany",
+    "position": "GK",
+    "photoUrl": "/api/player-image/192563",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_328",
+    "fifaId": "192883",
+    "name": "H. Mkhitaryan",
+    "fullName": "Henrikh Mkhitaryan",
+    "club": "Inter",
+    "nationality": "Armenia",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/192883",
+    "stats": {
+      "pace": 78,
+      "shooting": 79,
+      "passing": 79,
+      "dribbling": 83,
+      "defending": 56,
+      "physical": 72
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_329",
+    "fifaId": "197655",
+    "name": "S. Coates",
+    "fullName": "Sebastián Coates Nión",
+    "club": "Sporting CP",
+    "nationality": "Uruguay",
+    "position": "CB",
+    "photoUrl": "/api/player-image/197655",
+    "stats": {
+      "pace": 66,
+      "shooting": 49,
+      "passing": 55,
+      "dribbling": 62,
+      "defending": 82,
+      "physical": 88
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_330",
+    "fifaId": "198219",
+    "name": "L. Insigne",
+    "fullName": "Lorenzo Insigne",
+    "club": "Toronto",
+    "nationality": "Italy",
+    "position": "LW",
+    "photoUrl": "/api/player-image/198219",
+    "stats": {
+      "pace": 80,
+      "shooting": 78,
+      "passing": 81,
+      "dribbling": 86,
+      "defending": 36,
+      "physical": 44
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_331",
+    "fifaId": "198717",
+    "name": "W. Zaha",
+    "fullName": "Wilfried Zaha",
+    "club": "Galatasaray",
+    "nationality": "Côte d'Ivoire",
+    "position": "LW",
+    "photoUrl": "/api/player-image/198717",
+    "stats": {
+      "pace": 90,
+      "shooting": 78,
+      "passing": 72,
+      "dribbling": 85,
+      "defending": 37,
+      "physical": 76
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_332",
+    "fifaId": "199304",
+    "name": "Danilo",
+    "fullName": "Danilo Luiz da Silva",
+    "club": "Juventus",
+    "nationality": "Brazil",
+    "position": "CB",
+    "photoUrl": "/api/player-image/199304",
+    "stats": {
+      "pace": 73,
+      "shooting": 67,
+      "passing": 74,
+      "dribbling": 74,
+      "defending": 83,
+      "physical": 78
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_333",
+    "fifaId": "199915",
+    "name": "L. Dunk",
+    "fullName": "Lewis Dunk",
+    "club": "Brighton & Hove Albion",
+    "nationality": "England",
+    "position": "CB",
+    "photoUrl": "/api/player-image/199915",
+    "stats": {
+      "pace": 45,
+      "shooting": 51,
+      "passing": 66,
+      "dribbling": 66,
+      "defending": 82,
+      "physical": 80
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_334",
+    "fifaId": "200260",
+    "name": "S. Berghuis",
+    "fullName": "Steven Berghuis",
+    "club": "Ajax",
+    "nationality": "Netherlands",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/200260",
+    "stats": {
+      "pace": 77,
+      "shooting": 82,
+      "passing": 82,
+      "dribbling": 81,
+      "defending": 40,
+      "physical": 69
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_335",
+    "fifaId": "200888",
+    "name": "Danilo Pereira",
+    "fullName": "Danilo Luís Hélio Pereira",
+    "club": "Paris Saint Germain",
+    "nationality": "Portugal",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/200888",
+    "stats": {
+      "pace": 50,
+      "shooting": 63,
+      "passing": 70,
+      "dribbling": 71,
+      "defending": 80,
+      "physical": 86
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_336",
+    "fifaId": "201455",
+    "name": "G. Kondogbia",
+    "fullName": "Geoffrey Edwin Kondogbia",
+    "club": "Olympique de Marseille",
+    "nationality": "Central African Republic",
+    "position": "CM",
+    "photoUrl": "/api/player-image/201455",
+    "stats": {
+      "pace": 69,
+      "shooting": 75,
+      "passing": 76,
+      "dribbling": 76,
+      "defending": 81,
+      "physical": 89
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_337",
+    "fifaId": "201995",
+    "name": "Felipe Anderson",
+    "fullName": "Felipe Anderson Pereira Gomes",
+    "club": "Lazio",
+    "nationality": "Brazil",
+    "position": "RW",
+    "photoUrl": "/api/player-image/201995",
+    "stats": {
+      "pace": 87,
+      "shooting": 78,
+      "passing": 77,
+      "dribbling": 85,
+      "defending": 63,
+      "physical": 73
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_338",
+    "fifaId": "204614",
+    "name": "Mário Rui",
+    "fullName": "Mário Rui Silva Duarte",
+    "club": "Napoli",
+    "nationality": "Portugal",
+    "position": "LB",
+    "photoUrl": "/api/player-image/204614",
+    "stats": {
+      "pace": 81,
+      "shooting": 57,
+      "passing": 77,
+      "dribbling": 80,
+      "defending": 76,
+      "physical": 68
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_339",
+    "fifaId": "205175",
+    "name": "A. Milik",
+    "fullName": "Arkadiusz Krystian Milik",
+    "club": "Juventus",
+    "nationality": "Poland",
+    "position": "ST",
+    "photoUrl": "/api/player-image/205175",
+    "stats": {
+      "pace": 59,
+      "shooting": 83,
+      "passing": 72,
+      "dribbling": 78,
+      "defending": 40,
+      "physical": 74
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_340",
+    "fifaId": "206511",
+    "name": "M. Arnold",
+    "fullName": "Maximilian Arnold",
+    "club": "VfL Wolfsburg",
+    "nationality": "Germany",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/206511",
+    "stats": {
+      "pace": 66,
+      "shooting": 79,
+      "passing": 79,
+      "dribbling": 78,
+      "defending": 76,
+      "physical": 75
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_341",
+    "fifaId": "207421",
+    "name": "L. Trossard",
+    "fullName": "Leandro Trossard",
+    "club": "Arsenal",
+    "nationality": "Belgium",
+    "position": "CF",
+    "photoUrl": "/api/player-image/207421",
+    "stats": {
+      "pace": 81,
+      "shooting": 80,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 30,
+      "physical": 61
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_342",
+    "fifaId": "207566",
+    "name": "William Carvalho",
+    "fullName": "William Silva de Carvalho",
+    "club": "Real Betis",
+    "nationality": "Portugal",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/207566",
+    "stats": {
+      "pace": 45,
+      "shooting": 68,
+      "passing": 78,
+      "dribbling": 76,
+      "defending": 76,
+      "physical": 84
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_343",
+    "fifaId": "208618",
+    "name": "Lucas Vázquez",
+    "fullName": "Lucas Vázquez Iglesias",
+    "club": "Real Madrid",
+    "nationality": "Spain",
+    "position": "RB",
+    "photoUrl": "/api/player-image/208618",
+    "stats": {
+      "pace": 81,
+      "shooting": 73,
+      "passing": 80,
+      "dribbling": 80,
+      "defending": 73,
+      "physical": 69
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_344",
+    "fifaId": "209297",
+    "name": "Fred",
+    "fullName": "Frederico Rodrigues de Paula Santos",
+    "club": "Fenerbahçe",
+    "nationality": "Brazil",
+    "position": "CM",
+    "photoUrl": "/api/player-image/209297",
+    "stats": {
+      "pace": 75,
+      "shooting": 69,
+      "passing": 79,
+      "dribbling": 81,
+      "defending": 76,
+      "physical": 70
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_345",
+    "fifaId": "209519",
+    "name": "G. Laborde",
+    "fullName": "Gaëtan Laborde",
+    "club": "Nice",
+    "nationality": "France",
+    "position": "ST",
+    "photoUrl": "/api/player-image/209519",
+    "stats": {
+      "pace": 72,
+      "shooting": 81,
+      "passing": 76,
+      "dribbling": 79,
+      "defending": 40,
+      "physical": 79
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_346",
+    "fifaId": "210385",
+    "name": "Rui Silva",
+    "fullName": "Rui Tiago Dantas da Silva",
+    "club": "Real Betis",
+    "nationality": "Portugal",
+    "position": "GK",
+    "photoUrl": "/api/player-image/210385",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_347",
+    "fifaId": "212523",
+    "name": "Anderson Talisca",
+    "fullName": "Anderson Souza Conceição",
+    "club": "Al Nassr",
+    "nationality": "Brazil",
+    "position": "CF",
+    "photoUrl": "/api/player-image/212523",
+    "stats": {
+      "pace": 79,
+      "shooting": 84,
+      "passing": 76,
+      "dribbling": 81,
+      "defending": 52,
+      "physical": 73
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_348",
+    "fifaId": "214097",
+    "name": "B. Bourigeaud",
+    "fullName": "Benjamin Bourigeaud",
+    "club": "Rennes",
+    "nationality": "France",
+    "position": "CM",
+    "photoUrl": "/api/player-image/214097",
+    "stats": {
+      "pace": 73,
+      "shooting": 77,
+      "passing": 82,
+      "dribbling": 81,
+      "defending": 67,
+      "physical": 76
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_349",
+    "fifaId": "215316",
+    "name": "G. Rulli",
+    "fullName": "Gerónimo Rulli",
+    "club": "Ajax",
+    "nationality": "Argentina",
+    "position": "GK",
+    "photoUrl": "/api/player-image/215316",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_350",
+    "fifaId": "215333",
+    "name": "D. Zapata",
+    "fullName": "Duván Esteban Zapata Banguera",
+    "club": "Torino",
+    "nationality": "Colombia",
+    "position": "ST",
+    "photoUrl": "/api/player-image/215333",
+    "stats": {
+      "pace": 75,
+      "shooting": 80,
+      "passing": 63,
+      "dribbling": 77,
+      "defending": 35,
+      "physical": 85
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_351",
+    "fifaId": "216201",
+    "name": "Iñaki Williams",
+    "fullName": "Iñaki Williams Arthuer",
+    "club": "Athletic Club",
+    "nationality": "Ghana",
+    "position": "RM",
+    "photoUrl": "/api/player-image/216201",
+    "stats": {
+      "pace": 94,
+      "shooting": 78,
+      "passing": 71,
+      "dribbling": 79,
+      "defending": 43,
+      "physical": 84
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_352",
+    "fifaId": "216354",
+    "name": "A. Kramarić",
+    "fullName": "Andrej Kramarić",
+    "club": "TSG Hoffenheim",
+    "nationality": "Croatia",
+    "position": "CF",
+    "photoUrl": "/api/player-image/216354",
+    "stats": {
+      "pace": 72,
+      "shooting": 81,
+      "passing": 76,
+      "dribbling": 82,
+      "defending": 32,
+      "physical": 74
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_353",
+    "fifaId": "216409",
+    "name": "M. Politano",
+    "fullName": "Matteo Politano",
+    "club": "Napoli",
+    "nationality": "Italy",
+    "position": "RW",
+    "photoUrl": "/api/player-image/216409",
+    "stats": {
+      "pace": 83,
+      "shooting": 77,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 55
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_354",
+    "fifaId": "219693",
+    "name": "Diego Carlos",
+    "fullName": "Diego Carlos Santos Silva",
+    "club": "Aston Villa",
+    "nationality": "Brazil",
+    "position": "CB",
+    "photoUrl": "/api/player-image/219693",
+    "stats": {
+      "pace": 67,
+      "shooting": 47,
+      "passing": 63,
+      "dribbling": 67,
+      "defending": 81,
+      "physical": 77
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_355",
+    "fifaId": "221992",
+    "name": "H. Lozano",
+    "fullName": "Hirving Rodrigo Lozano Bahena",
+    "club": "PSV",
+    "nationality": "Mexico",
+    "position": "RW",
+    "photoUrl": "/api/player-image/221992",
+    "stats": {
+      "pace": 93,
+      "shooting": 76,
+      "passing": 72,
+      "dribbling": 82,
+      "defending": 41,
+      "physical": 61
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_356",
+    "fifaId": "226271",
+    "name": "Fabián Ruiz",
+    "fullName": "Fabián Ruiz Peña",
+    "club": "Paris Saint Germain",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/226271",
+    "stats": {
+      "pace": 55,
+      "shooting": 78,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 74,
+      "physical": 72
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_357",
+    "fifaId": "230256",
+    "name": "Adryan Zonta",
+    "fullName": "Adryan Juliano Zonta Torres",
+    "club": "Bragantino",
+    "nationality": "Brazil",
+    "position": "LWB",
+    "photoUrl": "/api/player-image/230256",
+    "stats": {
+      "pace": 93,
+      "shooting": 66,
+      "passing": 75,
+      "dribbling": 76,
+      "defending": 72,
+      "physical": 77
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_358",
+    "fifaId": "230258",
+    "name": "Rosival Dourado",
+    "fullName": "Rosival Jailson Dourado Santos",
+    "club": "Corinthians",
+    "nationality": "Brazil",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/230258",
+    "stats": {
+      "pace": 77,
+      "shooting": 57,
+      "passing": 74,
+      "dribbling": 77,
+      "defending": 82,
+      "physical": 69
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_359",
+    "fifaId": "230294",
+    "name": "Adriano Bisesi",
+    "fullName": "Louri Adriano Bisesi Barbosa",
+    "club": "Bragantino",
+    "nationality": "Brazil",
+    "position": "ST",
+    "photoUrl": "/api/player-image/230294",
+    "stats": {
+      "pace": 78,
+      "shooting": 84,
+      "passing": 62,
+      "dribbling": 72,
+      "defending": 33,
+      "physical": 72
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_360",
+    "fifaId": "230347",
+    "name": "Welington Dano",
+    "fullName": "Welington Kauê Dano Nascimento",
+    "club": "Atlético Mineiro",
+    "nationality": "Brazil",
+    "position": "LB",
+    "photoUrl": "/api/player-image/230347",
+    "stats": {
+      "pace": 79,
+      "shooting": 54,
+      "passing": 76,
+      "dribbling": 79,
+      "defending": 75,
+      "physical": 74
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_361",
+    "fifaId": "230384",
+    "name": "Nailton Suzuki",
+    "fullName": "Nailton Suzuki Ito",
+    "club": "Atlético Mineiro",
+    "nationality": "Brazil",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/230384",
+    "stats": {
+      "pace": 82,
+      "shooting": 73,
+      "passing": 77,
+      "dribbling": 82,
+      "defending": 52,
+      "physical": 71
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_362",
+    "fifaId": "230430",
+    "name": "Oswaldinato",
+    "fullName": "Marvin Oswaldo Rangel Azevedo",
+    "club": "Flamengo",
+    "nationality": "Brazil",
+    "position": "ST",
+    "photoUrl": "/api/player-image/230430",
+    "stats": {
+      "pace": 76,
+      "shooting": 81,
+      "passing": 67,
+      "dribbling": 77,
+      "defending": 20,
+      "physical": 79
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_363",
+    "fifaId": "230977",
+    "name": "M. Almirón",
+    "fullName": "Miguel Ángel Almirón Rejala",
+    "club": "Newcastle United",
+    "nationality": "Paraguay",
+    "position": "RW",
+    "photoUrl": "/api/player-image/230977",
+    "stats": {
+      "pace": 87,
+      "shooting": 77,
+      "passing": 75,
+      "dribbling": 81,
+      "defending": 56,
+      "physical": 64
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_364",
+    "fifaId": "236045",
+    "name": "Reinildo",
+    "fullName": "Reinildo Isnard Mandava",
+    "club": "Atlético Madrid",
+    "nationality": "Mozambique",
+    "position": "LB",
+    "photoUrl": "/api/player-image/236045",
+    "stats": {
+      "pace": 84,
+      "shooting": 55,
+      "passing": 68,
+      "dribbling": 75,
+      "defending": 80,
+      "physical": 79
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_365",
+    "fifaId": "239093",
+    "name": "J. Clauss",
+    "fullName": "Jonathan Clauss",
+    "club": "Olympique de Marseille",
+    "nationality": "France",
+    "position": "RWB",
+    "photoUrl": "/api/player-image/239093",
+    "stats": {
+      "pace": 83,
+      "shooting": 69,
+      "passing": 76,
+      "dribbling": 78,
+      "defending": 70,
+      "physical": 70
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_366",
+    "fifaId": "244263",
+    "name": "A. Rrahmani",
+    "fullName": "Amir Rrahmani",
+    "club": "Napoli",
+    "nationality": "Kosovo",
+    "position": "CB",
+    "photoUrl": "/api/player-image/244263",
+    "stats": {
+      "pace": 63,
+      "shooting": 51,
+      "passing": 58,
+      "dribbling": 62,
+      "defending": 83,
+      "physical": 80
+    },
+    "overall": 81,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_367",
+    "fifaId": "251852",
+    "name": "K. Adeyemi",
+    "fullName": "Karim-David Adeyemi",
+    "club": "Borussia Dortmund",
+    "nationality": "Germany",
+    "position": "LM",
+    "photoUrl": "/api/player-image/251852",
+    "stats": {
+      "pace": 96,
+      "shooting": 77,
+      "passing": 71,
+      "dribbling": 81,
+      "defending": 34,
+      "physical": 68
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_368",
+    "fifaId": "256903",
+    "name": "Gonçalo Ramos",
+    "fullName": "Gonçalo Matias Ramos",
+    "club": "Paris Saint Germain",
+    "nationality": "Portugal",
+    "position": "ST",
+    "photoUrl": "/api/player-image/256903",
+    "stats": {
+      "pace": 77,
+      "shooting": 78,
+      "passing": 65,
+      "dribbling": 77,
+      "defending": 47,
+      "physical": 82
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_369",
+    "fifaId": "260815",
+    "name": "Arnau Martínez",
+    "fullName": "Arnau Martínez López",
+    "club": "Girona",
+    "nationality": "Spain",
+    "position": "RB",
+    "photoUrl": "/api/player-image/260815",
+    "stats": {
+      "pace": 79,
+      "shooting": 50,
+      "passing": 72,
+      "dribbling": 76,
+      "defending": 76,
+      "physical": 70
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_370",
+    "fifaId": "237681",
+    "name": "T. Kubo",
+    "fullName": "久保 建英",
+    "club": "Real Sociedad",
+    "nationality": "Japan",
+    "position": "RW",
+    "photoUrl": "/api/player-image/237681",
+    "stats": {
+      "pace": 84,
+      "shooting": 75,
+      "passing": 76,
+      "dribbling": 83,
+      "defending": 40,
+      "physical": 60
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_371",
+    "fifaId": "239807",
+    "name": "D. Frattesi",
+    "fullName": "Davide Frattesi",
+    "club": "Inter",
+    "nationality": "Italy",
+    "position": "CM",
+    "photoUrl": "/api/player-image/239807",
+    "stats": {
+      "pace": 79,
+      "shooting": 71,
+      "passing": 78,
+      "dribbling": 81,
+      "defending": 68,
+      "physical": 70
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_372",
+    "fifaId": "241390",
+    "name": "E. Elmas",
+    "fullName": "Eljif Elmas",
+    "club": "Napoli",
+    "nationality": "North Macedonia",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/241390",
+    "stats": {
+      "pace": 75,
+      "shooting": 73,
+      "passing": 76,
+      "dribbling": 84,
+      "defending": 66,
+      "physical": 69
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_373",
+    "fifaId": "246191",
+    "name": "J. Álvarez",
+    "fullName": "Julián Álvarez",
+    "club": "Manchester City",
+    "nationality": "Argentina",
+    "position": "ST",
+    "photoUrl": "/api/player-image/246191",
+    "stats": {
+      "pace": 79,
+      "shooting": 81,
+      "passing": 76,
+      "dribbling": 83,
+      "defending": 55,
+      "physical": 76
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_374",
+    "fifaId": "262621",
+    "name": "G. Mamardashvili",
+    "fullName": "Giorgi Mamardashvili",
+    "club": "Valencia",
+    "nationality": "Georgia",
+    "position": "GK",
+    "photoUrl": "/api/player-image/262621",
+    "stats": {
+      "pace": 50,
+      "shooting": 50,
+      "passing": 50,
+      "dribbling": 50,
+      "defending": 50,
+      "physical": 50
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_375",
+    "fifaId": "231410",
+    "name": "Brahim",
+    "fullName": "Brahim Abdelkader Díaz",
+    "club": "Real Madrid",
+    "nationality": "Spain",
+    "position": "CAM",
+    "photoUrl": "/api/player-image/231410",
+    "stats": {
+      "pace": 81,
+      "shooting": 71,
+      "passing": 77,
+      "dribbling": 83,
+      "defending": 30,
+      "physical": 49
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_376",
+    "fifaId": "234569",
+    "name": "Florentino",
+    "fullName": "Florentino Ibrain Morris Luís",
+    "club": "Benfica",
+    "nationality": "Portugal",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/234569",
+    "stats": {
+      "pace": 58,
+      "shooting": 47,
+      "passing": 67,
+      "dribbling": 73,
+      "defending": 79,
+      "physical": 78
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_377",
+    "fifaId": "235619",
+    "name": "M. Edwards",
+    "fullName": "Marcus Edwards",
+    "club": "Sporting CP",
+    "nationality": "England",
+    "position": "RW",
+    "photoUrl": "/api/player-image/235619",
+    "stats": {
+      "pace": 85,
+      "shooting": 73,
+      "passing": 71,
+      "dribbling": 86,
+      "defending": 33,
+      "physical": 48
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_378",
+    "fifaId": "236987",
+    "name": "B. Kamara",
+    "fullName": "Boubacar Bernard Kamara",
+    "club": "Aston Villa",
+    "nationality": "France",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/236987",
+    "stats": {
+      "pace": 68,
+      "shooting": 54,
+      "passing": 72,
+      "dribbling": 73,
+      "defending": 80,
+      "physical": 79
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_379",
+    "fifaId": "237221",
+    "name": "J. Foyth",
+    "fullName": "Juan Marcos Foyth",
+    "club": "Villarreal",
+    "nationality": "Argentina",
+    "position": "RB",
+    "photoUrl": "/api/player-image/237221",
+    "stats": {
+      "pace": 71,
+      "shooting": 46,
+      "passing": 71,
+      "dribbling": 72,
+      "defending": 81,
+      "physical": 77
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_380",
+    "fifaId": "248148",
+    "name": "Zubimendi",
+    "fullName": "Martín Zubimendi Ibáñez",
+    "club": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/248148",
+    "stats": {
+      "pace": 64,
+      "shooting": 65,
+      "passing": 74,
+      "dribbling": 75,
+      "defending": 78,
+      "physical": 71
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_381",
+    "fifaId": "256079",
+    "name": "M. Caicedo",
+    "fullName": "Moisés Isaac Caicedo Corozo",
+    "club": "Chelsea",
+    "nationality": "Ecuador",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/256079",
+    "stats": {
+      "pace": 74,
+      "shooting": 63,
+      "passing": 72,
+      "dribbling": 77,
+      "defending": 77,
+      "physical": 74
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_382",
+    "fifaId": "231352",
+    "name": "T. Abraham",
+    "fullName": "Tammy Bakumo-Abraham",
+    "club": "Roma",
+    "nationality": "England",
+    "position": "ST",
+    "photoUrl": "/api/player-image/231352",
+    "stats": {
+      "pace": 81,
+      "shooting": 76,
+      "passing": 66,
+      "dribbling": 77,
+      "defending": 36,
+      "physical": 80
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_383",
+    "fifaId": "231521",
+    "name": "E. Palacios",
+    "fullName": "Exequiel Alejandro Palacios",
+    "club": "Bayer 04 Leverkusen",
+    "nationality": "Argentina",
+    "position": "CM",
+    "photoUrl": "/api/player-image/231521",
+    "stats": {
+      "pace": 64,
+      "shooting": 74,
+      "passing": 77,
+      "dribbling": 79,
+      "defending": 79,
+      "physical": 73
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_384",
+    "fifaId": "233738",
+    "name": "Zubeldia",
+    "fullName": "Igor Zubeldía Elorza",
+    "club": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "CB",
+    "photoUrl": "/api/player-image/233738",
+    "stats": {
+      "pace": 72,
+      "shooting": 63,
+      "passing": 74,
+      "dribbling": 73,
+      "defending": 80,
+      "physical": 81
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_385",
+    "fifaId": "234574",
+    "name": "Diogo Dalot",
+    "fullName": "José Diogo Dalot Teixeira",
+    "club": "Manchester United",
+    "nationality": "Portugal",
+    "position": "RB",
+    "photoUrl": "/api/player-image/234574",
+    "stats": {
+      "pace": 81,
+      "shooting": 61,
+      "passing": 76,
+      "dribbling": 78,
+      "defending": 75,
+      "physical": 79
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_386",
+    "fifaId": "235997",
+    "name": "Fran Beltrán",
+    "fullName": "Francisco José Beltrán Peinado",
+    "club": "Celta de Vigo",
+    "nationality": "Spain",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/235997",
+    "stats": {
+      "pace": 58,
+      "shooting": 56,
+      "passing": 78,
+      "dribbling": 77,
+      "defending": 78,
+      "physical": 66
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_387",
+    "fifaId": "236355",
+    "name": "Luiz Felipe",
+    "fullName": "Luiz Felipe Ramos Marchi",
+    "club": "Al Ittihad",
+    "nationality": "Italy",
+    "position": "CB",
+    "photoUrl": "/api/player-image/236355",
+    "stats": {
+      "pace": 72,
+      "shooting": 29,
+      "passing": 61,
+      "dribbling": 68,
+      "defending": 81,
+      "physical": 74
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_388",
+    "fifaId": "236804",
+    "name": "F. Medina",
+    "fullName": "Facundo Axel Medina",
+    "club": "Lens",
+    "nationality": "Argentina",
+    "position": "CB",
+    "photoUrl": "/api/player-image/236804",
+    "stats": {
+      "pace": 71,
+      "shooting": 36,
+      "passing": 69,
+      "dribbling": 70,
+      "defending": 80,
+      "physical": 78
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_389",
+    "fifaId": "237985",
+    "name": "K. Danso",
+    "fullName": "Kevin Danso",
+    "club": "Lens",
+    "nationality": "Austria",
+    "position": "CB",
+    "photoUrl": "/api/player-image/237985",
+    "stats": {
+      "pace": 78,
+      "shooting": 32,
+      "passing": 55,
+      "dribbling": 62,
+      "defending": 79,
+      "physical": 85
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_390",
+    "fifaId": "238067",
+    "name": "N. Zaniolo",
+    "fullName": "Nicolò Zaniolo",
+    "club": "Aston Villa",
+    "nationality": "Italy",
+    "position": "RM",
+    "photoUrl": "/api/player-image/238067",
+    "stats": {
+      "pace": 83,
+      "shooting": 78,
+      "passing": 72,
+      "dribbling": 81,
+      "defending": 51,
+      "physical": 86
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_391",
+    "fifaId": "243593",
+    "name": "A. Laurienté",
+    "fullName": "Armand Laurienté",
+    "club": "Sassuolo",
+    "nationality": "France",
+    "position": "LW",
+    "photoUrl": "/api/player-image/243593",
+    "stats": {
+      "pace": 84,
+      "shooting": 76,
+      "passing": 75,
+      "dribbling": 82,
+      "defending": 35,
+      "physical": 47
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_392",
+    "fifaId": "245630",
+    "name": "Y. Fofana",
+    "fullName": "Youssouf Fofana",
+    "club": "Monaco",
+    "nationality": "France",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/245630",
+    "stats": {
+      "pace": 69,
+      "shooting": 67,
+      "passing": 74,
+      "dribbling": 77,
+      "defending": 78,
+      "physical": 79
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_393",
+    "fifaId": "246186",
+    "name": "Arthur Cabral",
+    "fullName": "Arthur Mendonça Cabral",
+    "club": "Benfica",
+    "nationality": "Brazil",
+    "position": "ST",
+    "photoUrl": "/api/player-image/246186",
+    "stats": {
+      "pace": 74,
+      "shooting": 79,
+      "passing": 64,
+      "dribbling": 76,
+      "defending": 32,
+      "physical": 80
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_394",
+    "fifaId": "247103",
+    "name": "D. Hancko",
+    "fullName": "Dávid Hancko",
+    "club": "Feyenoord",
+    "nationality": "Slovakia",
+    "position": "CB",
+    "photoUrl": "/api/player-image/247103",
+    "stats": {
+      "pace": 79,
+      "shooting": 64,
+      "passing": 72,
+      "dribbling": 74,
+      "defending": 80,
+      "physical": 81
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_395",
+    "fifaId": "247257",
+    "name": "Ibañez",
+    "fullName": "Roger Ibañez Da Silva",
+    "club": "Al Ahli Jeddah",
+    "nationality": "Brazil",
+    "position": "CB",
+    "photoUrl": "/api/player-image/247257",
+    "stats": {
+      "pace": 85,
+      "shooting": 32,
+      "passing": 45,
+      "dribbling": 60,
+      "defending": 82,
+      "physical": 81
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_396",
+    "fifaId": "255253",
+    "name": "Vitinha",
+    "fullName": "Vítor Machado Ferreira",
+    "club": "Paris Saint Germain",
+    "nationality": "Portugal",
+    "position": "CM",
+    "photoUrl": "/api/player-image/255253",
+    "stats": {
+      "pace": 69,
+      "shooting": 68,
+      "passing": 79,
+      "dribbling": 85,
+      "defending": 70,
+      "physical": 66
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_397",
+    "fifaId": "224158",
+    "name": "S. Amrabat",
+    "fullName": "Sofyan Amrabat",
+    "club": "Manchester United",
+    "nationality": "Morocco",
+    "position": "CDM",
+    "photoUrl": "/api/player-image/224158",
+    "stats": {
+      "pace": 68,
+      "shooting": 71,
+      "passing": 77,
+      "dribbling": 79,
+      "defending": 74,
+      "physical": 80
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_398",
+    "fifaId": "228813",
+    "name": "Aleix García",
+    "fullName": "Aleix García Serrano",
+    "club": "Girona",
+    "nationality": "Spain",
+    "position": "CM",
+    "photoUrl": "/api/player-image/228813",
+    "stats": {
+      "pace": 64,
+      "shooting": 74,
+      "passing": 81,
+      "dribbling": 80,
+      "defending": 71,
+      "physical": 66
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_399",
+    "fifaId": "229880",
+    "name": "A. Wan-Bissaka",
+    "fullName": "Aaron Wan-Bissaka",
+    "club": "Manchester United",
+    "nationality": "England",
+    "position": "RB",
+    "photoUrl": "/api/player-image/229880",
+    "stats": {
+      "pace": 83,
+      "shooting": 50,
+      "passing": 68,
+      "dribbling": 77,
+      "defending": 77,
+      "physical": 71
+    },
+    "overall": 80,
+    "rarity": "epic"
+  },
+  {
+    "id": "card_400",
+    "fifaId": "231936",
+    "name": "B. White",
+    "fullName": "Benjamin White",
+    "club": "Arsenal",
+    "nationality": "England",
+    "position": "RB",
+    "photoUrl": "/api/player-image/231936",
+    "stats": {
+      "pace": 72,
+      "shooting": 30,
+      "passing": 70,
+      "dribbling": 74,
+      "defending": 82,
+      "physical": 77
+    },
+    "overall": 80,
+    "rarity": "epic"
+  }
+]

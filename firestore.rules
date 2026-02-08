@@ -1,0 +1,28 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Users collection - each user can only read/write their own data
+    match /users/{userId} {
+      // Allow read if authenticated and it's their own document
+      allow read: if request.auth != null && request.auth.uid == userId;
+      
+      // Allow create if authenticated and creating their own document
+      allow create: if request.auth != null && request.auth.uid == userId;
+      
+      // Allow update if authenticated, it's their own document, 
+      // and they're not setting negative points
+      allow update: if request.auth != null 
+                    && request.auth.uid == userId
+                    && request.resource.data.points >= 0;
+      
+      // No delete allowed
+      allow delete: if false;
+    }
+    
+    // Block all other documents
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
