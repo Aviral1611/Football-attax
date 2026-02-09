@@ -124,8 +124,11 @@ export async function openPackAndSave(
     pointsEarned: number;
     error?: string;
 }> {
-    // Check if user can open a pack
-    const remainingPacks = getRemainingPacks(userData);
+    // IMPORTANT: Fetch fresh user data from Firestore to prevent stale data issues
+    const freshUserData = await getUserData(userId);
+
+    // Check if user can open a pack with FRESH data
+    const remainingPacks = getRemainingPacks(freshUserData);
     if (remainingPacks <= 0) {
         return {
             success: false,
@@ -136,13 +139,13 @@ export async function openPackAndSave(
         };
     }
 
-    // Separate new cards vs duplicates
+    // Separate new cards vs duplicates using FRESH inventory
     const newCards: Player[] = [];
     const duplicates: Player[] = [];
     let pointsEarned = 0;
 
     for (const card of cards) {
-        if (userData.inventory.includes(card.id)) {
+        if (freshUserData.inventory.includes(card.id)) {
             duplicates.push(card);
             pointsEarned += DUPLICATE_POINTS[card.rarity];
         } else {
@@ -150,13 +153,13 @@ export async function openPackAndSave(
         }
     }
 
-    // Update Firestore
+    // Update Firestore with FRESH data
     const userRef = doc(db, 'users', userId);
-    const newInventory = [...userData.inventory, ...newCards.map(c => c.id)];
+    const newInventory = [...freshUserData.inventory, ...newCards.map(c => c.id)];
 
     await updateDoc(userRef, {
-        packsOpenedToday: userData.packsOpenedToday + 1,
-        points: userData.points + pointsEarned,
+        packsOpenedToday: freshUserData.packsOpenedToday + 1,
+        points: freshUserData.points + pointsEarned,
         inventory: newInventory,
     });
 
@@ -168,9 +171,12 @@ export async function openPackAndSave(
     };
 }
 
-// Get user's card collection with full player data
+// Get user's card collection with full player data (deduplicated)
 export function getInventoryCards(inventory: string[], allPlayers: Player[]): Player[] {
-    return inventory
+    // Deduplicate inventory IDs first (in case of any data issues)
+    const uniqueInventory = [...new Set(inventory)];
+
+    return uniqueInventory
         .map(cardId => allPlayers.find(p => p.id === cardId))
         .filter((p): p is Player => p !== undefined);
 }
