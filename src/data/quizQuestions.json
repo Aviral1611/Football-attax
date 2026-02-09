@@ -1,0 +1,702 @@
+[
+  {
+    "id": "q001",
+    "question": "Which player has won the most Ballon d'Or awards?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Johan Cruyff"],
+    "correctIndex": 1,
+    "category": "awards"
+  },
+  {
+    "id": "q002",
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "options": ["Brazil", "Germany", "France", "Croatia"],
+    "correctIndex": 2,
+    "category": "world_cup"
+  },
+  {
+    "id": "q003",
+    "question": "Who is the all-time top scorer in the Premier League?",
+    "options": ["Wayne Rooney", "Alan Shearer", "Thierry Henry", "Andrew Cole"],
+    "correctIndex": 1,
+    "category": "records"
+  },
+  {
+    "id": "q004",
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "options": ["AC Milan", "Barcelona", "Real Madrid", "Bayern Munich"],
+    "correctIndex": 2,
+    "category": "champions_league"
+  },
+  {
+    "id": "q005",
+    "question": "In which year did the Premier League start?",
+    "options": ["1990", "1992", "1994", "1996"],
+    "correctIndex": 1,
+    "category": "history"
+  },
+  {
+    "id": "q006",
+    "question": "Which player scored the 'Hand of God' goal?",
+    "options": ["Pelé", "Diego Maradona", "Zinedine Zidane", "Ronaldo"],
+    "correctIndex": 1,
+    "category": "history"
+  },
+  {
+    "id": "q007",
+    "question": "Which club did Cristiano Ronaldo start his professional career with?",
+    "options": ["Manchester United", "Real Madrid", "Sporting CP", "Juventus"],
+    "correctIndex": 2,
+    "category": "players"
+  },
+  {
+    "id": "q008",
+    "question": "How many players are on a football team during a match?",
+    "options": ["9", "10", "11", "12"],
+    "correctIndex": 2,
+    "category": "basics"
+  },
+  {
+    "id": "q009",
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Italy", "Brazil", "Argentina"],
+    "correctIndex": 2,
+    "category": "world_cup"
+  },
+  {
+    "id": "q010",
+    "question": "What is the nickname of the Brazil national team?",
+    "options": ["The Blues", "La Roja", "Seleção", "Die Mannschaft"],
+    "correctIndex": 2,
+    "category": "trivia"
+  },
+  {
+    "id": "q011",
+    "question": "Which stadium is known as 'The Theatre of Dreams'?",
+    "options": ["Anfield", "Old Trafford", "Stamford Bridge", "Emirates Stadium"],
+    "correctIndex": 1,
+    "category": "stadiums"
+  },
+  {
+    "id": "q012",
+    "question": "Who won the FIFA World Cup Golden Boot in 2022?",
+    "options": ["Lionel Messi", "Kylian Mbappé", "Both (tied)", "Olivier Giroud"],
+    "correctIndex": 2,
+    "category": "world_cup"
+  },
+  {
+    "id": "q013",
+    "question": "Which club did Zinedine Zidane play for in his final professional match?",
+    "options": ["Juventus", "Real Madrid", "France NT", "Bordeaux"],
+    "correctIndex": 2,
+    "category": "players"
+  },
+  {
+    "id": "q014",
+    "question": "What color cards can a referee show in football?",
+    "options": ["Red only", "Yellow and Red", "Yellow, Red and Blue", "Green and Red"],
+    "correctIndex": 1,
+    "category": "basics"
+  },
+  {
+    "id": "q015",
+    "question": "Which player is known as 'The Egyptian King'?",
+    "options": ["Ahmed Hegazi", "Mohamed Salah", "Mahmoud Hassan", "Mohamed Elneny"],
+    "correctIndex": 1,
+    "category": "players"
+  },
+  {
+    "id": "q016",
+    "question": "How long is a standard football match?",
+    "options": ["80 minutes", "90 minutes", "100 minutes", "120 minutes"],
+    "correctIndex": 1,
+    "category": "basics"
+  },
+  {
+    "id": "q017",
+    "question": "Which team won the treble (League, Cup, Champions League) in 1999?",
+    "options": ["Barcelona", "Manchester United", "Bayern Munich", "Inter Milan"],
+    "correctIndex": 1,
+    "category": "history"
+  },
+  {
+    "id": "q018",
+    "question": "Who is the most capped player in international football history?",
+    "options": ["Cristiano Ronaldo", "Sergio Ramos", "Bader Al-Mutawa", "Ahmed Hassan"],
+    "correctIndex": 2,
+    "category": "records"
+  },
+  {
+    "id": "q019",
+    "question": "Which club has never been relegated from the Premier League?",
+    "options": ["Liverpool", "Chelsea", "Arsenal", "Everton"],
+    "correctIndex": 2,
+    "category": "history"
+  },
+  {
+    "id": "q020",
+    "question": "What position does a goalkeeper play?",
+    "options": ["Forward", "Midfielder", "Defender", "Goalkeeper"],
+    "correctIndex": 3,
+    "category": "basics"
+  },
+  {
+    "id": "q021",
+    "question": "Which player is nicknamed 'CR7'?",
+    "options": ["Carlos Ruiz", "Cristiano Ronaldo", "Cafu", "Roberto Carlos"],
+    "correctIndex": 1,
+    "category": "players"
+  },
+  {
+    "id": "q022",
+    "question": "In which city is the Camp Nou stadium located?",
+    "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+    "correctIndex": 1,
+    "category": "stadiums"
+  },
+  {
+    "id": "q023",
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "options": ["South Africa", "Russia", "Brazil", "Qatar"],
+    "correctIndex": 2,
+    "category": "world_cup"
+  },
+  {
+    "id": "q024",
+    "question": "Who scored the fastest goal in World Cup history?",
+    "options": ["Hakan Şükür", "Clint Dempsey", "Thomas Müller", "Kylian Mbappé"],
+    "correctIndex": 0,
+    "category": "records"
+  },
+  {
+    "id": "q025",
+    "question": "What is the maximum number of substitutions allowed in a Premier League match?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "category": "rules"
+  },
+  {
+    "id": "q026",
+    "question": "Which manager has won the most Premier League titles?",
+    "options": ["José Mourinho", "Alex Ferguson", "Arsène Wenger", "Pep Guardiola"],
+    "correctIndex": 1,
+    "category": "managers"
+  },
+  {
+    "id": "q027",
+    "question": "What year did Lionel Messi join Paris Saint-Germain?",
+    "options": ["2020", "2021", "2022", "2023"],
+    "correctIndex": 1,
+    "category": "players"
+  },
+  {
+    "id": "q028",
+    "question": "Which national team is known as 'The Three Lions'?",
+    "options": ["Netherlands", "Belgium", "England", "Denmark"],
+    "correctIndex": 2,
+    "category": "trivia"
+  },
+  {
+    "id": "q029",
+    "question": "How many UEFA Euro tournaments has Germany won?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 2,
+    "category": "history"
+  },
+  {
+    "id": "q030",
+    "question": "Who is the youngest player to score in a World Cup final?",
+    "options": ["Pelé", "Kylian Mbappé", "Michael Owen", "Ronaldo"],
+    "correctIndex": 0,
+    "category": "records"
+  },
+  {
+    "id": "q031",
+    "question": "Which club did Erling Haaland join Manchester City from?",
+    "options": ["RB Salzburg", "Borussia Dortmund", "Molde FK", "Red Bull Leipzig"],
+    "correctIndex": 1,
+    "category": "players"
+  },
+  {
+    "id": "q032",
+    "question": "What is a hat-trick in football?",
+    "options": ["3 saves", "3 assists", "3 goals by one player", "3 yellow cards"],
+    "correctIndex": 2,
+    "category": "basics"
+  },
+  {
+    "id": "q033",
+    "question": "Which club is nicknamed 'The Red Devils'?",
+    "options": ["Liverpool", "Arsenal", "Manchester United", "AC Milan"],
+    "correctIndex": 2,
+    "category": "trivia"
+  },
+  {
+    "id": "q034",
+    "question": "Who won the 2022 FIFA World Cup?",
+    "options": ["France", "Argentina", "Brazil", "Morocco"],
+    "correctIndex": 1,
+    "category": "world_cup"
+  },
+  {
+    "id": "q035",
+    "question": "Which player has the most assists in Premier League history?",
+    "options": ["Frank Lampard", "Ryan Giggs", "Kevin De Bruyne", "David Beckham"],
+    "correctIndex": 1,
+    "category": "records"
+  },
+  {
+    "id": "q036",
+    "question": "What does 'FIFA' stand for?",
+    "options": ["Football International Federation Association", "Fédération Internationale de Football Association", "Federal International Football Association", "Football Institute For All"],
+    "correctIndex": 1,
+    "category": "basics"
+  },
+  {
+    "id": "q037",
+    "question": "Which club won the first ever Premier League title?",
+    "options": ["Arsenal", "Liverpool", "Manchester United", "Blackburn Rovers"],
+    "correctIndex": 2,
+    "category": "history"
+  },
+  {
+    "id": "q038",
+    "question": "Who is known as 'The Special One'?",
+    "options": ["Pep Guardiola", "Carlo Ancelotti", "José Mourinho", "Jurgen Klopp"],
+    "correctIndex": 2,
+    "category": "managers"
+  },
+  {
+    "id": "q039",
+    "question": "What is the diameter of a football goal?",
+    "options": ["7.32m x 2.44m", "8m x 2.5m", "7m x 2m", "6.5m x 2.3m"],
+    "correctIndex": 0,
+    "category": "rules"
+  },
+  {
+    "id": "q040",
+    "question": "Which player is known as 'El Fenómeno'?",
+    "options": ["Zinedine Zidane", "Ronaldo Nazário", "Ronaldinho", "Rivaldo"],
+    "correctIndex": 1,
+    "category": "players"
+  },
+  {
+    "id": "q041",
+    "question": "In which country is the club Juventus based?",
+    "options": ["Spain", "France", "Italy", "Portugal"],
+    "correctIndex": 2,
+    "category": "clubs"
+  },
+  {
+    "id": "q042",
+    "question": "Who captained Spain to their 2010 World Cup victory?",
+    "options": ["Xavi", "Iker Casillas", "Carles Puyol", "Andrés Iniesta"],
+    "correctIndex": 1,
+    "category": "world_cup"
+  },
+  {
+    "id": "q043",
+    "question": "What is offside in football?",
+    "options": ["Being behind the ball", "Being ahead of the second-last defender", "Being outside the pitch", "Being in the penalty area"],
+    "correctIndex": 1,
+    "category": "rules"
+  },
+  {
+    "id": "q044",
+    "question": "Which club is based at Stamford Bridge?",
+    "options": ["Arsenal", "Tottenham", "Chelsea", "West Ham"],
+    "correctIndex": 2,
+    "category": "stadiums"
+  },
+  {
+    "id": "q045",
+    "question": "Who scored the winning goal in the 2010 World Cup final?",
+    "options": ["David Villa", "Fernando Torres", "Andrés Iniesta", "Xavi"],
+    "correctIndex": 2,
+    "category": "world_cup"
+  },
+  {
+    "id": "q046",
+    "question": "Which country does Luka Modrić represent?",
+    "options": ["Serbia", "Bosnia", "Croatia", "Slovenia"],
+    "correctIndex": 2,
+    "category": "players"
+  },
+  {
+    "id": "q047",
+    "question": "What trophy is awarded to the top scorer at the World Cup?",
+    "options": ["Golden Ball", "Golden Boot", "Golden Glove", "Silver Boot"],
+    "correctIndex": 1,
+    "category": "awards"
+  },
+  {
+    "id": "q048",
+    "question": "Which club has won the most La Liga titles?",
+    "options": ["Barcelona", "Real Madrid", "Atlético Madrid", "Athletic Bilbao"],
+    "correctIndex": 1,
+    "category": "records"
+  },
+  {
+    "id": "q049",
+    "question": "Who was the first African nation to reach a World Cup quarter-final?",
+    "options": ["Nigeria", "Cameroon", "Ghana", "Senegal"],
+    "correctIndex": 1,
+    "category": "world_cup"
+  },
+  {
+    "id": "q050",
+    "question": "What is the name of Liverpool's home stadium?",
+    "options": ["Old Trafford", "Anfield", "Goodison Park", "The Emirates"],
+    "correctIndex": 1,
+    "category": "stadiums"
+  },
+  {
+    "id": "q051",
+    "question": "Which player holds the record for most goals in a calendar year?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Gerd Müller", "Robert Lewandowski"],
+    "correctIndex": 1,
+    "category": "records"
+  },
+  {
+    "id": "q052",
+    "question": "What is the name of the trophy given to the Serie A champions?",
+    "options": ["Scudetto", "La Liga Trophy", "Premier League Trophy", "Bundesliga Plate"],
+    "correctIndex": 0,
+    "category": "trivia"
+  },
+  {
+    "id": "q053",
+    "question": "Which club did Thierry Henry play for the longest?",
+    "options": ["Monaco", "Juventus", "Arsenal", "Barcelona"],
+    "correctIndex": 2,
+    "category": "players"
+  },
+  {
+    "id": "q054",
+    "question": "How many World Cup finals has Argentina won?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 2,
+    "category": "world_cup"
+  },
+  {
+    "id": "q055",
+    "question": "Who is the all-time top scorer for the England national team?",
+    "options": ["Wayne Rooney", "Harry Kane", "Michael Owen", "Gary Lineker"],
+    "correctIndex": 1,
+    "category": "records"
+  },
+  {
+    "id": "q056",
+    "question": "Which manager led Leicester City to the Premier League title in 2016?",
+    "options": ["Brendan Rodgers", "Claudio Ranieri", "Nigel Pearson", "Craig Shakespeare"],
+    "correctIndex": 1,
+    "category": "managers"
+  },
+  {
+    "id": "q057",
+    "question": "What color are the home shirts of Netherlands national team?",
+    "options": ["Blue", "Red", "Orange", "White"],
+    "correctIndex": 2,
+    "category": "trivia"
+  },
+  {
+    "id": "q058",
+    "question": "Which club did Kevin De Bruyne play for before Manchester City?",
+    "options": ["Chelsea", "Wolfsburg", "Genk", "Werder Bremen"],
+    "correctIndex": 1,
+    "category": "players"
+  },
+  {
+    "id": "q059",
+    "question": "Who was the FIFA Best Men's Player in 2022?",
+    "options": ["Karim Benzema", "Lionel Messi", "Kylian Mbappé", "Robert Lewandowski"],
+    "correctIndex": 1,
+    "category": "awards"
+  },
+  {
+    "id": "q060",
+    "question": "Which club is known as 'Die Roten' (The Reds)?",
+    "options": ["Liverpool", "Bayern Munich", "Manchester United", "Arsenal"],
+    "correctIndex": 1,
+    "category": "trivia"
+  },
+  {
+    "id": "q061",
+    "question": "Who scored England's winning goal in the 1966 World Cup final?",
+    "options": ["Bobby Moore", "Bobby Charlton", "Geoff Hurst", "Martin Peters"],
+    "correctIndex": 2,
+    "category": "world_cup"
+  },
+  {
+    "id": "q062",
+    "question": "What position does Virgil van Dijk play?",
+    "options": ["Goalkeeper", "Midfielder", "Defender", "Forward"],
+    "correctIndex": 2,
+    "category": "players"
+  },
+  {
+    "id": "q063",
+    "question": "Which team has won the most FA Cup titles?",
+    "options": ["Manchester United", "Liverpool", "Chelsea", "Arsenal"],
+    "correctIndex": 3,
+    "category": "records"
+  },
+  {
+    "id": "q064",
+    "question": "Who is the all-time top scorer in Champions League history?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Raúl"],
+    "correctIndex": 1,
+    "category": "champions_league"
+  },
+  {
+    "id": "q065",
+    "question": "Which country hosted Euro 2020 (played in 2021)?",
+    "options": ["England only", "Multiple countries", "Italy only", "Germany only"],
+    "correctIndex": 1,
+    "category": "history"
+  },
+  {
+    "id": "q066",
+    "question": "What is the nickname of Tottenham Hotspur?",
+    "options": ["The Gunners", "The Blues", "Spurs", "The Hammers"],
+    "correctIndex": 2,
+    "category": "trivia"
+  },
+  {
+    "id": "q067",
+    "question": "How many times has Italy won the FIFA World Cup?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "category": "world_cup"
+  },
+  {
+    "id": "q068",
+    "question": "Which club did Neymar join in 2017 for a world-record fee?",
+    "options": ["Real Madrid", "Manchester City", "Paris Saint-Germain", "Chelsea"],
+    "correctIndex": 2,
+    "category": "players"
+  },
+  {
+    "id": "q069",
+    "question": "Who was the captain of the 2006 World Cup-winning Italy team?",
+    "options": ["Gianluigi Buffon", "Fabio Cannavaro", "Andrea Pirlo", "Francesco Totti"],
+    "correctIndex": 1,
+    "category": "world_cup"
+  },
+  {
+    "id": "q070",
+    "question": "What is a 'clean sheet' in football?",
+    "options": ["No fouls committed", "No goals conceded", "No cards received", "No substitutions made"],
+    "correctIndex": 1,
+    "category": "basics"
+  },
+  {
+    "id": "q071",
+    "question": "Which country won Euro 2020?",
+    "options": ["England", "Italy", "Spain", "Germany"],
+    "correctIndex": 1,
+    "category": "history"
+  },
+  {
+    "id": "q072",
+    "question": "Who is known as 'The Atomic Flea'?",
+    "options": ["Diego Maradona", "Lionel Messi", "Xavi", "Andres Iniesta"],
+    "correctIndex": 1,
+    "category": "players"
+  },
+  {
+    "id": "q073",
+    "question": "Which club plays at the Allianz Arena?",
+    "options": ["Juventus", "Bayern Munich", "Inter Milan", "Paris Saint-Germain"],
+    "correctIndex": 1,
+    "category": "stadiums"
+  },
+  {
+    "id": "q074",
+    "question": "Who scored the most goals in a single Premier League season (32 goals)?",
+    "options": ["Mohamed Salah", "Harry Kane", "Erling Haaland", "Alan Shearer"],
+    "correctIndex": 2,
+    "category": "records"
+  },
+  {
+    "id": "q075",
+    "question": "What is the name of the annual award given to the best player in the world?",
+    "options": ["FIFA Best", "Ballon d'Or", "Golden Ball", "World Player Award"],
+    "correctIndex": 1,
+    "category": "awards"
+  },
+  {
+    "id": "q076",
+    "question": "Which club did Pep Guardiola manage before Manchester City?",
+    "options": ["Barcelona", "Bayern Munich", "Juventus", "Chelsea"],
+    "correctIndex": 1,
+    "category": "managers"
+  },
+  {
+    "id": "q077",
+    "question": "How often is the FIFA World Cup held?",
+    "options": ["Every 2 years", "Every 3 years", "Every 4 years", "Every 5 years"],
+    "correctIndex": 2,
+    "category": "basics"
+  },
+  {
+    "id": "q078",
+    "question": "Which player was known for his signature 'stepover' move?",
+    "options": ["Cristiano Ronaldo", "Ronaldinho", "Neymar", "All of the above"],
+    "correctIndex": 3,
+    "category": "players"
+  },
+  {
+    "id": "q079",
+    "question": "What is the capacity of Wembley Stadium?",
+    "options": ["75,000", "80,000", "90,000", "100,000"],
+    "correctIndex": 2,
+    "category": "stadiums"
+  },
+  {
+    "id": "q080",
+    "question": "Which club has won the most Bundesliga titles?",
+    "options": ["Borussia Dortmund", "Bayern Munich", "Schalke 04", "Hamburg"],
+    "correctIndex": 1,
+    "category": "records"
+  },
+  {
+    "id": "q081",
+    "question": "Who is the youngest player to play in a World Cup?",
+    "options": ["Pelé", "Norman Whiteside", "Femi Opabunmi", "Souleymane Mamam"],
+    "correctIndex": 0,
+    "category": "records"
+  },
+  {
+    "id": "q082",
+    "question": "What is the name of the line a player must not cross when the ball is not in play?",
+    "options": ["Goal line", "Touch line", "Halfway line", "Penalty arc"],
+    "correctIndex": 1,
+    "category": "rules"
+  },
+  {
+    "id": "q083",
+    "question": "Which country does Son Heung-min represent?",
+    "options": ["Japan", "China", "South Korea", "North Korea"],
+    "correctIndex": 2,
+    "category": "players"
+  },
+  {
+    "id": "q084",
+    "question": "Who won the Golden Glove at the 2022 World Cup?",
+    "options": ["Hugo Lloris", "Emiliano Martínez", "Thibaut Courtois", "Yassine Bounou"],
+    "correctIndex": 1,
+    "category": "world_cup"
+  },
+  {
+    "id": "q085",
+    "question": "Which club is nicknamed 'The Magpies'?",
+    "options": ["West Brom", "Newcastle United", "Notts County", "Fulham"],
+    "correctIndex": 1,
+    "category": "trivia"
+  },
+  {
+    "id": "q086",
+    "question": "How many Champions League titles has AC Milan won?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "category": "champions_league"
+  },
+  {
+    "id": "q087",
+    "question": "Who scored the 'Goal of the Century' in 1986?",
+    "options": ["Pelé", "Diego Maradona", "Michel Platini", "Zinedine Zidane"],
+    "correctIndex": 1,
+    "category": "history"
+  },
+  {
+    "id": "q088",
+    "question": "What is VAR in football?",
+    "options": ["Variable Action Replay", "Video Assistant Referee", "Virtual Analysis Review", "Video Action Recording"],
+    "correctIndex": 1,
+    "category": "rules"
+  },
+  {
+    "id": "q089",
+    "question": "Which player has made the most Premier League appearances?",
+    "options": ["Ryan Giggs", "Gareth Barry", "Frank Lampard", "James Milner"],
+    "correctIndex": 1,
+    "category": "records"
+  },
+  {
+    "id": "q090",
+    "question": "Who was the manager of Liverpool when they won the Champions League in 2019?",
+    "options": ["Rafael Benítez", "Brendan Rodgers", "Jürgen Klopp", "Kenny Dalglish"],
+    "correctIndex": 2,
+    "category": "managers"
+  },
+  {
+    "id": "q091",
+    "question": "Which club did Kaká play for in Serie A?",
+    "options": ["Inter Milan", "Juventus", "AC Milan", "Roma"],
+    "correctIndex": 2,
+    "category": "players"
+  },
+  {
+    "id": "q092",
+    "question": "What is the distance of a penalty kick from the goal line?",
+    "options": ["10 yards", "11 meters", "12 yards", "10 meters"],
+    "correctIndex": 2,
+    "category": "rules"
+  },
+  {
+    "id": "q093",
+    "question": "Who was the first British club to win the European Cup?",
+    "options": ["Manchester United", "Celtic", "Liverpool", "Nottingham Forest"],
+    "correctIndex": 1,
+    "category": "history"
+  },
+  {
+    "id": "q094",
+    "question": "Which country has produced the most Ballon d'Or winners?",
+    "options": ["Germany", "Argentina", "France", "Netherlands"],
+    "correctIndex": 1,
+    "category": "awards"
+  },
+  {
+    "id": "q095",
+    "question": "What is Jude Bellingham's jersey number at Real Madrid?",
+    "options": ["10", "5", "8", "7"],
+    "correctIndex": 1,
+    "category": "players"
+  },
+  {
+    "id": "q096",
+    "question": "Which stadium is the largest in Europe by capacity?",
+    "options": ["Wembley", "Camp Nou", "Signal Iduna Park", "Santiago Bernabéu"],
+    "correctIndex": 1,
+    "category": "stadiums"
+  },
+  {
+    "id": "q097",
+    "question": "Who is the youngest goalscorer in World Cup history?",
+    "options": ["Michael Owen", "Pelé", "Kylian Mbappé", "Lionel Messi"],
+    "correctIndex": 1,
+    "category": "records"
+  },
+  {
+    "id": "q098",
+    "question": "Which team is known as 'The Invincibles' for going unbeaten in a league season?",
+    "options": ["Manchester United 1999", "Arsenal 2004", "Chelsea 2005", "Liverpool 2020"],
+    "correctIndex": 1,
+    "category": "history"
+  },
+  {
+    "id": "q099",
+    "question": "What is the official size of a football (Size 5)?",
+    "options": ["68-70 cm circumference", "65-67 cm circumference", "70-72 cm circumference", "62-64 cm circumference"],
+    "correctIndex": 0,
+    "category": "basics"
+  },
+  {
+    "id": "q100",
+    "question": "Which manager has won the Champions League the most times?",
+    "options": ["Alex Ferguson", "Pep Guardiola", "Carlo Ancelotti", "José Mourinho"],
+    "correctIndex": 2,
+    "category": "managers"
+  }
+]

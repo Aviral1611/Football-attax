@@ -65,6 +65,13 @@ export default function Navbar() {
                     </Link>
 
                     <Link
+                        href="/quiz"
+                        className="text-gray-300 hover:text-white transition-colors font-medium text-sm md:text-base"
+                    >
+                        🧠 <span className="hidden sm:inline">Quiz</span>
+                    </Link>
+
+                    <Link
                         href="/inventory"
                         className="text-gray-300 hover:text-white transition-colors font-medium text-sm md:text-base"
                     >
