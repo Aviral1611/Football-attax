@@ -23,6 +23,8 @@ export default function QuizPage() {
 
 type QuizState = 'loading' | 'intro' | 'playing' | 'answered' | 'complete';
 
+const TIMER_SECONDS = 7;
+
 function QuizContent() {
     const { user } = useAuth();
     const [quizState, setQuizState] = useState<QuizState>('loading');
@@ -34,6 +36,8 @@ function QuizContent() {
     const [pointsEarned, setPointsEarned] = useState(0);
     const [totalPointsToday, setTotalPointsToday] = useState(0);
     const [loading, setLoading] = useState(false);
+    const [timeLeft, setTimeLeft] = useState(TIMER_SECONDS);
+    const [timedOut, setTimedOut] = useState(false);
 
     // Load quiz data on mount
     useEffect(() => {
@@ -63,6 +67,35 @@ function QuizContent() {
         loadQuizData();
     }, [user]);
 
+    // Timer countdown - only runs in 'playing' state
+    useEffect(() => {
+        if (quizState !== 'playing' || loading) return;
+
+        // Reset timer when entering playing state
+        setTimeLeft(TIMER_SECONDS);
+        setTimedOut(false);
+
+        const interval = setInterval(() => {
+            setTimeLeft(prev => {
+                if (prev <= 1) {
+                    clearInterval(interval);
+                    return 0;
+                }
+                return prev - 1;
+            });
+        }, 1000);
+
+        return () => clearInterval(interval);
+    }, [quizState, currentQuestion]);
+
+    // Handle timeout - auto-submit wrong answer
+    useEffect(() => {
+        if (timeLeft === 0 && quizState === 'playing' && !loading && currentQuestion) {
+            setTimedOut(true);
+            handleAnswer(-1); // -1 means timeout (wrong answer)
+        }
+    }, [timeLeft, quizState, loading, currentQuestion]);
+
     // Start the quiz
     const startQuiz = () => {
         if (unansweredQuestions.length > 0) {
@@ -70,6 +103,8 @@ function QuizContent() {
             setQuizState('playing');
             setSelectedAnswer(null);
             setIsCorrect(null);
+            setTimeLeft(TIMER_SECONDS);
+            setTimedOut(false);
         }
     };
 
@@ -113,6 +148,8 @@ function QuizContent() {
             setCurrentQuestion(unansweredQuestions[0]);
             setSelectedAnswer(null);
             setIsCorrect(null);
+            setTimeLeft(TIMER_SECONDS);
+            setTimedOut(false);
             setQuizState('playing');
         }
     };
@@ -172,11 +209,11 @@ function QuizContent() {
                                 </li>
                                 <li className="flex items-center gap-2">
                                     <span className="text-amber-400">2.</span>
-                                    Earn <span className="text-green-400 font-bold">{QUIZ_CONSTANTS.POINTS_PER_CORRECT} points</span> for each correct answer
+                                    <span className="text-red-400 font-bold">⏱️ {TIMER_SECONDS} seconds</span> per question - be quick!
                                 </li>
                                 <li className="flex items-center gap-2">
                                     <span className="text-amber-400">3.</span>
-                                    New questions every day at midnight UTC
+                                    Earn <span className="text-green-400 font-bold">{QUIZ_CONSTANTS.POINTS_PER_CORRECT} points</span> for each correct answer
                                 </li>
                                 <li className="flex items-center gap-2">
                                     <span className="text-amber-400">4.</span>
@@ -206,12 +243,29 @@ function QuizContent() {
                 {/* PLAYING STATE */}
                 {quizState === 'playing' && currentQuestion && (
                     <div className="py-8">
-                        {/* Progress bar */}
-                        <div className="flex justify-between items-center mb-6">
+                        {/* Header with timer */}
+                        <div className="flex justify-between items-center mb-4">
                             <span className="text-gray-400">Question {progress.completed + 1} of {progress.total}</span>
                             <span className="text-amber-400 font-bold">{totalPointsToday} pts</span>
                         </div>
-                        <div className="w-full bg-gray-700 rounded-full h-2 mb-8">
+
+                        {/* Timer bar */}
+                        <div className="relative mb-6">
+                            <div className="w-full bg-gray-700 rounded-full h-4 overflow-hidden">
+                                <div
+                                    className={`h-4 rounded-full transition-all duration-1000 ease-linear ${timeLeft <= 3 ? 'bg-gradient-to-r from-red-500 to-red-600' : 'bg-gradient-to-r from-green-500 to-emerald-600'
+                                        }`}
+                                    style={{ width: `${(timeLeft / TIMER_SECONDS) * 100}%` }}
+                                />
+                            </div>
+                            <div className={`absolute right-0 top-6 font-black text-2xl ${timeLeft <= 3 ? 'text-red-500 animate-pulse' : 'text-white'
+                                }`}>
+                                ⏱️ {timeLeft}s
+                            </div>
+                        </div>
+
+                        {/* Progress bar */}
+                        <div className="w-full bg-gray-700 rounded-full h-2 mb-8 mt-8">
                             <div
                                 className="bg-gradient-to-r from-amber-500 to-orange-600 h-2 rounded-full transition-all"
                                 style={{ width: `${((progress.completed + 1) / progress.total) * 100}%` }}
