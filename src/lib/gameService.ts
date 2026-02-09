@@ -18,7 +18,8 @@ import {
     StatType,
     GAME_CONSTANTS,
     generateGameCode,
-    GameStatus
+    GameStatus,
+    GameMode
 } from '@/types/gameTypes';
 import { Player } from '@/types/player';
 import { getAllPlayers } from './packOpening';
@@ -27,7 +28,7 @@ import { doc, updateDoc } from 'firebase/firestore';
 import { db } from './firebase';
 
 // Create a new game room
-export async function createGame(userId: string, displayName: string): Promise<{ gameId: string; code: string }> {
+export async function createGame(userId: string, displayName: string, gameMode: GameMode = 'classic'): Promise<{ gameId: string; code: string }> {
     const code = generateGameCode();
     const gameId = push(ref(rtdb, 'games')).key!;
 
@@ -36,6 +37,7 @@ export async function createGame(userId: string, displayName: string): Promise<{
         id: gameId,
         code,
         status: 'waiting',
+        gameMode,
         player1: {
             odId: userId,
             odisplayName: displayName,
@@ -64,6 +66,7 @@ export async function createGame(userId: string, displayName: string): Promise<{
 
     return { gameId, code };
 }
+
 
 // Join an existing game by code
 export async function joinGame(

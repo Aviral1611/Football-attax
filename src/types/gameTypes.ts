@@ -2,6 +2,9 @@
 
 import { Player } from './player';
 
+// Game mode types
+export type GameMode = 'classic' | 'draft';
+
 // Player state within a game
 export interface GamePlayer {
     odId: string;
@@ -29,6 +32,7 @@ export interface GameRoom {
     id: string;
     code: string;
     status: GameStatus;
+    gameMode: GameMode; // 'classic' = user picks cards, 'draft' = random cards
     player1: GamePlayer;
     player2: GamePlayer | null;
     currentRound: number;

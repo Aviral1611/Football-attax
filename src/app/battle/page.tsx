@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import ProtectedRoute from '@/components/ProtectedRoute';
 import { useAuth } from '@/context/AuthContext';
 import { createGame, joinGame } from '@/lib/gameService';
+import { GameMode } from '@/types/gameTypes';
 import Link from 'next/link';
 
 export default function BattlePage() {
@@ -19,6 +20,7 @@ function BattleContent() {
     const { user } = useAuth();
     const router = useRouter();
     const [mode, setMode] = useState<'menu' | 'create' | 'join'>('menu');
+    const [selectedGameMode, setSelectedGameMode] = useState<GameMode>('classic');
     const [gameCode, setGameCode] = useState('');
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState('');
@@ -31,7 +33,7 @@ function BattleContent() {
 
         try {
             const displayName = user.email?.split('@')[0] || 'Player';
-            const { gameId, code } = await createGame(user.uid, displayName);
+            const { gameId, code } = await createGame(user.uid, displayName, selectedGameMode);
             setCreatedCode(code);
             setMode('create');
 
@@ -69,9 +71,9 @@ function BattleContent() {
 
     return (
         <main className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900 p-8">
-            <div className="max-w-2xl mx-auto">
+            <div className="max-w-3xl mx-auto">
                 {/* Header */}
-                <div className="text-center mb-12">
+                <div className="text-center mb-8">
                     <h1 className="text-5xl font-black text-white mb-4">
                         ⚔️ Battle Arena
                     </h1>
@@ -80,13 +82,67 @@ function BattleContent() {
                     </p>
                 </div>
 
-                {/* Game Rules */}
+                {/* Mode Selection */}
+                <div className="mb-8">
+                    <h2 className="text-xl font-bold text-white mb-4 text-center">Choose Battle Mode</h2>
+                    <div className="grid md:grid-cols-2 gap-4">
+                        {/* Classic Mode */}
+                        <button
+                            onClick={() => setSelectedGameMode('classic')}
+                            className={`
+                                p-6 rounded-2xl border-2 transition-all text-left
+                                ${selectedGameMode === 'classic'
+                                    ? 'bg-gradient-to-br from-amber-500/20 to-orange-600/20 border-amber-500 shadow-lg shadow-amber-500/20'
+                                    : 'bg-gray-800/50 border-gray-700 hover:border-gray-500'}
+                            `}
+                        >
+                            <div className="flex items-center gap-3 mb-3">
+                                <span className="text-3xl">🎯</span>
+                                <h3 className="text-xl font-bold text-white">Classic Mode</h3>
+                            </div>
+                            <p className="text-gray-400 text-sm">
+                                Choose 7 cards from your collection. Strategy is key!
+                            </p>
+                            {selectedGameMode === 'classic' && (
+                                <div className="mt-3 text-amber-400 text-sm font-bold">✓ Selected</div>
+                            )}
+                        </button>
+
+                        {/* Draft Mode */}
+                        <button
+                            onClick={() => setSelectedGameMode('draft')}
+                            className={`
+                                p-6 rounded-2xl border-2 transition-all text-left
+                                ${selectedGameMode === 'draft'
+                                    ? 'bg-gradient-to-br from-purple-500/20 to-pink-600/20 border-purple-500 shadow-lg shadow-purple-500/20'
+                                    : 'bg-gray-800/50 border-gray-700 hover:border-gray-500'}
+                            `}
+                        >
+                            <div className="flex items-center gap-3 mb-3">
+                                <span className="text-3xl">🎲</span>
+                                <h3 className="text-xl font-bold text-white">Draft Mode</h3>
+                            </div>
+                            <p className="text-gray-400 text-sm">
+                                7 random cards are assigned. Pure luck and skill!
+                            </p>
+                            {selectedGameMode === 'draft' && (
+                                <div className="mt-3 text-purple-400 text-sm font-bold">✓ Selected</div>
+                            )}
+                        </button>
+                    </div>
+                </div>
+
+                {/* Game Rules based on mode */}
                 <div className="bg-gray-800/50 rounded-2xl border border-gray-700 p-6 mb-8">
-                    <h2 className="text-xl font-bold text-white mb-4">📋 How to Play</h2>
+                    <h2 className="text-xl font-bold text-white mb-4">
+                        📋 {selectedGameMode === 'classic' ? 'Classic' : 'Draft'} Mode Rules
+                    </h2>
                     <ul className="space-y-2 text-gray-300">
                         <li className="flex items-center gap-2">
                             <span className="text-amber-400">1.</span>
-                            Each player selects 7 cards from their collection
+                            {selectedGameMode === 'classic'
+                                ? 'Each player selects 7 cards from their collection'
+                                : '7 random cards are assigned to each player'}
                         </li>
                         <li className="flex items-center gap-2">
                             <span className="text-amber-400">2.</span>
@@ -114,17 +170,21 @@ function BattleContent() {
                         onClick={handleCreateGame}
                         disabled={loading}
                         className={`
-                            bg-gradient-to-r from-green-500 to-emerald-600
+                            ${selectedGameMode === 'classic'
+                                ? 'bg-gradient-to-r from-green-500 to-emerald-600 border-green-400/50 hover:shadow-green-500/30'
+                                : 'bg-gradient-to-r from-purple-500 to-pink-600 border-purple-400/50 hover:shadow-purple-500/30'}
                             rounded-2xl p-8 text-center
-                            border-2 border-green-400/50
-                            hover:scale-105 hover:shadow-2xl hover:shadow-green-500/30
+                            border-2
+                            hover:scale-105 hover:shadow-2xl
                             transition-all duration-300
                             ${loading ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer'}
                         `}
                     >
-                        <div className="text-5xl mb-4">🎮</div>
-                        <h3 className="text-2xl font-bold text-white mb-2">Create Game</h3>
-                        <p className="text-green-100/80">
+                        <div className="text-5xl mb-4">{selectedGameMode === 'classic' ? '🎮' : '🎲'}</div>
+                        <h3 className="text-2xl font-bold text-white mb-2">
+                            Create {selectedGameMode === 'classic' ? 'Classic' : 'Draft'} Game
+                        </h3>
+                        <p className="text-white/80">
                             Start a new battle and invite a friend
                         </p>
                     </button>
@@ -179,3 +239,4 @@ function BattleContent() {
         </main>
     );
 }
+
